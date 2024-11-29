@@ -1,0 +1,1066 @@
+{
+    "defaultLanguage": "en",
+    "imageURL": "https://kydo.ch",
+    "domain": "kydo.ch",
+    "address": "Chutzenstrasse 20, 3007 Bern, Switzerland",
+    "companyName": "Eutima AG",
+    "uidNumber": "CHE-238.970.793",
+    "githubLink": "https://github.com/Eutima",
+    "twitterLink": "https://x.com/EutimaAG",
+    "linkedinLink": "https://www.linkedin.com/company/eutima-ag",
+    "telephoneNumber": "+41 31 511 19 44",
+    "i18n": {
+        "de": {
+            "languageKey": "de",
+            "keywords": "kydo software anwendung ingenieurwesen programmierung entwicklung startup schweiz CH",
+            "description": "Wir liefern sichere, stabile Lösungen, um Innovation und Digitalisierung für kleine und mittelständische Unternehmen voranzutreiben. Unsere maßgeschneiderten Lösungen sind auf die einzigartigen Bedürfnisse jedes Unternehmens zugeschnitten.",
+            "ogTitle": "Innovative Softwarelösungen",
+            "ogDescription": "ein führendes Softwareunternehmen in der Schweiz, spezialisiert auf innovative Softwareentwicklung und Ingenieurlösungen.",
+            "title": "Eutima",
+            "home": "Startseite",
+            "useCases": "Use-Cases",
+            "testimonials": "Testimonials",
+            "functions": "Funktionen",
+            "pricing": "Pricing",
+            "servicesKey": "Features",
+            "projectsKey": "Usecases",
+            "employeesAquarium": "Mitarbeiter-Aquarium",
+            "with": "with",
+            "passion": "Passion",
+            "and": "and",
+            "creativity": "Creativity",
+            "mainProjects": "Hauptprojekte",
+            "mainProjectsDescription": "Erkunde unsere bahnbrechenden Projekte, die Fortschritt und Innovation vorantreiben.",
+            "indicatorsTitle": "Ein paar Indikatoren zu unserem Unternehmen und dessen Wachstum!",
+            "cupsOfCoffee": "Tassen Kaffee",
+            "clients": "Kunden",
+            "finishedProjects": "Abgeschlossene Projekte",
+            "employeesAquarium1": "Wir haben die Qualle als Firmenlogo gewählt, weil all ihre filigranen, sich sanft und harmonisch bewegenden Tentakeln an alle Verbindungen in der digitalen Welt erinnern und wie wir sie verwalten wollen: sanft und harmonisch.",
+            "employeesAquarium2": "Aus diesem Konzept entstand der Name unseres Unternehmens: Eutima. Dieser Name bezieht sich auf eine Quallengattung, die für ihre Transparenz und schlanken Tentakeln bekannt ist.",
+            "employeesAquarium3": "Aus diesem Grund ist die Qualle oft in unserem Ökosystem präsent und auch der Grund, warum du unsere Mitarbeiter durch unser Mitarbeiter-Aquarium entdecken kannst!",
+            "employeesAquarium4": "Zögere nicht, auf uns zu klicken, uns zu ziehen oder unsere Fäden zu bewegen!",
+            "goToAquarium": "GEHE ZU UNSEREM AQUARIUM!",
+            "employeesAquariumTail": "Wenn du Teil des Eutima-Schwarms werden möchtest, zögere nicht, uns zu kontaktieren.",
+            "features": [
+                {
+                    "title": "Keep Your Data Organized",
+                    "description": "Speichern, verwalten und teilen Sie Ihre wichtigsten Dokumente auf intuitive und einfache Art und Weise. KYDO passt sich an Sie an und verbindet sich mit Ihren vorhandenen Geräten und Anwendungen, so dass Sie Ihre Prozesse nahtlos automatisieren können. Beschleunigen Sie Ihre Arbeitsabläufe und bringen Sie sie auf einfachem Wege ins 21. Jahrhundert.."
+                },
+                {
+                    "title": "Individuelle Softwareentwicklung",
+                    "description": "Unser Team entwickelt massgeschneiderte Softwarelösungen, um deinen Geschäftserfolg zu fördern."
+                },
+                {
+                    "title": "CI/CD",
+                    "description": "Wir implementieren Continuous Integration and Continuous Delivery, um deinen Entwicklungsprozess zu optimieren."
+                },
+                {
+                    "title": "Beratung",
+                    "description": "Unsere Experten bieten professionelle Beratungsdienste an, um deine IT-Strategien zu optimieren."
+                },
+                {
+                    "title": "Support",
+                    "description": "Wir bieten zuverlässige Support-Dienste, um den reibungslosen Betrieb deiner Software zu gewährleisten."
+                },
+                {
+                    "title": "Hosting von Apps und Services",
+                    "description": "Wir bieten sichere und zuverlässige Hosting-Services für deine Apps und Services, mit Rechenzentren in der Schweiz."
+                },
+                {
+                    "title": "End to End Software Delivery",
+                    "description": "Du kannst einen einzelnen Service auswählen oder uns den gesamten Softwarelieferzyklus von der Konzeption bis zur Bereitstellung und Wartung verwalten lassen."
+                }
+            ],
+            "projects": [
+                {
+                    "title": "KYDO",
+                    "description": "KYDO revolutioniert das Dokumentenmanagement mit sicherer Speicherung, einfachem Teilen und nahtloser Integration. Greife jederzeit und überall auf deine Daten zu, die Verschlüsselung sorgt für Sicherheit. KYDO passt sich deinem Workflow an und macht die Dokumentenverwaltung mühelos.",
+                    "slogan": "KEEP YOUR DATA ORGANIZED",
+                    "url": "https://kydo.ch",
+                    "imageURL": "/images/KYDO-Logo-square.png"
+                },
+                {
+                    "title": "PINIT",
+                    "description": "Bleibe organisiert mit PINIT! Lade Dokumente einfach per Drag & Drop, Scan-App oder E-Mail hoch. Integriere dein POS-System für die automatische Erfassung von Einnahmen und Zahlungen. Automatisiere dein Kassenbuch, spare Zeit und reduziere Fehler, damit du dich auf dein Geschäft konzentrieren kannst.",
+                    "slogan": "GASTROBUCHHALTUNG EINFACH ERLEDIGT",
+                    "url": "https://pinit.ch",
+                    "imageURL": "/images/PINIT_black_logo-square.png"
+                },
+                {
+                    "title": "Smart Ride",
+                    "description": "Unsere Web-App optimiert Routen und sorgt für pünktliche Abholungen und Ablieferungen von Transporten. Sie bietet Echtzeit-Updates, reduziert die Reisezeit und erhöht die Sicherheit. Konzentriere dich auf das Kerngeschäft deines Unternehmens, während unsere Technologie die Logistik übernimmt.",
+                    "slogan": "PLANEN, INFORMIEREN, FAHREN!",
+                    "url": "",
+                    "imageURL": "/images/smart-ride.jpg"
+                },
+                {
+                    "title": "Swissbilanz",
+                    "description": "Die Beschreibung folgt in Kürze.",
+                    "slogan": "BALD VERFÜGBAR",
+                    "url": "",
+                    "imageURL": "/images/Swissbilanz.png"
+                },
+                {
+                    "title": "Open for everything!",
+                    "description": "Es ist unnötig, alle kleinen Projekte aufzulisten, die für die spezifischen Bedürfnisse unserer Kunden entwickelt wurden. Quantität ist nicht unser Ziel, Qualität schon! Sei dir einfach bewusst, dass wir bereit sind, spezifische Lösungen für deine Bedürfnisse zu entwickeln!",
+                    "slogan": "QUALITÄT ÜBER QUANTITÄT IST DER WEG",
+                    "url": "",
+                    "imageURL": "/images/minor-projects.jpg"
+                }
+            ],
+            "employees": {
+                "unknown": {
+                    "name": "Unbekannte Qualle",
+                    "description": "Diese Quallenart kennen wir noch nicht, aber wir freuen uns darauf, sie in unserem Aquarium willkommen zu heissen!"
+                },
+                "ldl": {
+                    "name": "Luca De Laurentiis",
+                    "description": "Diese Qualle ähnelt einer arktischen Kreatur mit ihren widerstandsfähigen Tentakeln und ihrem durchscheinenden Glanz, doch überrascht sie Wissenschaftler, da sie nicht aus dem kalten Norden, sondern aus den warmen Strömungen des Südens der Schweiz und sogar Europas stammt.",
+                    "properties": [
+                        {
+                            "key1": "Familie",
+                            "value1": "Analytius Quantus",
+                            "key2": "Funktion",
+                            "value2": "Software-Ingenieur"
+                        },
+                        {
+                            "key1": "Gruppe",
+                            "value1": "Mitbegründer",
+                            "key2": "Level",
+                            "value2": "Mittel"
+                        },
+                        {
+                            "key1": "Erfahrung",
+                            "value1": "4 Jahre",
+                            "key2": "Bildung",
+                            "value2": "Bachelor of Science"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.85,
+                            "key2": "Management",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "Englisch",
+                            "value1": 0.3,
+                            "key2": "Deutsch",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "Französisch",
+                            "value1": 0.95,
+                            "key2": "Italienisch",
+                            "value2": 1
+                        }
+                    ]
+                },
+                "azu": {
+                    "name": "Adrian Zurbruegg",
+                    "description": "Die durchscheinende Schönheit dieser Quallenart wird nur von ihrer Seltenheit übertroffen, da sie in den unerforschten Tiefen der Schweiz bekannt ist.",
+                    "properties": [
+                        {
+                            "key1": "Familie",
+                            "value1": "Assistus Guardianus",
+                            "key2": "Funktion",
+                            "value2": "Software-Ingenieur"
+                        },
+                        {
+                            "key1": "Gruppe",
+                            "value1": "Mitbegründer",
+                            "key2": "Level",
+                            "value2": "Mittel"
+                        },
+                        {
+                            "key1": "Erfahrung",
+                            "value1": "5 Jahre",
+                            "key2": "Bildung",
+                            "value2": "Bislang unbekannt"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.75,
+                            "key2": "Management",
+                            "value2": 0.8
+                        },
+                        {
+                            "key1": "Englisch",
+                            "value1": 0.7,
+                            "key2": "Deutsch",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "Französisch",
+                            "value1": 0.1,
+                            "key2": "Italienisch",
+                            "value2": 0.1
+                        }
+                    ]
+                },
+                "rma": {
+                    "name": "Roy Manigley",
+                    "description": "Wissenschaftler staunen über das schillernde Leuchten dieser Quallenart, die nur in den unberührten Gewässern eines unberührten Flusses in der Schweiz vorkommt.",
+                    "properties": [
+                        {
+                            "key1": "Familie",
+                            "value1": "Codeus Maximus",
+                            "key2": "Funktion",
+                            "value2": "Software-Ingenieur"
+                        },
+                        {
+                            "key1": "Gruppe",
+                            "value1": "Mitbegründer",
+                            "key2": "Level",
+                            "value2": "Senior"
+                        },
+                        {
+                            "key1": "Erfahrung",
+                            "value1": "10 Jahre",
+                            "key2": "Bildung",
+                            "value2": "Bislang unbekannt"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.9,
+                            "key2": "Management",
+                            "value2": 0.5
+                        },
+                        {
+                            "key1": "Englisch",
+                            "value1": 0.8,
+                            "key2": "Deutsch",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "Französisch",
+                            "value1": 0.7,
+                            "key2": "Italienisch",
+                            "value2": 0.2
+                        }
+                    ]
+                }
+            },
+            "mission": "Wir streben danach, eine Benchmark im Datenmanagement zu sein, indem wir stabile und sichere digitale Lösungen bieten, um diese komplexe digitale Welt zu vereinfachen.",
+            "ourAddress": "Unsere Adresse",
+            "connectWithUs": "Verbinden Sie sich mit uns",
+            "imprint": "Impressum",
+            "address": "Adresse",
+            "contact": "Kontakt",
+            "uidNumber": "UID-Nummer",
+            "termsOfUse": "Nutzungsbedingungen",
+            "termsOfUseText": "Die Inhalte der Website werden laufend aktualisiert. Eutima AG kann keine Garantie für die Vollständigkeit und Richtigkeit der dargestellten und übermittelten Informationen übernehmen. Eutima AG übernimmt keine Haftung für Schäden oder Folgeschäden, die sich aus der Nutzung von Informationen und Material von Eutima AG oder dem Zugriff über Links auf andere Websites ergeben.",
+            "allRightsReserved": "Alle Rechte vorbehalten.",
+            "designedBy": "Entworfen von"
+        },
+        "fr": {
+            "languageKey": "fr",
+            "keywords": "kydo logiciel application ingénierie programmation développement startup suisse CH",
+            "description": "Nous fournissons des solutions sécurisées et stables pour favoriser l'innovation et la digitalisation des petites et moyennes entreprises. Nos solutions personnalisées sont adaptées aux besoins uniques de chaque entreprise.",
+            "ogTitle": "Innovative Software Solutions",
+            "ogDescription": "une entreprise de logiciels leader en Suisse, spécialisée dans le développement et les solutions d'ingénierie logicielle innovantes.",
+            "title": "Eutima",
+            "home": "Accueil",
+            "useCases": "Use-Cases",
+            "testimonials": "Testimonials",
+            "functions": "Funktionen",
+            "pricing": "pric",
+            "servicesKey": "Services",
+            "projectsKey": "Projets",
+            "employeesAquarium": "Aquarium des employés",
+            "with": "with",
+            "passion": "Passion",
+            "and": "and",
+            "creativity": "Creativity",
+            "mainProjects": "Projets principaux",
+            "mainProjectsDescription": "Découvrez nos projets de pointe, conçus pour promouvoir le progrès et l'innovation.",
+            "indicatorsTitle": "Quelques indicateurs concernant notre entreprise et sa croissance !",
+            "cupsOfCoffee": "Tasses de café",
+            "clients": "Clients",
+            "finishedProjects": "Projets terminés",
+            "employeesAquarium1": "Nous avons choisi la méduse comme logo de notre entreprise parce que tous ses filaments, qui se déplacent de façon délicate et harmonieuse, rappellent toutes les connexions du monde numérique et la manière dont nous voulons les gérer : c'est-à-dire de façon délicate et harmonieuse.",
+            "employeesAquarium2": "C'est de ce concept que vient le nom de notre entreprise : Eutima. Ce nom fait référence à un genre de méduse, connu pour sa transparence et ses tentacules élancés.",
+            "employeesAquarium3": "C'est la raison pour laquelle la méduse est souvent présente dans notre écosystème et aussi la raison pour laquelle vous pouvez découvrir nos employés à travers notre aquarium des employés.",
+            "employeesAquarium4": "N'hésitez pas à cliquer sur nous, à nous faire glisser ou à tirer nos filaments !",
+            "goToAquarium": "ALLEZ À NOTRE AQUARIUM !",
+            "employeesAquariumTail": "Si vous souhaitez faire partie du banc d'Eutima, n'hésitez pas à nous contacter.",
+            "services": {
+                "requirementsEngineering": {
+                    "title": "Requirements Engineering",
+                    "description": "Nous recueillons et analysons minutieusement les exigences pour garantir le succès de votre projet."
+                },
+                "softwareDev": {
+                    "title": "Développement de logiciels sur mesure",
+                    "description": "Notre équipe développe des solutions logicielles sur mesure pour promouvoir le succès de votre entreprise."
+                },
+                "CICD": {
+                    "title": "CI/CD",
+                    "description": "Nous appliquons le principe de continuous integration and continuous delivery pour améliorer votre processus de développement."
+                },
+                "consulting": {
+                    "title": "Consultation",
+                    "description": "Nos experts fournissent des services de consultation professionnels pour optimiser vos stratégies informatiques."
+                },
+                "support": {
+                    "title": "Support",
+                    "description": "Nous offrons des services de support fiables pour assurer le bon fonctionnement de vos logiciels."
+                },
+                "hosting": {
+                    "title": "Hébergement d'applications et de services",
+                    "description": "Nous fournissons des services d'hébergement sécurisés et fiables pour vos applications et services, avec des centres de données situés en Suisse."
+                },
+                "e2e": {
+                    "title": "End to End Software Delivery",
+                    "description": "Vous pouvez choisir un service unique ou nous laisser gérer l'ensemble du cycle de vie de la livraison de logiciels, de la conception à la mise en œuvre et à la maintenance."
+                }
+            },
+            "projects": [
+                {
+                    "title": "KYDO",
+                    "description": "KYDO révolutionne la gestion des documents avec un stockage sécurisé, un partage facile et une intégration transparente. Accédez à vos données à tout moment et en tout lieu, avec un cryptage assurant la sécurité. KYDO s'adapte à votre flux de travail, rendant la gestion sans effort. Les données sont stockées en Suisse.",
+                    "slogan": "KEEP YOUR DATA ORGANIZED",
+                    "url": "https://kydo.ch",
+                    "imageURL": "/images/KYDO-Logo-square.png"
+                },
+                {
+                    "title": "PINIT",
+                    "description": "Restez organisé avec PINIT ! Téléchargez des documents via Drag & Drop, application de numérisation ou e-mail. Traitez rapidement les reçus. Intégrez votre POS pour enregistrer automatiquement revenus et paiements. Automatisez le livre de caisse pour gagner du temps et vous concentrer sur votre entreprise.",
+                    "slogan": "COMPTABILITÉ ET GASTRONOMIE",
+                    "url": "https://pinit.ch",
+                    "imageURL": "/images/PINIT_black_logo-square.png"
+                },
+                {
+                    "title": "Smart Ride",
+                    "description": "\nNotre application web optimise les itinéraires et assure des prises en charge et des livraisons ponctuelles pour les transports. Elle offre des mises à jour en temps réel, réduit le temps de trajet et améliore la sécurité. Concentrez-vous sur le cœur de votre activité pendant que notre technologie gère la logistique.",
+                    "slogan": "PLANIFIER, INFORMER, CONDUIRE !",
+                    "url": "",
+                    "imageURL": "/images/smart-ride.jpg"
+                },
+                {
+                    "title": "Swissbilanz",
+                    "description": "La description sera bientôt disponible.",
+                    "slogan": "BIENTÔT DISPONIBLE",
+                    "url": "",
+                    "imageURL": "/images/Swissbilanz.png"
+                },
+                {
+                    "title": "Open for everything!",
+                    "description": "Inutile de lister tous les petits projets développés pour les besoins spécifiques de nos clients. La quantité n'est pas notre objectif, la qualité l'est ! Sachez simplement que nous sommes ouverts à développer des solutions spécifiques à vos besoins !",
+                    "slogan": "LA QUALITÉ AVANT LA QUANTITÉ",
+                    "url": "",
+                    "imageURL": "/images/minor-projects.jpg"
+                }
+            ],
+            "employees": {
+                "unknown": {
+                    "name": "Méduse inconnue",
+                    "description": "Nous ne connaissons pas encore cette espèce de méduse, mais nous avons hâte de l'accueillir dans notre aquarium !"
+                },
+                "ldl": {
+                    "name": "Luca De Laurentiis",
+                    "description": "Ressemblant à une créature arctique avec ses tentacules résilients et son éclat translucide, cette méduse surprend les scientifiques car elle ne vient pas du nord glacial, mais des courants chauds du sud de la Suisse et de l'Europe.",
+                    "properties": [
+                        {
+                            "key1": "Famille",
+                            "value1": "Analytius Quantus",
+                            "key2": "Fonction",
+                            "value2": "Ingénieur logiciel"
+                        },
+                        {
+                            "key1": "Groupe",
+                            "value1": "Co-fondateur",
+                            "key2": "Niveau",
+                            "value2": "Intermédiaire"
+                        },
+                        {
+                            "key1": "Expérience",
+                            "value1": "4 ans",
+                            "key2": "Éducation",
+                            "value2": "Bachelor of Science"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.85,
+                            "key2": "Gestion",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "Anglais",
+                            "value1": 0.3,
+                            "key2": "Allemand",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "Français",
+                            "value1": 0.95,
+                            "key2": "Italien",
+                            "value2": 1
+                        }
+                    ]
+                },
+                "azu": {
+                    "name": "Adrian Zurbruegg",
+                    "description": "La beauté translucide de cette espèce de méduse n'a d'égale que sa rareté, connue pour habiter les profondeurs inexplorées de la Suisse.",
+                    "properties": [
+                        {
+                            "key1": "Famille",
+                            "value1": "Assistus Guardianus",
+                            "key2": "Fonction",
+                            "value2": "Ingénieur logiciel"
+                        },
+                        {
+                            "key1": "Groupe",
+                            "value1": "Co-fondateur",
+                            "key2": "Niveau",
+                            "value2": "Intermédiaire"
+                        },
+                        {
+                            "key1": "Expérience",
+                            "value1": "5 ans",
+                            "key2": "Éducation",
+                            "value2": "Encore inconnue"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.75,
+                            "key2": "Gestion",
+                            "value2": 0.8
+                        },
+                        {
+                            "key1": "Anglais",
+                            "value1": 0.7,
+                            "key2": "Allemand",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "Français",
+                            "value1": 0.1,
+                            "key2": "Italien",
+                            "value2": 0.1
+                        }
+                    ]
+                },
+                "rma": {
+                    "name": "Roy Manigley",
+                    "description": "Les scientifiques ont été émerveillés par la lueur iridescente de cette espèce de méduse, que l'on ne trouve que dans les eaux pures d'une rivière intacte en Suisse.",
+                    "properties": [
+                        {
+                            "key1": "Famille",
+                            "value1": "Codeus Maximus",
+                            "key2": "Fonction",
+                            "value2": "Ingénieur logiciel"
+                        },
+                        {
+                            "key1": "Groupe",
+                            "value1": "Co-fondateur",
+                            "key2": "Niveau",
+                            "value2": "Senior"
+                        },
+                        {
+                            "key1": "Expérience",
+                            "value1": "10 ans",
+                            "key2": "Éducation",
+                            "value2": "Encore inconnue"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.9,
+                            "key2": "Gestion",
+                            "value2": 0.5
+                        },
+                        {
+                            "key1": "Anglais",
+                            "value1": 0.8,
+                            "key2": "Allemand",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "Français",
+                            "value1": 0.7,
+                            "key2": "Italien",
+                            "value2": 0.2
+                        }
+                    ]
+                }
+            },
+            "mission": "Nous visons à être une référence en gestion des données, en fournissant des solutions numériques stables et sécurisées pour simplifier ce monde numérique aussi complexe.",
+            "ourAddress": "Notre adresse",
+            "connectWithUs": "Connectez-vous avec nous",
+            "imprint": "Mentions légales",
+            "address": "Adresse",
+            "contact": "Contact",
+            "uidNumber": "Numéro UID",
+            "termsOfUse": "Conditions d'utilisation",
+            "termsOfUseText": "Le contenu du site web est continuellement mis à jour. Eutima AG ne peut garantir l'exhaustivité et l'exactitude des informations présentées et transmises. Eutima AG décline toute responsabilité pour tout dommage ou dommage consécutif résultant de l'utilisation des informations et du matériel de Eutima AG ou de l'accès via des liens vers d'autres sites web.",
+            "allRightsReserved": "Tous droits réservés.",
+            "designedBy": "Conçu par"
+        },
+        "it": {
+            "languageKey": "it",
+            "keywords": "kydo software applicazione ingegneria programmazione sviluppo startup svizzera CH",
+            "description": "Forniamo soluzioni sicure e stabili per promuovere l'innovazione e la digitalizzazione per le piccole e medie imprese. Le nostre soluzioni personalizzate sono progettate per soddisfare le esigenze uniche di ciascuna azienda.",
+            "ogTitle": "Soluzioni Software Innovative",
+            "ogDescription": "una delle principali aziende di software in Svizzera, specializzata in soluzioni di sviluppo e ingegneria software innovative.",
+            "title": "Eutima",
+            "home": "Home",
+            "useCases": "Use-Cases",
+            "testimonials": "Testimonials",
+            "functions": "Funktionen",
+            "pricing": "Pricing",
+            "servicesKey": "Servizi",
+            "projectsKey": "Progetti",
+            "employeesAquarium": "Acquario dei dipendenti",
+            "with": "with",
+            "passion": "Passion",
+            "and": "and",
+            "creativity": "Creativity",
+            "mainProjects": "Progetti principali",
+            "mainProjectsDescription": "Esplora i nostri progetti all'avanguardia, progettati per promuovere il progresso e l'innovazione.",
+            "indicatorsTitle": "Solo un paio di indicatori riguardanti la nostra azienda e la sua crescita!",
+            "cupsOfCoffee": "Tazze di caffè",
+            "clients": "Clienti",
+            "finishedProjects": "Progetti completati",
+            "employeesAquarium1": "Abbiamo scelto la medusa come logo della nostra azienda perché tutti i suoi filamenti, che si muovono in maniera delicata ed armoniosa, ricordano tutte le connessioni nel mondo digitale e il modo in cui noi vogliamo gestirle: ovvero, in maniera delicata ed armoniosa.",
+            "employeesAquarium2": "Da questo concetto nasce il nome della nostra azienda: Eutima, il quale si riferisce a un genere di meduse, noto per la sua trasparenza e i suoi tentacoli slanciati.",
+            "employeesAquarium3": "Questo è il motivo per cui la medusa è spesso presente nel nostro ecosistema e anche il motivo per cui puoi incontrare i nostri dipendenti attraverso il nostro acquario dei dipendenti.",
+            "employeesAquarium4": "Non esitare a cliccarre sulle meduse, trascinarle o tirare i loro filamenti!",
+            "goToAquarium": "VAI AL NOSTRO ACQUARIO!",
+            "employeesAquariumTail": "Se vuoi far parte del banco di Eutima, non esitare a contattarci.",
+            "services": {
+                "requirementsEngineering": {
+                    "title": "Requirements Engineering",
+                    "description": "Raccogliamo e analizziamo meticolosamente i requisiti per garantire il successo del tuo progetto."
+                },
+                "softwareDev": {
+                    "title": "Sviluppo di software personalizzato",
+                    "description": "Il nostro team sviluppa soluzioni software su misura per promuovere il successo della tua azienda."
+                },
+                "CICD": {
+                    "title": "CI/CD",
+                    "description": "Implementiamo continuous integration e continuous delivery per migliorare il tuo processo di sviluppo."
+                },
+                "consulting": {
+                    "title": "Consulenza",
+                    "description": "I nostri esperti forniscono servizi di consulenza professionale per ottimizzare le tue strategie IT."
+                },
+                "support": {
+                    "title": "Supporto",
+                    "description": "Offriamo servizi di supporto affidabili per garantire il buon funzionamento del tuo software."
+                },
+                "hosting": {
+                    "title": "Hosting di app e servizi",
+                    "description": "Forniamo servizi di hosting sicuri e affidabili per le tue app e servizi, con data center situati in Svizzera."
+                },
+                "e2e": {
+                    "title": "End to End Software Delivery",
+                    "description": "Puoi scegliere un singolo servizio o lasciare a noi la gestione dell'intero ciclo di vita della consegna del software, dalla progettazione all'implementazione e alla manutenzione."
+                }
+            },
+            "projects": [
+                {
+                    "title": "KYDO",
+                    "description": "KYDO rivoluziona la gestione dei documenti con uno storage sicuro e una facile condivisione. Accedi ai tuoi dati crittografati in qualsiasi momento e ovunque. KYDO si adatta al tuo flusso di lavoro, rendendo la gestione dei documenti senza sforzo. I dati sono archiviati in modo sicuro e in Svizzera.",
+                    "slogan": "KEEP YOUR DATA ORGANIZED",
+                    "url": "https://kydo.ch",
+                    "imageURL": "/images/KYDO-Logo-square.png"
+                },
+                {
+                    "title": "PINIT",
+                    "description": "Rimani organizzato con PINIT! Carica documenti tramite Drag & Drop, app di scansione o e-mail. Elabora e approva rapidamente le ricevute. Integra il tuo POS per registrare automaticamente entrate e pagamenti. Automatizza il libro cassa per risparmiare tempo e ridurre errori, così puoi concentrarti sulla tua attività.",
+                    "slogan": "RISTORAZIONE E CONTABILITÀ",
+                    "url": "https://pinit.ch",
+                    "imageURL": "/images/PINIT_black_logo-square.png"
+                },
+                {
+                    "title": "Smart Ride",
+                    "description": "La nostra web app ottimizza i percorsi e garantisce ritiri e consegne puntuali per i trasporti. Fornisce aggiornamenti in tempo reale, riduce il tempo di viaggio e aumenta la sicurezza. Concentrati sul core business della tua azienda mentre la nostra tecnologia gestisce la logistica.",
+                    "slogan": "PIANIFICARE, INFORMARE, GUIDARE!",
+                    "url": "",
+                    "imageURL": "/images/smart-ride.jpg"
+                },
+                {
+                    "title": "Swissbilanz",
+                    "description": "La descrizione sarà presto disponibile.",
+                    "slogan": "PROSSIMAMENTE",
+                    "url": "",
+                    "imageURL": "/images/Swissbilanz.png"
+                },
+                {
+                    "title": "Open for everything!",
+                    "description": "Non è necessario elencare tutti i piccoli progetti sviluppati per le esigenze specifiche dei nostri clienti. La quantità non è il nostro obiettivo, la qualità lo è! Ti basta sapere che siamo aperti a sviluppare soluzioni specifiche per le tue esigenze!",
+                    "slogan": "QUALITÀ PRIMA DELLA QUANTITÀ",
+                    "url": "",
+                    "imageURL": "/images/minor-projects.jpg"
+                }
+            ],
+            "employees": {
+                "unknown": {
+                    "name": "Medusa sconosciuta",
+                    "description": "Non conosciamo ancora questa specie di medusa, ma non vediamo l'ora di accoglierla nel nostro acquario!"
+                },
+                "ldl": {
+                    "name": "Luca De Laurentiis",
+                    "description": "Simile a una creatura artica con i suoi tentacoli resilienti e il suo bagliore traslucido, questa medusa sorprende gli scienziati perché non proviene dal freddo nord, ma dalle calde correnti del sud della Svizzera e dell'Europa.",
+                    "properties": [
+                        {
+                            "key1": "Famiglia",
+                            "value1": "Analytius Quantus",
+                            "key2": "Funzione",
+                            "value2": "Ingegnere software"
+                        },
+                        {
+                            "key1": "Gruppo",
+                            "value1": "Co-fondatore",
+                            "key2": "Livello",
+                            "value2": "Intermedio"
+                        },
+                        {
+                            "key1": "Esperienza",
+                            "value1": "4 anni",
+                            "key2": "Istruzione",
+                            "value2": "Bachelor of Science"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.85,
+                            "key2": "Management",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "Inglese",
+                            "value1": 0.3,
+                            "key2": "Tedesco",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "Francese",
+                            "value1": 0.95,
+                            "key2": "Italiano",
+                            "value2": 1
+                        }
+                    ]
+                },
+                "azu": {
+                    "name": "Adrian Zurbruegg",
+                    "description": "La bellezza traslucida di questa specie di medusa è eguagliata solo dalla sua rarità, nota per abitare le profondità inesplorate della Svizzera.",
+                    "properties": [
+                        {
+                            "key1": "Famiglia",
+                            "value1": "Assistus Guardianus",
+                            "key2": "Funzione",
+                            "value2": "Ingegnere software"
+                        },
+                        {
+                            "key1": "Gruppo",
+                            "value1": "Co-fondatore",
+                            "key2": "Livello",
+                            "value2": "Intermedio"
+                        },
+                        {
+                            "key1": "Esperienza",
+                            "value1": "5 anni",
+                            "key2": "Istruzione",
+                            "value2": "Ancora sconosciuta"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.75,
+                            "key2": "Management",
+                            "value2": 0.8
+                        },
+                        {
+                            "key1": "Inglese",
+                            "value1": 0.7,
+                            "key2": "Tedesco",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "Francese",
+                            "value1": 0.1,
+                            "key2": "Italiano",
+                            "value2": 0.1
+                        }
+                    ]
+                },
+                "rma": {
+                    "name": "Roy Manigley",
+                    "description": "Gli scienziati sono stati stupiti dal bagliore iridescente di questa specie di medusa, che si trova solo nelle acque incontaminate di un fiume incontaminato in Svizzera.",
+                    "properties": [
+                        {
+                            "key1": "Famiglia",
+                            "value1": "Codeus Maximus",
+                            "key2": "Funzione",
+                            "value2": "Ingegnere software"
+                        },
+                        {
+                            "key1": "Gruppo",
+                            "value1": "Co-fondatore",
+                            "key2": "Livello",
+                            "value2": "Senior"
+                        },
+                        {
+                            "key1": "Esperienza",
+                            "value1": "10 anni",
+                            "key2": "Istruzione",
+                            "value2": "Ancora sconosciuta"
+                        },
+                        {
+                            "key1": "Coding power",
+                            "value1": 0.9,
+                            "key2": "Management",
+                            "value2": 0.5
+                        },
+                        {
+                            "key1": "Inglese",
+                            "value1": 0.8,
+                            "key2": "Tedesco",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "Francese",
+                            "value1": 0.7,
+                            "key2": "Italiano",
+                            "value2": 0.2
+                        }
+                    ]
+                }
+            },
+            "mission": "Miriamo ad essere un punto di riferimento nella gestione dei dati, fornendo soluzioni digitali stabili e sicure per semplificare questo complesso mondo digitale.",
+            "ourAddress": "Il nostro indirizzo",
+            "connectWithUs": "Connettiti con noi",
+            "imprint": "Menzioni legali",
+            "address": "Indirizzo",
+            "contact": "Contatto",
+            "uidNumber": "Numero UID",
+            "termsOfUse": "Termini di utilizzo",
+            "termsOfUseText": "Il contenuto del sito web viene continuamente aggiornato. Eutima AG non può garantire la completezza e l'accuratezza delle informazioni presentate e trasmesse. Eutima AG declina ogni responsabilità per eventuali danni o danni consequenziali derivanti dall'utilizzo delle informazioni e dei materiali di Eutima AG o dall'accesso tramite link ad altri siti web.",
+            "allRightsReserved": "Tutti i diritti riservati.",
+            "designedBy": "Progettato da"
+        },
+        "en": {
+            "languageKey": "en",
+            "keywords": "kydo software application engineering programming development startup switzerland CH",
+            "description": "We deliver secure, stable solutions to drive innovation and digitalization for small and medium-sized companies. Our custom solutions are tailored to meet the unique needs of each business.",
+            "ogTitle": "Innovative Software Solutions",
+            "ogDescription": "a leading software company in Switzerland, specializes in innovative software development and engineering solutions.",
+            "title": "Eutima",
+            "home": "Home",
+            "useCases": "Use-Cases",
+            "testimonials": "Testimonials",
+            "functions": "Funktionen",
+            "pricing": "Pricing",
+            "servicesKey": "Services",
+            "projectsKey": "Projects",
+            "employeesAquarium": "Employees Aquarium",
+            "with": "with",
+            "passion": "Passion",
+            "and": "and",
+            "creativity": "Creativity",
+            "mainProjects": "Main projects",
+            "mainProjectsDescription": "Explore our cutting-edge projects, designed to drive progress and innovation.",
+            "indicatorsTitle": "Just a couple of indicators concerning our company and its growth!",
+            "cupsOfCoffee": "Cups of Coffee",
+            "clients": "Clients",
+            "finishedProjects": "Finished Projects",
+            "employeesAquarium1": "We chose the jellyfish as our company logo because all of its filaments, moving in a gentle and harmonious way, are reminiscent of all the connections in the digital world and the way we want to manage them: gently and harmoniously.",
+            "employeesAquarium2": "From this concept comes the name of our company: Eutima. This name refers to a genus of jellyfish, known for its transparency and slender tentacles.",
+            "employeesAquarium3": "This is the reason why the jellyfish is often present in our ecosystem and also the reason why you can discover our employees through our employees aquarium.",
+            "employeesAquarium4": "Don't hesitate to click on us, drag us or pull our filaments!",
+            "goToAquarium": "GO TO OUR AQUARIUM!",
+            "employeesAquariumTail": "If you want to be part of the Eutima swarm, don't hesitate to contact us.",
+            "modal": {
+                "inbox": {
+                    "title": "Inbox",
+                    "content": "The inbox is a collection of the documents that have been uploaded. From here, documents can be classified by assigning them a doctype.",
+                    "link": "<a href='/en/pages/functions.html#inbox' target='_blank'>Learn more</a>"
+                },
+                "webupload": {
+                    "title": "Upload Web",
+                    "content": "Upload files to KYDO by drag and drop or via the file explorer dialog.",
+                    "link": "<a href='/en/pages/functions.html#webupload' target='_blank'>Learn more</a>"
+                },
+                "mail": {
+                    "title": "Upload Mail",
+                    "content": "Send an email to your kydo inbox and each attachment will get uploaded to your inbox",
+                    "link": "<a href='/en/pages/functions.html#mail' target='_blank'>Learn more</a>"
+                },
+                "smartphoneApp": {
+                    "title": "Upload App",
+                    "content": "Upload files to KYDO with the smartphone App available for Android and iOS.",
+                    "link": "<a href='/en/pages/functions.html#smartphone-app' target='_blank'>Learn more</a>"
+                },
+                "countingVising": {
+                    "title": "Counting & Vising",
+                    "content": "This workflow allows the processing of creditors. It supports detection of basic information such as IBAN, contact, etc.",
+                    "link": "<a href='/en/pages/functions.html#counting-vising' target='_blank'>Learn more</a>"
+                },
+                "vising": {
+                    "title": "Vising",
+                    "content": "Allow to define who needs to vise an invoice for further processing.",
+                    "link": "<a href='/en/pages/functions.html#vising' target='_blank'>Learn more</a>"
+                },
+                "archive": {
+                    "title": "Archive",
+                    "content": "The archive contains all of your files. You can filter them based on attributes and export them to a zip file.",
+                    "link": "<a href='/en/pages/functions.html#archive' target='_blank'>Learn more</a>"
+                },
+                "externalFinac": {
+                    "title": "Financial accounting software",
+                    "content": "Integration to external financial softwares such as Bexio. Manual accounting supported as well.",
+                    "link": "<a href='/en/pages/functions.html#external-finac' target='_blank'>Learn more</a>"
+                }
+            },
+            "services": {
+                "requirementsEngineering": {
+                    "title": "Requirements Engineering",
+                    "description": "We meticulously gather and analyze requirements to ensure your project's success."
+                },
+                "softwareDev": {
+                    "title": "Custom Software Development",
+                    "description": "Our team develops bespoke software solutions to drive your business success."
+                },
+                "CICD": {
+                    "title": "CI/CD",
+                    "description": "We implement continuous integration and continuous delivery to enhance your development process."
+                },
+                "consulting": {
+                    "title": "Consulting",
+                    "description": "Our experts provide professional consulting services to optimize your IT strategies."
+                },
+                "support": {
+                    "title": "Support",
+                    "description": "We offer reliable support services to ensure the smooth operation of your software."
+                },
+                "hosting": {
+                    "title": "Hosting of Apps and Services",
+                    "description": "We provide secure and reliable hosting services for your apps and services, with data centers located in Switzerland."
+                },
+                "e2e": {
+                    "title": "End to End Software Delivery",
+                    "description": "You can choose a single service or let us manage the entire software delivery lifecycle from concept to deployment and maintenance."
+                }
+            },
+            "projects": [
+                {
+                    "title": "KYDO",
+                    "description": "KYDO revolutionizes document management with secure storage, easy sharing, and seamless integration. Access your data anytime, anywhere, with encryption ensuring safety. KYDO adapts to your workflow, making document handling effortless. Data is securely stored in Switzerland.",
+                    "slogan": "KEEP YOUR DATA ORGANIZED",
+                    "url": "https://kydo.ch",
+                    "imageURL": "/images/KYDO-Logo-square.png"
+                },
+                {
+                    "title": "PINIT",
+                    "description": "Stay organized with PINIT! Upload documents easily via Drag & Drop, our scanning app, or email. Process and approve receipts quickly. Integrate your POS system for automatic income and payment recording. Automate your cash book to save time and reduce errors, so you can focus on your business.",
+                    "slogan": "GASTRONOMY ACCOUNTING MADE EASY",
+                    "url": "https://pinit.ch",
+                    "imageURL": "/images/PINIT_black_logo-square.png"
+                },
+                {
+                    "title": "Smart Ride",
+                    "description": "\nOur web app optimizes routes and ensures timely pickups and drop-offs for transports. It provides real-time updates, reduces travel time, and enhances safety. Focus on your core business while our technology handles logistics.",
+                    "slogan": "PLAN, INFORM, DRIVE!",
+                    "url": "",
+                    "imageURL": "/images/smart-ride.jpg"
+                },
+                {
+                    "title": "Swissbilanz",
+                    "description": "The description will come soon.",
+                    "slogan": "COMING SOON",
+                    "url": "",
+                    "imageURL": "/images/Swissbilanz.png"
+                },
+                {
+                    "title": "Open for everything!",
+                    "description": "Needless to list all the small projects developed for the specific needs of our customers. Quantity is not our goal, quality is! So, just be aware that we are open to develop specific solutions for your needs!",
+                    "slogan": "QUALITY OVER QUANTITY IS THE WAY",
+                    "url": "",
+                    "imageURL": "/images/minor-projects.jpg"
+                }
+            ],
+            "employees": {
+                "unknown": {
+                    "name": "Unknown jellyfish",
+                    "description": "We don't know this jellyfish species yet, but we look forward to welcoming it into our aquarium!"
+                },
+                "ldl": {
+                    "name": "Luca De Laurentiis",
+                    "description": "Resembling an arctic creature with its resilient tentacles and translucent sheen, this jellyfish surprises scientists as it hails not from the frigid north, but from the warm currents of the Southern of Switzerland and Europe.",
+                    "properties": [
+                        {
+                            "key1": "Family",
+                            "value1": "Analytius Quantus",
+                            "key2": "Function",
+                            "value2": "Software Engineer"
+                        },
+                        {
+                            "key1": "Group",
+                            "value1": "Co-founder",
+                            "key2": "Level",
+                            "value2": "Mid"
+                        },
+                        {
+                            "key1": "Experience",
+                            "value1": " 4 years",
+                            "key2": "Education",
+                            "value2": "Bachelor of Science"
+                        },
+                        {
+                            "key1": "Coding Power",
+                            "value1": 0.85,
+                            "key2": "Management",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "English",
+                            "value1": 0.3,
+                            "key2": "German",
+                            "value2": 0.6
+                        },
+                        {
+                            "key1": "French",
+                            "value1": 0.95,
+                            "key2": "Italian",
+                            "value2": 1
+                        }
+                    ]
+                },
+                "azu": {
+                    "name": "Adrian Zurbruegg",
+                    "description": "The translucent beauty of this jellyfish species is matched only by its rarity, known to inhabit the unexplored depths of Switzerland.",
+                    "properties": [
+                        {
+                            "key1": "Family",
+                            "value1": "Assistus Guardianus",
+                            "key2": "Function",
+                            "value2": "Software Engineer"
+                        },
+                        {
+                            "key1": "Group",
+                            "value1": "Co-founder",
+                            "key2": "Level",
+                            "value2": "Mid"
+                        },
+                        {
+                            "key1": "Experience",
+                            "value1": " 5 years",
+                            "key2": "Education",
+                            "value2": "Unknown so far"
+                        },
+                        {
+                            "key1": "Coding Power",
+                            "value1": 0.75,
+                            "key2": "Management",
+                            "value2": 0.8
+                        },
+                        {
+                            "key1": "English",
+                            "value1": 0.7,
+                            "key2": "German",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "French",
+                            "value1": 0.1,
+                            "key2": "Italian",
+                            "value2": 0.1
+                        }
+                    ]
+                },
+                "rma": {
+                    "name": "Roy Manigley",
+                    "description": "Scientists have marveled at the iridescent glow of this jellyfish species, found only in the pristine waters of an untouched river in switzerland.",
+                    "properties": [
+                        {
+                            "key1": "Family",
+                            "value1": "Codeus Maximus",
+                            "key2": "Function",
+                            "value2": "Software Engineer"
+                        },
+                        {
+                            "key1": "Group",
+                            "value1": "Co-founder",
+                            "key2": "Level",
+                            "value2": "Senior"
+                        },
+                        {
+                            "key1": "Experience",
+                            "value1": " 10 years",
+                            "key2": "Education",
+                            "value2": "Unknown so far"
+                        },
+                        {
+                            "key1": "Coding Power",
+                            "value1": 0.9,
+                            "key2": "Management",
+                            "value2": 0.5
+                        },
+                        {
+                            "key1": "English",
+                            "value1": 0.8,
+                            "key2": "German",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "French",
+                            "value1": 0.7,
+                            "key2": "Italian",
+                            "value2": 0.2
+                        }
+                    ]
+                },
+                "fko": {
+                    "name": "Florian Koeberle",
+                    "description": "Resembling a luminescent jellyfish drifting gracefully through the crystalline waters of Switzerland. His ability to adapt and thrive in dynamic environments makes him a symbol of graceful agility amidst change.",
+                    "properties": [
+                        {
+                            "key1": "Family",
+                            "value1": "Ingenious Creativus",
+                            "key2": "Function",
+                            "value2": "Product Designer"
+                        },
+                        {
+                            "key1": "Group",
+                            "value1": "Co-founder",
+                            "key2": "Level",
+                            "value2": "Senior"
+                        },
+                        {
+                            "key1": "Experience",
+                            "value1": "20 years",
+                            "key2": "Education",
+                            "value2": "Unknown so far"
+                        },
+                        {
+                            "key1": "Coding Power",
+                            "value1": 0.1,
+                            "key2": "Management",
+                            "value2": 0.95
+                        },
+                        {
+                            "key1": "English",
+                            "value1": 0.65,
+                            "key2": "German",
+                            "value2": 1
+                        },
+                        {
+                            "key1": "French",
+                            "value1": 0.5,
+                            "key2": "Italian",
+                            "value2": 0.1
+                        }
+                    ]
+                }
+            },
+            "mission": "We aim to be a benchmark in data management, providing stable and secure digital solutions to simplify this complex digital world.",
+            "ourAddress": "Our Address",
+            "connectWithUs": "Connect with Us",
+            "imprint": "Imprint",
+            "address": "Address",
+            "contact": "Contact",
+            "uidNumber": "UID number",
+            "termsOfUse": "Terms of use",
+            "termsOfUseText": "The contents of the website are continuously updated. Eutima AG cannot guarantee the completeness and accuracy of the information presented and transmitted. Eutima AG accepts no liability for any damage or consequential damage arising from the use of information and material from Eutima AG or from access via links to other websites.",
+            "allRightsReserved": "All Rights Reserved.",
+            "designedBy": "Designed by"
+        }
+    }
+}

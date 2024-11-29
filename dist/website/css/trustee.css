@@ -1,0 +1,27 @@
+/* List all target data-cell-ids in a group selector */
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-7"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-12"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-13"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-19"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-30"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-44"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-45"],
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-47"] {
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+    transform-origin: center;
+}
+
+/* Hover effect */
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-7"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-12"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-13"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-19"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-30"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-44"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-45"]:hover,
+[data-cell-id="YSTTJeRkBRXj5jiLRfKc-47"]:hover {
+    transform: scale3d(1.03, 1.03, 1);
+    filter: brightness(1.1);
+}
+
