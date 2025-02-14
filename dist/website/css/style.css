@@ -624,6 +624,12 @@ nav > div > ul > li > a {
     }
 }
 
+@media (max-width: 1580px) {
+        .arrow-wrapper {
+        position: static;
+    }
+}
+
 @media (max-width: 686px) {
     .cta-container .cta-circle {
         order: 2;
