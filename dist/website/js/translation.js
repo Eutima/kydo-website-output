@@ -13,9 +13,9 @@ class LocalStorageService {
 
 class LanguageService {
     LANGUAGES = [
-        'de','fr','it','en',
+        'de','en','fr','it',
     ];
-    DEFAULT_LANGUAGE = 'en';
+    DEFAULT_LANGUAGE = 'fr';
     
     localStorageService = new LocalStorageService();
 
@@ -37,7 +37,10 @@ class LanguageService {
     applyLanguage(language) {
         this.localStorageService.setLanguage(language);
         if (location.pathname.indexOf(`/${language}/`) < 0) {
-            location.href = `/${language}/`;
+            // Get the current path after the language code
+            const currentPath = location.pathname.replace(/^\/[a-z]{2}\//, '');
+            // Construct new URL with new language code while preserving the current path
+            location.href = `/${language}/${currentPath}`;
         }
     }
 }

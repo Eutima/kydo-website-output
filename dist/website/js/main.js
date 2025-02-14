@@ -1,196 +1,90 @@
-;(function () {
+document.addEventListener('DOMContentLoaded', function () {
+    var sidenavs = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(sidenavs, {});
 
-    'use strict';
+    const dropdownElements = document.querySelectorAll(".dropdown-trigger");
+    M.Dropdown.init(dropdownElements, {coverTrigger: false});
 
+    const smoothScrollLinks = document.querySelectorAll('.smooth-scroll');
+    smoothScrollLinks.forEach(link => {
+        link.addEventListener('click', function (e) {
+            e.preventDefault();
+            const targetId = this.getAttribute('href');
+            const targetElement = document.querySelector(targetId);
+            const navbar = document.querySelector('.navbar-fixed'); // Adjust selector to match your navbar
 
-    // iPad and iPod detection
-    var isiPad = function () {
-        return (navigator.platform.indexOf("iPad") != -1);
-    };
+            if (targetElement) {
+                let navbarHeight = navbar ? navbar.offsetHeight : 0; // Get navbar height if exists
+                console.log(navbarHeight);
 
-    var isiPhone = function () {
-        return (
-            (navigator.platform.indexOf("iPhone") != -1) ||
-            (navigator.platform.indexOf("iPod") != -1)
-        );
-    };
-
-    // Parallax
-    var parallax = function () {
-        $(window).stellar();
-    };
-
-
-    // Burger Menu
-    var burgerMenu = function () {
-
-        $('body').on('click', '.js-fh5co-nav-toggle', function (event) {
-
-            event.preventDefault();
-
-            if ($('#navbar').is(':visible')) {
-                $(this).removeClass('active');
-            } else {
-                $(this).addClass('active');
-            }
-
-        });
-
-    };
-
-
-    // Page Nav
-    var clickMenu = function () {
-        // Select both #navbar and .additional-nav elements to cover all cases
-        $('#navbar a:not([class="external"]), .additional-nav a:not([class="external"])').click(function (event) {
-            var section = $(this).data('nav-section'),
-                navbar = $('#navbar'); // still able to select by ID for other purposes
-
-            if ($('[data-section="' + section + '"]').length) {
-                $('html, body').animate({
-                    scrollTop: $('[data-section="' + section + '"]').offset().top - 55
-                }, 500);
-            }
-
-            if (navbar.is(':visible')) {
-                navbar.removeClass('in');
-                navbar.attr('aria-expanded', 'false');
-                $('.js-fh5co-nav-toggle').removeClass('active');
-            }
-
-            event.preventDefault();
-            return false;
-        });
-    };
-
-
-    // Reflect scrolling in navigation
-    var navActive = function (section) {
-
-        var $el = $('#navbar > ul');
-        $el.find('li').removeClass('active');
-        $el.each(function () {
-            $(this).find('a[data-nav-section="' + section + '"]').closest('li').addClass('active');
-        });
-
-    };
-
-    var navigationSection = function () {
-
-        var $section = $('section[data-section]');
-
-        $section.waypoint(function (direction) {
-
-            if (direction === 'down') {
-                navActive($(this.element).data('section'));
-            }
-        }, {
-            offset: '150px'
-        });
-
-        $section.waypoint(function (direction) {
-            if (direction === 'up') {
-                navActive($(this.element).data('section'));
-            }
-        }, {
-            offset: function () {
-                return -$(this.element).height() + 155;
+                // Smooth scrolling with navbar height adjustment
+                window.scrollTo({
+                    top: targetElement.offsetTop - navbarHeight,
+                    behavior: 'smooth'
+                });
             }
         });
-
-    };
-
-    // Window Scroll
-    var windowScroll = function () {
-        var lastScrollTop = 0;
-
-        $(window).scroll(function (event) {
-
-            var header = $('#fh5co-header'),
-                scrlTop = $(this).scrollTop();
-
-            if (scrlTop > 500 && scrlTop <= 2000) {
-                header.addClass('navbar-fixed-top fh5co-animated slideInDown');
-            } else if (scrlTop <= 500) {
-                if (header.hasClass('navbar-fixed-top')) {
-                    header.addClass('navbar-fixed-top fh5co-animated slideOutUp');
-                    setTimeout(function () {
-                        header.removeClass('navbar-fixed-top fh5co-animated slideInDown slideOutUp');
-                    }, 100);
-                }
-            }
-
-        });
-    };
-
-    var counter = function () {
-        $('.js-counter').countTo({
-            formatter: function (value, options) {
-                return value.toFixed(options.decimals);
-            },
-        });
-    };
-
-    var counterWayPoint = function () {
-        if ($('#fh5co-counter-section').length > 0) {
-            $('#fh5co-counter-section').waypoint(function (direction) {
-
-                if (direction === 'down' && !$(this.element).hasClass('animated')) {
-                    setTimeout(counter, 400);
-                    $(this.element).addClass('animated');
-                }
-            }, {offset: '90%'});
-        }
-    };
-
-    var contentWayPoint = function () {
-        var i = 0;
-        $('.animate-box').waypoint(function (direction) {
-
-            if (direction === 'down' && !$(this.element).hasClass('animated-fast')) {
-
-                i++;
-
-                $(this.element).addClass('item-animate');
-                setTimeout(function () {
-
-                    $('body .animate-box.item-animate').each(function (k) {
-                        var el = $(this);
-                        setTimeout(function () {
-                            var effect = el.data('animate-effect');
-                            if (effect === 'fadeIn') {
-                                el.addClass('fadeIn animated-fast');
-                            } else if (effect === 'fadeInLeft') {
-                                el.addClass('fadeInLeft animated-fast');
-                            } else if (effect === 'fadeInRight') {
-                                el.addClass('fadeInRight animated-fast');
-                            } else {
-                                el.addClass('fadeInUp animated-fast');
-                            }
-
-                            el.removeClass('item-animate');
-                        }, k * 50, 'easeInOutExpo');
-                    });
-
-                }, 50);
-
-            }
-
-        }, {offset: '85%'});
-    };
-
-    // Document on load.
-    $(function () {
-
-        // parallax();
-        burgerMenu();
-        // clickMenu();
-        windowScroll();
-        navigationSection();
-        counterWayPoint();
-        contentWayPoint();
-
     });
 
+    // CAROUSEL
+    var carouselElem = document.querySelectorAll('.carousel');
+    var options = {
+        indicators: false, // Show navigation indicators
+        duration: 100, // Animation duration in milliseconds
+        numVisible: 3,
+        padding: 200
+    };
+    var carousel = M.Carousel.init(carouselElem, options);
+    setInterval(() => {
+        var instance = M.Carousel.getInstance(carouselElem[0]); // Get the first carousel instance
+        instance.next(); // Move to the next slide
+    }, 3000);
 
-}());
+    carouselElem.forEach(carousel => {
+        carousel.style.pointerEvents = 'none'; // Disables all pointer interactions
+    });
+
+    const PRICES = {
+        fullUser: 10,
+        uploadUser: 3,
+        readUser: 0,
+        storagePer5GB: 2.50,
+        cvModule: 25
+    };
+
+    // Get all input elements
+    const inputs = document.querySelectorAll('input');
+
+    // Add event listeners to all inputs
+    inputs.forEach(input => {
+        input.addEventListener('change', calculateTotal);
+        input.addEventListener('input', calculateTotal);
+    });
+
+    function calculateTotal() {
+        const fullUsers = Number(document.getElementById('fullUsers').value) || 0;
+        const uploadUsers = Number(document.getElementById('uploadUsers').value) || 0;
+        const readUsers = Number(document.getElementById('readUsers').value) || 0;
+        const storage = Number(document.getElementById('storage').value) || 0;
+        const cvModule = document.getElementById('cvModule').checked ? PRICES.cvModule : 0;
+
+        let storageCost = 0;
+        if (fullUsers === 0) {
+            storageCost = Math.ceil(storage / 5) * PRICES.storagePer5GB; // Charge per 5GB package when no full users
+        } else {
+            const chargeableStorage = Math.max(storage - 5, 0); // First 5GB free
+            storageCost = Math.ceil(chargeableStorage / 5) * PRICES.storagePer5GB;
+        }
+
+        const total =
+            (fullUsers * PRICES.fullUser) +
+            (uploadUsers * PRICES.uploadUser) +
+            (readUsers * PRICES.readUser) +
+            storageCost +
+            cvModule;
+
+        document.getElementById('totalCost').textContent = `CHF ${total.toFixed(2)}`;
+    }
+
+    calculateTotal();
+});

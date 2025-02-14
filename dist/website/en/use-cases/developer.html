@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/css/materialize.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Schoolbell&v1" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600;800&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script src="/en/js/navbar.component.js"></script>
+    <script src="/en/js/functions.component.js"></script>
+</head>
+
+<body>
+<kydo-navbar></kydo-navbar>
+<main>
+    <div class="section-use-case-developer">
+        <div class="title-use-cases">
+            <h2><span class="text-style-1">KYDO</span><span class="text-style-2"> for Developers</span></h2>
+            <div class="sub-title-use-cases">
+                <h5>With <span class="text-style-1">KYDO</span>, a dynamic, <span class="text-style-1">web-based data and document management system</span>, developers can easily and efficiently implement projects thanks to its <span class="text-style-1">modern API</span>.</h5>
+            </div>
+        </div>
+        <div class="container profile-container">
+            <div class="profile">
+                <img class="circle responsive-img" src="/images/profiles/developer/julia.png"
+                     alt="Profile Picture Martin">
+            </div>
+            <div class="speaking-bubble-use-case">
+                I’m Julia, a software developer, and I help many of my clients on their digitalization journey. For me, the focus is on simple and flexible integrations, data security, and precise access controls. I want a core system that meets all customer demands so that I can better address the individual needs of my clients. However, adapting existing solutions to these needs is often a challenge. Also, many solutions are expensive to integrate and operate.
+            </div>
+        </div>
+        <div class="container cta-container">
+            <div class="cta-text">
+                <p class="additional-info">Geek out with KYDO developers?</p>
+            </div>
+            <div class="contact-section-accounting">
+                <a class="waves-effect waves-light btn btn-white kydo-blue smooth-scroll demo-button">
+                    Email us
+                </a>
+                <p class="additional-info">or just give us a call
+                <div class="phone-number">+41 31 511 19 44</div>
+            </div>
+            <div class="cta-circle">
+                <div class="info-circle additional-info-white padding-1-em">Free, modern API
+                </div>
+            </div>
+        </div>
+        <div class="arrow-wrapper">
+            <p class="arrow-text">To the individual functions</p>
+            <a class="waves-effect waves-light btn-floating kydo-blue smooth-scroll"
+               href="#section-developer-functions">
+                <i class="material-icons">arrow_downward</i>
+            </a>
+        </div>
+    </div>
+    <div class="section-functions" id="section-developer-functions">
+        <functions-component></functions-component>
+    </div>
+</main>
+<script src="/js/materialize.min.js"></script>
+<!-- translation -->
+<script src="/en/js/translation.js"></script>
+<!-- Main JS -->
+<script src="/js/main.js"></script>
+</body>
+
+</html>

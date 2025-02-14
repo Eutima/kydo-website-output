@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/css/materialize.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Schoolbell&v1" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;600;800&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <script src="/de/js/navbar.component.js"></script>
+</head>
+
+<body>
+<kydo-navbar></kydo-navbar>
+<main>
+    <div class="section-pricing">
+        <div class="title-use-cases">
+            <h2><span class="text-style-1">KYDO</span><span class="text-style-2"> Preise</span></h2>
+        </div>
+        <div class="container pricing-container">
+            <div class="row">
+                <div class="col s12">
+                    <div class="info-circle-pricing additional-info-white">User, die nur lesen sind kostenlos!
+                    </div>
+                </div>
+                <div class="col s12">
+                    <div class="card pricing-card">
+                        <div class="section">
+                            <div class="section-title">
+                                <i class="material-icons">person</i>
+                                <h6 class="margin-0 text-style-1">Users</h6>
+                            </div>
+
+                            <div class="input-row">
+                                <div class="label-side">User mit dem vollen Funktionsumfang:</div>
+                                <div class="input-side">
+                                    <input type="number" id="fullUsers" class="custom-input" min="0"
+                                           value="1">
+                                </div>
+                            </div>
+
+                            <div class="input-row">
+                                <div class="label-side">User, die nur Daten hochladen:</div>
+                                <div class="input-side">
+                                    <input type="number" id="uploadUsers" class="custom-input" min="0"
+                                           placeholder="Anzahl eingeben">
+                                </div>
+                            </div>
+
+                            <div class="input-row">
+                                <div class="label-side">User, die nur lesen:</div>
+                                <div class="input-side">
+                                    <input type="number" id="readUsers" class="custom-input" min="0"
+                                           placeholder="Anzahl eingeben">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="section">
+                            <div class="section-title">
+                                <i class="material-icons">storage</i>
+                                <h6 class="margin-0 text-style-1">Speicherplatz</h6>
+                            </div>
+
+                            <div class="input-row">
+                                <div class="label-side">Benötigter Speicherplatz:</div>
+                                <div class="input-side">
+                                    <input type="number" id="storage" class="custom-input" min="5" value="5">
+                                </div>
+                            </div>
+                            <div class="storage-info">
+                                Wird in 5GB Paketen verrechnet. 5GB sind inkludiert, wenn ein Admin/Standard User
+vorhanden ist
+                            </div>
+                        </div>
+
+                        <div class="section">
+                            <div class="section-title">
+                                <i class="material-icons">widgets</i>
+                                <h6 class="margin-0 text-style-1">Module</h6>
+                            </div>
+
+                            <div class="input-row">
+                                <div class="label-side">Automatische Belegverarbeitung:</div>
+                                <div class="input-side">
+                                    <div class="checkbox-wrapper">
+                                        <label>
+                                            <input type="checkbox" id="cvModule"/>
+                                            <span></span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="section">
+                            <div class="section-title">
+                                <i class="material-icons">attach_money</i>
+                                <h6 class="margin-0 text-style-1">Totale Kosten</h6>
+                            </div>
+
+                            <div class="input-row">
+                                <div class="label-side">Monatliche Kosten exkl. MwSt:</div>
+                                <div class="input-side">
+                                    <span class="total-cost" id="totalCost">CHF 0</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="contact-section">
+                        <p class="additional-info">Hast du Fragen?</p>
+                        <p class="additional-info">Oder möchtest du Reseller werden und von einem anderen
+Preis-Model profitieren?</p>
+                        <a class="waves-effect waves-light btn btn-white kydo-blue smooth-scroll demo-button">
+                            Mail an uns
+                        </a>
+                        <p class="additional-info">oder einfach anrufen
+                        <div class="phone-number">+41 31 511 19 44</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+<script src="/js/materialize.min.js"></script>
+<!-- translation -->
+<script src="/de/js/translation.js"></script>
+<!-- Main JS -->
+<script src="/js/main.js"></script>
+</body>
+
+</html>

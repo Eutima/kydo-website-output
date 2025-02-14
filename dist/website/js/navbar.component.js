@@ -1,45 +1,46 @@
 class MyNavbar extends HTMLElement {
     connectedCallback() {
+        const currentPath = location.pathname.replace(/^\/[a-z]{2}\//, '');
         this.innerHTML = `
-        <nav class="navbar navbar-default navbar-fixed-top">
-            <div class="navbar-header">
-                <!-- Mobile Toggle Menu Button -->
-                <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse"
-                   data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-                <a class="navbar-brand" href="#">
-                    <img src="/images/kydo-icon.png">
+    <div class="navbar-fixed">
+        <nav>
+            <div class="nav-wrapper grey lighten-5">
+                <a href="/fr/" class="brand-logo left">
+                    <img src="/images/KYDO-D.png">
                 </a>
-            </div>
-            <div id="navbar" class="navbar-collapse collapse">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="/en/index.html" data-nav-section="home"><span>Home</span></a>
-                    </li>
-                    <li><a href="/en/pages/pricing.html" data-nav-section="pricing"><span>Pricing</span></a>
-                    </li>
-                    <li><a href="/en/pages/functions.html"
-                           data-nav-section="functions"><span>Funktionen</span></a></li>
-                    <li><a href="/en/pages/testimonials.html"
-                           data-nav-section="testimonials"><span>Testimonials</span></a></li>
-<!--                    <li class="dropdown">-->
-<!--                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">-->
-<!--                            <span>Use-Cases</span>-->
-<!--                        </a>-->
-<!--                        <ul class="dropdown-menu">-->
-<!--                            <li><a href="/en/pages/use-cases/trustee.html"><span>Trustee</span></a></li>-->
-<!--                            <li><a href="/en/pages/use-cases/kmu-owner.html">KMU-Owner</a></li>-->
-<!--                            <li><a href="/en/pages/use-cases/accounting-manager.html">Accounting Manager</a></li>-->
-<!--                            <li><a href="/en/pages/use-cases/software-manufactorer.html">CTO Software</a></li>-->
-<!--                        </ul>-->
-<!--                    </li>-->
+                <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="material-icons"
+                        style="color: black;">menu</i></a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="/fr/">Home</a></li>
+                    <li><a href="/fr/functions.html">Fonctionnalités</a></li>
+                    <li><a href="/fr/pricing.html">Tarifs</a></li>
+                    <li><a href="/fr/demo.html">Démo</a></li>
+                    <li><a class="dropdown-trigger" href="#!" data-target="languages"><i
+                                class="material-icons">g_translate</i></a></li>
                 </ul>
             </div>
-            <span id="languages-container">
-                <a href="/de">DE</a>
-                <a href="/fr">FR</a>
-                <a href="/it">IT</a>
-                <a href="/en">EN</a>
-            </span>
         </nav>
+    </div>
+    <ul class="sidenav" id="mobile-demo">
+        <li><a href="/fr/">Home</a></li>
+        <li><a href="/fr/functions.html">Fonctionnalités</a></li>
+        <li><a href="/fr/pricing.html">Tarifs</a></li>
+        <li><a href="/fr/demo.html">Démo</a></li>
+        <li><a class="dropdown-trigger" href="#!" data-target="languages-sidenav"><i
+                    class="material-icons">g_translate</i><i class="material-icons right">arrow_drop_down</i></a></li>
+    </ul>
+    <ul id="languages" class="dropdown-content">
+        <li><a href="/de/${currentPath}">DE</a></li>
+        <li><a href="/en/${currentPath}">EN</a></li>
+        <li><a href="/fr/${currentPath}">FR</a></li>
+        <li><a href="/it/${currentPath}">IT</a></li>
+    </ul>
+    <ul id="languages-sidenav" class="dropdown-content">
+        <li><a href="/de/${currentPath}">DE</a></li>
+        <li><a href="/en/${currentPath}">EN</a></li>
+        <li><a href="/fr/${currentPath}">FR</a></li>
+        <li><a href="/it/${currentPath}">IT</a></li>
+    </ul>
         `;
     }
 }

@@ -1,5 +1,5 @@
 {
-    "defaultLanguage": "en",
+    "defaultLanguage": "fr",
     "imageURL": "https://kydo.ch",
     "domain": "kydo.ch",
     "address": "Chutzenstrasse 20, 3007 Bern, Switzerland",
@@ -12,1055 +12,411 @@
     "i18n": {
         "de": {
             "languageKey": "de",
-            "keywords": "kydo software anwendung ingenieurwesen programmierung entwicklung startup schweiz CH",
-            "description": "Wir liefern sichere, stabile Lösungen, um Innovation und Digitalisierung für kleine und mittelständische Unternehmen voranzutreiben. Unsere maßgeschneiderten Lösungen sind auf die einzigartigen Bedürfnisse jedes Unternehmens zugeschnitten.",
-            "ogTitle": "Innovative Softwarelösungen",
-            "ogDescription": "ein führendes Softwareunternehmen in der Schweiz, spezialisiert auf innovative Softwareentwicklung und Ingenieurlösungen.",
-            "title": "Eutima",
-            "home": "Startseite",
-            "useCases": "Use-Cases",
-            "testimonials": "Testimonials",
-            "functions": "Funktionen",
-            "pricing": "Pricing",
-            "servicesKey": "Features",
-            "projectsKey": "Usecases",
-            "employeesAquarium": "Mitarbeiter-Aquarium",
-            "with": "with",
-            "passion": "Passion",
-            "and": "and",
-            "creativity": "Creativity",
-            "mainProjects": "Hauptprojekte",
-            "mainProjectsDescription": "Erkunde unsere bahnbrechenden Projekte, die Fortschritt und Innovation vorantreiben.",
-            "indicatorsTitle": "Ein paar Indikatoren zu unserem Unternehmen und dessen Wachstum!",
-            "cupsOfCoffee": "Tassen Kaffee",
-            "clients": "Kunden",
-            "finishedProjects": "Abgeschlossene Projekte",
-            "employeesAquarium1": "Wir haben die Qualle als Firmenlogo gewählt, weil all ihre filigranen, sich sanft und harmonisch bewegenden Tentakeln an alle Verbindungen in der digitalen Welt erinnern und wie wir sie verwalten wollen: sanft und harmonisch.",
-            "employeesAquarium2": "Aus diesem Konzept entstand der Name unseres Unternehmens: Eutima. Dieser Name bezieht sich auf eine Quallengattung, die für ihre Transparenz und schlanken Tentakeln bekannt ist.",
-            "employeesAquarium3": "Aus diesem Grund ist die Qualle oft in unserem Ökosystem präsent und auch der Grund, warum du unsere Mitarbeiter durch unser Mitarbeiter-Aquarium entdecken kannst!",
-            "employeesAquarium4": "Zögere nicht, auf uns zu klicken, uns zu ziehen oder unsere Fäden zu bewegen!",
-            "goToAquarium": "GEHE ZU UNSEREM AQUARIUM!",
-            "employeesAquariumTail": "Wenn du Teil des Eutima-Schwarms werden möchtest, zögere nicht, uns zu kontaktieren.",
-            "features": [
-                {
-                    "title": "Keep Your Data Organized",
-                    "description": "Speichern, verwalten und teilen Sie Ihre wichtigsten Dokumente auf intuitive und einfache Art und Weise. KYDO passt sich an Sie an und verbindet sich mit Ihren vorhandenen Geräten und Anwendungen, so dass Sie Ihre Prozesse nahtlos automatisieren können. Beschleunigen Sie Ihre Arbeitsabläufe und bringen Sie sie auf einfachem Wege ins 21. Jahrhundert.."
-                },
-                {
-                    "title": "Individuelle Softwareentwicklung",
-                    "description": "Unser Team entwickelt massgeschneiderte Softwarelösungen, um deinen Geschäftserfolg zu fördern."
-                },
-                {
-                    "title": "CI/CD",
-                    "description": "Wir implementieren Continuous Integration and Continuous Delivery, um deinen Entwicklungsprozess zu optimieren."
-                },
-                {
-                    "title": "Beratung",
-                    "description": "Unsere Experten bieten professionelle Beratungsdienste an, um deine IT-Strategien zu optimieren."
-                },
-                {
-                    "title": "Support",
-                    "description": "Wir bieten zuverlässige Support-Dienste, um den reibungslosen Betrieb deiner Software zu gewährleisten."
-                },
-                {
-                    "title": "Hosting von Apps und Services",
-                    "description": "Wir bieten sichere und zuverlässige Hosting-Services für deine Apps und Services, mit Rechenzentren in der Schweiz."
-                },
-                {
-                    "title": "End to End Software Delivery",
-                    "description": "Du kannst einen einzelnen Service auswählen oder uns den gesamten Softwarelieferzyklus von der Konzeption bis zur Bereitstellung und Wartung verwalten lassen."
-                }
-            ],
-            "projects": [
-                {
-                    "title": "KYDO",
-                    "description": "KYDO revolutioniert das Dokumentenmanagement mit sicherer Speicherung, einfachem Teilen und nahtloser Integration. Greife jederzeit und überall auf deine Daten zu, die Verschlüsselung sorgt für Sicherheit. KYDO passt sich deinem Workflow an und macht die Dokumentenverwaltung mühelos.",
-                    "slogan": "KEEP YOUR DATA ORGANIZED",
-                    "url": "https://kydo.ch",
-                    "imageURL": "/images/KYDO-Logo-square.png"
-                },
-                {
-                    "title": "PINIT",
-                    "description": "Bleibe organisiert mit PINIT! Lade Dokumente einfach per Drag & Drop, Scan-App oder E-Mail hoch. Integriere dein POS-System für die automatische Erfassung von Einnahmen und Zahlungen. Automatisiere dein Kassenbuch, spare Zeit und reduziere Fehler, damit du dich auf dein Geschäft konzentrieren kannst.",
-                    "slogan": "GASTROBUCHHALTUNG EINFACH ERLEDIGT",
-                    "url": "https://pinit.ch",
-                    "imageURL": "/images/PINIT_black_logo-square.png"
-                },
-                {
-                    "title": "Smart Ride",
-                    "description": "Unsere Web-App optimiert Routen und sorgt für pünktliche Abholungen und Ablieferungen von Transporten. Sie bietet Echtzeit-Updates, reduziert die Reisezeit und erhöht die Sicherheit. Konzentriere dich auf das Kerngeschäft deines Unternehmens, während unsere Technologie die Logistik übernimmt.",
-                    "slogan": "PLANEN, INFORMIEREN, FAHREN!",
-                    "url": "",
-                    "imageURL": "/images/smart-ride.jpg"
-                },
-                {
-                    "title": "Swissbilanz",
-                    "description": "Die Beschreibung folgt in Kürze.",
-                    "slogan": "BALD VERFÜGBAR",
-                    "url": "",
-                    "imageURL": "/images/Swissbilanz.png"
-                },
-                {
-                    "title": "Open for everything!",
-                    "description": "Es ist unnötig, alle kleinen Projekte aufzulisten, die für die spezifischen Bedürfnisse unserer Kunden entwickelt wurden. Quantität ist nicht unser Ziel, Qualität schon! Sei dir einfach bewusst, dass wir bereit sind, spezifische Lösungen für deine Bedürfnisse zu entwickeln!",
-                    "slogan": "QUALITÄT ÜBER QUANTITÄT IST DER WEG",
-                    "url": "",
-                    "imageURL": "/images/minor-projects.jpg"
-                }
-            ],
-            "employees": {
-                "unknown": {
-                    "name": "Unbekannte Qualle",
-                    "description": "Diese Quallenart kennen wir noch nicht, aber wir freuen uns darauf, sie in unserem Aquarium willkommen zu heissen!"
-                },
-                "ldl": {
-                    "name": "Luca De Laurentiis",
-                    "description": "Diese Qualle ähnelt einer arktischen Kreatur mit ihren widerstandsfähigen Tentakeln und ihrem durchscheinenden Glanz, doch überrascht sie Wissenschaftler, da sie nicht aus dem kalten Norden, sondern aus den warmen Strömungen des Südens der Schweiz und sogar Europas stammt.",
-                    "properties": [
-                        {
-                            "key1": "Familie",
-                            "value1": "Analytius Quantus",
-                            "key2": "Funktion",
-                            "value2": "Software-Ingenieur"
-                        },
-                        {
-                            "key1": "Gruppe",
-                            "value1": "Mitbegründer",
-                            "key2": "Level",
-                            "value2": "Mittel"
-                        },
-                        {
-                            "key1": "Erfahrung",
-                            "value1": "4 Jahre",
-                            "key2": "Bildung",
-                            "value2": "Bachelor of Science"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.85,
-                            "key2": "Management",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "Englisch",
-                            "value1": 0.3,
-                            "key2": "Deutsch",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "Französisch",
-                            "value1": 0.95,
-                            "key2": "Italienisch",
-                            "value2": 1
-                        }
-                    ]
-                },
-                "azu": {
-                    "name": "Adrian Zurbruegg",
-                    "description": "Die durchscheinende Schönheit dieser Quallenart wird nur von ihrer Seltenheit übertroffen, da sie in den unerforschten Tiefen der Schweiz bekannt ist.",
-                    "properties": [
-                        {
-                            "key1": "Familie",
-                            "value1": "Assistus Guardianus",
-                            "key2": "Funktion",
-                            "value2": "Software-Ingenieur"
-                        },
-                        {
-                            "key1": "Gruppe",
-                            "value1": "Mitbegründer",
-                            "key2": "Level",
-                            "value2": "Mittel"
-                        },
-                        {
-                            "key1": "Erfahrung",
-                            "value1": "5 Jahre",
-                            "key2": "Bildung",
-                            "value2": "Bislang unbekannt"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.75,
-                            "key2": "Management",
-                            "value2": 0.8
-                        },
-                        {
-                            "key1": "Englisch",
-                            "value1": 0.7,
-                            "key2": "Deutsch",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "Französisch",
-                            "value1": 0.1,
-                            "key2": "Italienisch",
-                            "value2": 0.1
-                        }
-                    ]
-                },
-                "rma": {
-                    "name": "Roy Manigley",
-                    "description": "Wissenschaftler staunen über das schillernde Leuchten dieser Quallenart, die nur in den unberührten Gewässern eines unberührten Flusses in der Schweiz vorkommt.",
-                    "properties": [
-                        {
-                            "key1": "Familie",
-                            "value1": "Codeus Maximus",
-                            "key2": "Funktion",
-                            "value2": "Software-Ingenieur"
-                        },
-                        {
-                            "key1": "Gruppe",
-                            "value1": "Mitbegründer",
-                            "key2": "Level",
-                            "value2": "Senior"
-                        },
-                        {
-                            "key1": "Erfahrung",
-                            "value1": "10 Jahre",
-                            "key2": "Bildung",
-                            "value2": "Bislang unbekannt"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.9,
-                            "key2": "Management",
-                            "value2": 0.5
-                        },
-                        {
-                            "key1": "Englisch",
-                            "value1": 0.8,
-                            "key2": "Deutsch",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "Französisch",
-                            "value1": 0.7,
-                            "key2": "Italienisch",
-                            "value2": 0.2
-                        }
-                    ]
-                }
-            },
-            "mission": "Wir streben danach, eine Benchmark im Datenmanagement zu sein, indem wir stabile und sichere digitale Lösungen bieten, um diese komplexe digitale Welt zu vereinfachen.",
-            "ourAddress": "Unsere Adresse",
-            "connectWithUs": "Verbinden Sie sich mit uns",
-            "imprint": "Impressum",
-            "address": "Adresse",
-            "contact": "Kontakt",
-            "uidNumber": "UID-Nummer",
-            "termsOfUse": "Nutzungsbedingungen",
-            "termsOfUseText": "Die Inhalte der Website werden laufend aktualisiert. Eutima AG kann keine Garantie für die Vollständigkeit und Richtigkeit der dargestellten und übermittelten Informationen übernehmen. Eutima AG übernimmt keine Haftung für Schäden oder Folgeschäden, die sich aus der Nutzung von Informationen und Material von Eutima AG oder dem Zugriff über Links auf andere Websites ergeben.",
-            "allRightsReserved": "Alle Rechte vorbehalten.",
-            "designedBy": "Entworfen von"
-        },
-        "fr": {
-            "languageKey": "fr",
-            "keywords": "kydo logiciel application ingénierie programmation développement startup suisse CH",
-            "description": "Nous fournissons des solutions sécurisées et stables pour favoriser l'innovation et la digitalisation des petites et moyennes entreprises. Nos solutions personnalisées sont adaptées aux besoins uniques de chaque entreprise.",
-            "ogTitle": "Innovative Software Solutions",
-            "ogDescription": "une entreprise de logiciels leader en Suisse, spécialisée dans le développement et les solutions d'ingénierie logicielle innovantes.",
-            "title": "Eutima",
-            "home": "Accueil",
-            "useCases": "Use-Cases",
-            "testimonials": "Testimonials",
-            "functions": "Funktionen",
-            "pricing": "pric",
-            "servicesKey": "Services",
-            "projectsKey": "Projets",
-            "employeesAquarium": "Aquarium des employés",
-            "with": "with",
-            "passion": "Passion",
-            "and": "and",
-            "creativity": "Creativity",
-            "mainProjects": "Projets principaux",
-            "mainProjectsDescription": "Découvrez nos projets de pointe, conçus pour promouvoir le progrès et l'innovation.",
-            "indicatorsTitle": "Quelques indicateurs concernant notre entreprise et sa croissance !",
-            "cupsOfCoffee": "Tasses de café",
-            "clients": "Clients",
-            "finishedProjects": "Projets terminés",
-            "employeesAquarium1": "Nous avons choisi la méduse comme logo de notre entreprise parce que tous ses filaments, qui se déplacent de façon délicate et harmonieuse, rappellent toutes les connexions du monde numérique et la manière dont nous voulons les gérer : c'est-à-dire de façon délicate et harmonieuse.",
-            "employeesAquarium2": "C'est de ce concept que vient le nom de notre entreprise : Eutima. Ce nom fait référence à un genre de méduse, connu pour sa transparence et ses tentacules élancés.",
-            "employeesAquarium3": "C'est la raison pour laquelle la méduse est souvent présente dans notre écosystème et aussi la raison pour laquelle vous pouvez découvrir nos employés à travers notre aquarium des employés.",
-            "employeesAquarium4": "N'hésitez pas à cliquer sur nous, à nous faire glisser ou à tirer nos filaments !",
-            "goToAquarium": "ALLEZ À NOTRE AQUARIUM !",
-            "employeesAquariumTail": "Si vous souhaitez faire partie du banc d'Eutima, n'hésitez pas à nous contacter.",
-            "services": {
-                "requirementsEngineering": {
-                    "title": "Requirements Engineering",
-                    "description": "Nous recueillons et analysons minutieusement les exigences pour garantir le succès de votre projet."
-                },
-                "softwareDev": {
-                    "title": "Développement de logiciels sur mesure",
-                    "description": "Notre équipe développe des solutions logicielles sur mesure pour promouvoir le succès de votre entreprise."
-                },
-                "CICD": {
-                    "title": "CI/CD",
-                    "description": "Nous appliquons le principe de continuous integration and continuous delivery pour améliorer votre processus de développement."
-                },
-                "consulting": {
-                    "title": "Consultation",
-                    "description": "Nos experts fournissent des services de consultation professionnels pour optimiser vos stratégies informatiques."
-                },
-                "support": {
-                    "title": "Support",
-                    "description": "Nous offrons des services de support fiables pour assurer le bon fonctionnement de vos logiciels."
-                },
-                "hosting": {
-                    "title": "Hébergement d'applications et de services",
-                    "description": "Nous fournissons des services d'hébergement sécurisés et fiables pour vos applications et services, avec des centres de données situés en Suisse."
-                },
-                "e2e": {
-                    "title": "End to End Software Delivery",
-                    "description": "Vous pouvez choisir un service unique ou nous laisser gérer l'ensemble du cycle de vie de la livraison de logiciels, de la conception à la mise en œuvre et à la maintenance."
-                }
-            },
-            "projects": [
-                {
-                    "title": "KYDO",
-                    "description": "KYDO révolutionne la gestion des documents avec un stockage sécurisé, un partage facile et une intégration transparente. Accédez à vos données à tout moment et en tout lieu, avec un cryptage assurant la sécurité. KYDO s'adapte à votre flux de travail, rendant la gestion sans effort. Les données sont stockées en Suisse.",
-                    "slogan": "KEEP YOUR DATA ORGANIZED",
-                    "url": "https://kydo.ch",
-                    "imageURL": "/images/KYDO-Logo-square.png"
-                },
-                {
-                    "title": "PINIT",
-                    "description": "Restez organisé avec PINIT ! Téléchargez des documents via Drag & Drop, application de numérisation ou e-mail. Traitez rapidement les reçus. Intégrez votre POS pour enregistrer automatiquement revenus et paiements. Automatisez le livre de caisse pour gagner du temps et vous concentrer sur votre entreprise.",
-                    "slogan": "COMPTABILITÉ ET GASTRONOMIE",
-                    "url": "https://pinit.ch",
-                    "imageURL": "/images/PINIT_black_logo-square.png"
-                },
-                {
-                    "title": "Smart Ride",
-                    "description": "\nNotre application web optimise les itinéraires et assure des prises en charge et des livraisons ponctuelles pour les transports. Elle offre des mises à jour en temps réel, réduit le temps de trajet et améliore la sécurité. Concentrez-vous sur le cœur de votre activité pendant que notre technologie gère la logistique.",
-                    "slogan": "PLANIFIER, INFORMER, CONDUIRE !",
-                    "url": "",
-                    "imageURL": "/images/smart-ride.jpg"
-                },
-                {
-                    "title": "Swissbilanz",
-                    "description": "La description sera bientôt disponible.",
-                    "slogan": "BIENTÔT DISPONIBLE",
-                    "url": "",
-                    "imageURL": "/images/Swissbilanz.png"
-                },
-                {
-                    "title": "Open for everything!",
-                    "description": "Inutile de lister tous les petits projets développés pour les besoins spécifiques de nos clients. La quantité n'est pas notre objectif, la qualité l'est ! Sachez simplement que nous sommes ouverts à développer des solutions spécifiques à vos besoins !",
-                    "slogan": "LA QUALITÉ AVANT LA QUANTITÉ",
-                    "url": "",
-                    "imageURL": "/images/minor-projects.jpg"
-                }
-            ],
-            "employees": {
-                "unknown": {
-                    "name": "Méduse inconnue",
-                    "description": "Nous ne connaissons pas encore cette espèce de méduse, mais nous avons hâte de l'accueillir dans notre aquarium !"
-                },
-                "ldl": {
-                    "name": "Luca De Laurentiis",
-                    "description": "Ressemblant à une créature arctique avec ses tentacules résilients et son éclat translucide, cette méduse surprend les scientifiques car elle ne vient pas du nord glacial, mais des courants chauds du sud de la Suisse et de l'Europe.",
-                    "properties": [
-                        {
-                            "key1": "Famille",
-                            "value1": "Analytius Quantus",
-                            "key2": "Fonction",
-                            "value2": "Ingénieur logiciel"
-                        },
-                        {
-                            "key1": "Groupe",
-                            "value1": "Co-fondateur",
-                            "key2": "Niveau",
-                            "value2": "Intermédiaire"
-                        },
-                        {
-                            "key1": "Expérience",
-                            "value1": "4 ans",
-                            "key2": "Éducation",
-                            "value2": "Bachelor of Science"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.85,
-                            "key2": "Gestion",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "Anglais",
-                            "value1": 0.3,
-                            "key2": "Allemand",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "Français",
-                            "value1": 0.95,
-                            "key2": "Italien",
-                            "value2": 1
-                        }
-                    ]
-                },
-                "azu": {
-                    "name": "Adrian Zurbruegg",
-                    "description": "La beauté translucide de cette espèce de méduse n'a d'égale que sa rareté, connue pour habiter les profondeurs inexplorées de la Suisse.",
-                    "properties": [
-                        {
-                            "key1": "Famille",
-                            "value1": "Assistus Guardianus",
-                            "key2": "Fonction",
-                            "value2": "Ingénieur logiciel"
-                        },
-                        {
-                            "key1": "Groupe",
-                            "value1": "Co-fondateur",
-                            "key2": "Niveau",
-                            "value2": "Intermédiaire"
-                        },
-                        {
-                            "key1": "Expérience",
-                            "value1": "5 ans",
-                            "key2": "Éducation",
-                            "value2": "Encore inconnue"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.75,
-                            "key2": "Gestion",
-                            "value2": 0.8
-                        },
-                        {
-                            "key1": "Anglais",
-                            "value1": 0.7,
-                            "key2": "Allemand",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "Français",
-                            "value1": 0.1,
-                            "key2": "Italien",
-                            "value2": 0.1
-                        }
-                    ]
-                },
-                "rma": {
-                    "name": "Roy Manigley",
-                    "description": "Les scientifiques ont été émerveillés par la lueur iridescente de cette espèce de méduse, que l'on ne trouve que dans les eaux pures d'une rivière intacte en Suisse.",
-                    "properties": [
-                        {
-                            "key1": "Famille",
-                            "value1": "Codeus Maximus",
-                            "key2": "Fonction",
-                            "value2": "Ingénieur logiciel"
-                        },
-                        {
-                            "key1": "Groupe",
-                            "value1": "Co-fondateur",
-                            "key2": "Niveau",
-                            "value2": "Senior"
-                        },
-                        {
-                            "key1": "Expérience",
-                            "value1": "10 ans",
-                            "key2": "Éducation",
-                            "value2": "Encore inconnue"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.9,
-                            "key2": "Gestion",
-                            "value2": 0.5
-                        },
-                        {
-                            "key1": "Anglais",
-                            "value1": 0.8,
-                            "key2": "Allemand",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "Français",
-                            "value1": 0.7,
-                            "key2": "Italien",
-                            "value2": 0.2
-                        }
-                    ]
-                }
-            },
-            "mission": "Nous visons à être une référence en gestion des données, en fournissant des solutions numériques stables et sécurisées pour simplifier ce monde numérique aussi complexe.",
-            "ourAddress": "Notre adresse",
-            "connectWithUs": "Connectez-vous avec nous",
-            "imprint": "Mentions légales",
-            "address": "Adresse",
-            "contact": "Contact",
-            "uidNumber": "Numéro UID",
-            "termsOfUse": "Conditions d'utilisation",
-            "termsOfUseText": "Le contenu du site web est continuellement mis à jour. Eutima AG ne peut garantir l'exhaustivité et l'exactitude des informations présentées et transmises. Eutima AG décline toute responsabilité pour tout dommage ou dommage consécutif résultant de l'utilisation des informations et du matériel de Eutima AG ou de l'accès via des liens vers d'autres sites web.",
-            "allRightsReserved": "Tous droits réservés.",
-            "designedBy": "Conçu par"
-        },
-        "it": {
-            "languageKey": "it",
-            "keywords": "kydo software applicazione ingegneria programmazione sviluppo startup svizzera CH",
-            "description": "Forniamo soluzioni sicure e stabili per promuovere l'innovazione e la digitalizzazione per le piccole e medie imprese. Le nostre soluzioni personalizzate sono progettate per soddisfare le esigenze uniche di ciascuna azienda.",
-            "ogTitle": "Soluzioni Software Innovative",
-            "ogDescription": "una delle principali aziende di software in Svizzera, specializzata in soluzioni di sviluppo e ingegneria software innovative.",
-            "title": "Eutima",
             "home": "Home",
-            "useCases": "Use-Cases",
-            "testimonials": "Testimonials",
             "functions": "Funktionen",
-            "pricing": "Pricing",
-            "servicesKey": "Servizi",
-            "projectsKey": "Progetti",
-            "employeesAquarium": "Acquario dei dipendenti",
-            "with": "with",
-            "passion": "Passion",
-            "and": "and",
-            "creativity": "Creativity",
-            "mainProjects": "Progetti principali",
-            "mainProjectsDescription": "Esplora i nostri progetti all'avanguardia, progettati per promuovere il progresso e l'innovazione.",
-            "indicatorsTitle": "Solo un paio di indicatori riguardanti la nostra azienda e la sua crescita!",
-            "cupsOfCoffee": "Tazze di caffè",
-            "clients": "Clienti",
-            "finishedProjects": "Progetti completati",
-            "employeesAquarium1": "Abbiamo scelto la medusa come logo della nostra azienda perché tutti i suoi filamenti, che si muovono in maniera delicata ed armoniosa, ricordano tutte le connessioni nel mondo digitale e il modo in cui noi vogliamo gestirle: ovvero, in maniera delicata ed armoniosa.",
-            "employeesAquarium2": "Da questo concetto nasce il nome della nostra azienda: Eutima, il quale si riferisce a un genere di meduse, noto per la sua trasparenza e i suoi tentacoli slanciati.",
-            "employeesAquarium3": "Questo è il motivo per cui la medusa è spesso presente nel nostro ecosistema e anche il motivo per cui puoi incontrare i nostri dipendenti attraverso il nostro acquario dei dipendenti.",
-            "employeesAquarium4": "Non esitare a cliccarre sulle meduse, trascinarle o tirare i loro filamenti!",
-            "goToAquarium": "VAI AL NOSTRO ACQUARIO!",
-            "employeesAquariumTail": "Se vuoi far parte del banco di Eutima, non esitare a contattarci.",
-            "services": {
-                "requirementsEngineering": {
-                    "title": "Requirements Engineering",
-                    "description": "Raccogliamo e analizziamo meticolosamente i requisiti per garantire il successo del tuo progetto."
-                },
-                "softwareDev": {
-                    "title": "Sviluppo di software personalizzato",
-                    "description": "Il nostro team sviluppa soluzioni software su misura per promuovere il successo della tua azienda."
-                },
-                "CICD": {
-                    "title": "CI/CD",
-                    "description": "Implementiamo continuous integration e continuous delivery per migliorare il tuo processo di sviluppo."
-                },
-                "consulting": {
-                    "title": "Consulenza",
-                    "description": "I nostri esperti forniscono servizi di consulenza professionale per ottimizzare le tue strategie IT."
-                },
-                "support": {
-                    "title": "Supporto",
-                    "description": "Offriamo servizi di supporto affidabili per garantire il buon funzionamento del tuo software."
-                },
-                "hosting": {
-                    "title": "Hosting di app e servizi",
-                    "description": "Forniamo servizi di hosting sicuri e affidabili per le tue app e servizi, con data center situati in Svizzera."
-                },
-                "e2e": {
-                    "title": "End to End Software Delivery",
-                    "description": "Puoi scegliere un singolo servizio o lasciare a noi la gestione dell'intero ciclo di vita della consegna del software, dalla progettazione all'implementazione e alla manutenzione."
-                }
-            },
-            "projects": [
-                {
-                    "title": "KYDO",
-                    "description": "KYDO rivoluziona la gestione dei documenti con uno storage sicuro e una facile condivisione. Accedi ai tuoi dati crittografati in qualsiasi momento e ovunque. KYDO si adatta al tuo flusso di lavoro, rendendo la gestione dei documenti senza sforzo. I dati sono archiviati in modo sicuro e in Svizzera.",
-                    "slogan": "KEEP YOUR DATA ORGANIZED",
-                    "url": "https://kydo.ch",
-                    "imageURL": "/images/KYDO-Logo-square.png"
-                },
-                {
-                    "title": "PINIT",
-                    "description": "Rimani organizzato con PINIT! Carica documenti tramite Drag & Drop, app di scansione o e-mail. Elabora e approva rapidamente le ricevute. Integra il tuo POS per registrare automaticamente entrate e pagamenti. Automatizza il libro cassa per risparmiare tempo e ridurre errori, così puoi concentrarti sulla tua attività.",
-                    "slogan": "RISTORAZIONE E CONTABILITÀ",
-                    "url": "https://pinit.ch",
-                    "imageURL": "/images/PINIT_black_logo-square.png"
-                },
-                {
-                    "title": "Smart Ride",
-                    "description": "La nostra web app ottimizza i percorsi e garantisce ritiri e consegne puntuali per i trasporti. Fornisce aggiornamenti in tempo reale, riduce il tempo di viaggio e aumenta la sicurezza. Concentrati sul core business della tua azienda mentre la nostra tecnologia gestisce la logistica.",
-                    "slogan": "PIANIFICARE, INFORMARE, GUIDARE!",
-                    "url": "",
-                    "imageURL": "/images/smart-ride.jpg"
-                },
-                {
-                    "title": "Swissbilanz",
-                    "description": "La descrizione sarà presto disponibile.",
-                    "slogan": "PROSSIMAMENTE",
-                    "url": "",
-                    "imageURL": "/images/Swissbilanz.png"
-                },
-                {
-                    "title": "Open for everything!",
-                    "description": "Non è necessario elencare tutti i piccoli progetti sviluppati per le esigenze specifiche dei nostri clienti. La quantità non è il nostro obiettivo, la qualità lo è! Ti basta sapere che siamo aperti a sviluppare soluzioni specifiche per le tue esigenze!",
-                    "slogan": "QUALITÀ PRIMA DELLA QUANTITÀ",
-                    "url": "",
-                    "imageURL": "/images/minor-projects.jpg"
-                }
-            ],
-            "employees": {
-                "unknown": {
-                    "name": "Medusa sconosciuta",
-                    "description": "Non conosciamo ancora questa specie di medusa, ma non vediamo l'ora di accoglierla nel nostro acquario!"
-                },
-                "ldl": {
-                    "name": "Luca De Laurentiis",
-                    "description": "Simile a una creatura artica con i suoi tentacoli resilienti e il suo bagliore traslucido, questa medusa sorprende gli scienziati perché non proviene dal freddo nord, ma dalle calde correnti del sud della Svizzera e dell'Europa.",
-                    "properties": [
-                        {
-                            "key1": "Famiglia",
-                            "value1": "Analytius Quantus",
-                            "key2": "Funzione",
-                            "value2": "Ingegnere software"
-                        },
-                        {
-                            "key1": "Gruppo",
-                            "value1": "Co-fondatore",
-                            "key2": "Livello",
-                            "value2": "Intermedio"
-                        },
-                        {
-                            "key1": "Esperienza",
-                            "value1": "4 anni",
-                            "key2": "Istruzione",
-                            "value2": "Bachelor of Science"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.85,
-                            "key2": "Management",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "Inglese",
-                            "value1": 0.3,
-                            "key2": "Tedesco",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "Francese",
-                            "value1": 0.95,
-                            "key2": "Italiano",
-                            "value2": 1
-                        }
-                    ]
-                },
-                "azu": {
-                    "name": "Adrian Zurbruegg",
-                    "description": "La bellezza traslucida di questa specie di medusa è eguagliata solo dalla sua rarità, nota per abitare le profondità inesplorate della Svizzera.",
-                    "properties": [
-                        {
-                            "key1": "Famiglia",
-                            "value1": "Assistus Guardianus",
-                            "key2": "Funzione",
-                            "value2": "Ingegnere software"
-                        },
-                        {
-                            "key1": "Gruppo",
-                            "value1": "Co-fondatore",
-                            "key2": "Livello",
-                            "value2": "Intermedio"
-                        },
-                        {
-                            "key1": "Esperienza",
-                            "value1": "5 anni",
-                            "key2": "Istruzione",
-                            "value2": "Ancora sconosciuta"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.75,
-                            "key2": "Management",
-                            "value2": 0.8
-                        },
-                        {
-                            "key1": "Inglese",
-                            "value1": 0.7,
-                            "key2": "Tedesco",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "Francese",
-                            "value1": 0.1,
-                            "key2": "Italiano",
-                            "value2": 0.1
-                        }
-                    ]
-                },
-                "rma": {
-                    "name": "Roy Manigley",
-                    "description": "Gli scienziati sono stati stupiti dal bagliore iridescente di questa specie di medusa, che si trova solo nelle acque incontaminate di un fiume incontaminato in Svizzera.",
-                    "properties": [
-                        {
-                            "key1": "Famiglia",
-                            "value1": "Codeus Maximus",
-                            "key2": "Funzione",
-                            "value2": "Ingegnere software"
-                        },
-                        {
-                            "key1": "Gruppo",
-                            "value1": "Co-fondatore",
-                            "key2": "Livello",
-                            "value2": "Senior"
-                        },
-                        {
-                            "key1": "Esperienza",
-                            "value1": "10 anni",
-                            "key2": "Istruzione",
-                            "value2": "Ancora sconosciuta"
-                        },
-                        {
-                            "key1": "Coding power",
-                            "value1": 0.9,
-                            "key2": "Management",
-                            "value2": 0.5
-                        },
-                        {
-                            "key1": "Inglese",
-                            "value1": 0.8,
-                            "key2": "Tedesco",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "Francese",
-                            "value1": 0.7,
-                            "key2": "Italiano",
-                            "value2": 0.2
-                        }
-                    ]
-                }
-            },
-            "mission": "Miriamo ad essere un punto di riferimento nella gestione dei dati, fornendo soluzioni digitali stabili e sicure per semplificare questo complesso mondo digitale.",
-            "ourAddress": "Il nostro indirizzo",
-            "connectWithUs": "Connettiti con noi",
-            "imprint": "Menzioni legali",
-            "address": "Indirizzo",
-            "contact": "Contatto",
-            "uidNumber": "Numero UID",
-            "termsOfUse": "Termini di utilizzo",
-            "termsOfUseText": "Il contenuto del sito web viene continuamente aggiornato. Eutima AG non può garantire la completezza e l'accuratezza delle informazioni presentate e trasmesse. Eutima AG declina ogni responsabilità per eventuali danni o danni consequenziali derivanti dall'utilizzo delle informazioni e dei materiali di Eutima AG o dall'accesso tramite link ad altri siti web.",
-            "allRightsReserved": "Tutti i diritti riservati.",
-            "designedBy": "Progettato da"
+            "pricing": "Preise",
+            "demo": "Demo",
+            "carousel1": "DER KERN DEINER DIGITALEN ZUKUNFT",
+            "carousel2": "DOKUMENTENMANAGEMENT PERFEKT FÜR KMU",
+            "carousel3": "EIN DMS MIT API, WIE ES SEIN SOLLTE",
+            "carousel4": "DEIN ZENTRUM FÜR INTELLIGENTE DATENVERWALTUNG",
+            "carousel5": "ENTDECKE DAS VOLLE POTENZIAL DEINER DATEN",
+            "home_arrow_text": "4 von 1000 möglichen Use-Cases",
+            "home_kydo_use_cases": "<span class=\"text-style-1\">KYDO</span> ist die ideale Lösung, wenn du <span class=\"text-style-1\">Daten</span>\nund <span class=\"text-style-1\">Dokumente</span> nicht nur\nspeichern, sondern auch effektiv <span class=\"text-style-1\">managen</span> möchtest – im\nGegensatz zu Plattformen wie DropBox.",
+            "home_kydo_use_case_trustee": "<span class=\"text-style-1\">KYDO</span> für<br>Treuhänder",
+            "home_kydo_to_use_case_trustee": "Zum Treuhand Use-Case",
+            "home_persona_martin_speech_bubble": "Hallo, ich heisse Martin und bin Treuhänder!",
+            "home_kydo_use_case_kmu": "<span class=\"text-style-1\">KYDO</span> für<br>KMUs</h5>",
+            "home_kydo_to_use_case_kmu": "Zum basic DMS Use-Case",
+            "home_persona_alexandra_speech_bubble": "Mein Name ist Alexandra - Ich bin Inhaberin eines KMUs!",
+            "home_kydo_use_case_accounting": "<span class=\"text-style-1\">KYDO</span> für<br>Buchhalter:innen",
+            "home_kydo_to_use_case_accounting": "Zum Kreditoren-workflow Use-Case",
+            "home_persona_thomas_speech_bubble": "Guten Tag, ich bin Thomas und bin Leiter im Rechnungswesen!",
+            "home_kydo_use_case_developer": "<span class=\"text-style-1\">KYDO</span> für<br>Enwickler:innen",
+            "home_kydo_to_use_case_developer": "KYDO in Applikationen integrieren",
+            "home_persona_julia_speech_bubble": "Hey, ich heisse Julia und bin CTO eines Softwareunternehmens!",
+            "about_us": "ÜBER UNS",
+            "philosophy1": "<span class=\"text-style-1\">KYDO</span> ist ein Produkt der <span class=\"text-style-1\">EUTIMA AG</span>,\ndas in den letzten vier Jahren mit viel <span class=\"text-style-1\">Leidenschaft</span> und Hingabe von\nGrund auf <span class=\"text-style-1\">selbst entwickelt</span> wurde.",
+            "philosophy2": "Mit <span class=\"text-style-1\">KYDO</span> verfolgen wir das Ziel, Unternehmen ein <span\nclass=\"text-style-1\">modernes</span>, <span class=\"text-style-1\">benutzerfreundliches</span> und\n<span class=\"text-style-1\">kostengünstiges</span> System für <span class=\"text-style-1\">Daten- und Dokumentenmanagement</span>\nzu bieten.",
+            "interested_in_meeting_us": "Interessiert uns persönlich kennenzulernen?",
+            "mail_us": "Mail an uns",
+            "call_us": "oder einfach anrufen",
+            "book_demo": "Demo buchen",
+            "cup_of_coffee": "oder lass uns bei einer Tasse Kaffee ins Gespräch kommen - bei euch oder bei uns",
+            "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> für Treuhänder</span>",
+            "trustee_sub_title": "Mit <span class=\"text-style-1\">KYDO</span> kannst Du deinen Kunden eine durchgehend <span\nclass=\"text-style-1\">digitale Lösung</span> in der Zusammenarbeit mit dir als\n<span class=\"text-style-1\">Treuhänder</span> bieten – sicher, prozessorientiert und gleichzeitig\nflexibel anpassbar an die\n<span class=\"text-style-1\">individuellen Bedürfnisse</span> jedes Kunden.",
+            "trustee_speaking_bubble": "Ich bin Martin, Treuhänder, und stets auf der Suche nach innovativen Lösungen, die meinen Kunden den\nAlltag erleichtern und die Zusammenarbeit mit uns optimieren. Ein zentrales Thema ist das effiziente\nDaten- und Dokumentenmanagement. Mein Ziel ist es, einheitliche Prozesse zu etablieren, die eine\nreibungslose Interaktion mit unseren Kunden ermöglichen und gleichzeitig die hohe Qualität unserer\nDienstleistungen sicherstellen.",
+            "trustee_info_left": "Interessiert wie Martin, seine Mitarbeitenden und Kunden mit KYDO\nzusammenarbeiten?",
+            "trustee_info_center": "zu\nMartins KYDO\nProzess",
+            "trustee_info_right": "kostenlose Anbindung der Buchhaltungs-Software",
+            "trustee_process_text_1": "Die Kunden laden ihre Dokumente in ihren Posteingang hoch und klassifizieren sie – entweder über\ndie eigene Smartphone-App, per Drag-and-Drop oder als E-Mail mit Anhang.",
+            "trustee_process_info_circle": "Mit dem Treuhand Dashboard hast du alle Kunden im\nGriff",
+            "trustee_process_info": "Kreditoren und andere Belege können den Kunden zum digitalen Visieren zugeteilt werden.",
+            "trustee_process_text_2": "Die zuständigen Mandatsleitenden erhalten eine Benachrichtigung und bearbeiten die\nDokumente. Buchhaltungsbelege (wie Kreditoren, Spesenbelege usw.) können in einem\nseparaten\nWorkflow automatisiert verarbeitet, kontiert und direkt in die Finanzbuchhaltung\nüberführt werden.",
+            "trustee_process_text_3": "Abschlüsse, Steuererklärungen und andere kundenspezifische Dokumente werden direkt in\ndas KYDO-Archiv hochgeladen.",
+            "trustee_process_text_4": "Die Kunden behalten jederzeit den Überblick, ohne sich um die Buchhaltung kümmern zu müssen.\nGeschäftsrelevante Dokumente sind sicher im KYDO-Archiv gespeichert.",
+            "kmu_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> für KMU</span>",
+            "kmu_sub_title": "Mit <span class=\"text-style-1\">KYDO</span> verabschiedest du dich von physischen\n<span class=\"text-style-1\">Aktenordnern</span> und machst dein Unternehmen fit für die\nDigitalisierung.\n<span class=\"text-style-1\">KYDO</span> sorgt dafür, dass alle Mitarbeitenden\n<span class=\"text-style-1\">Daten und Dokumente</span> gemäss einem klar\n<span class=\"text-style-1\">definierten Prozess</span> ablegen – und jederzeit schnell wiederfinden.",
+            "kmu_speaking_bubble": "Ich bin Alexandra und habe genug von Aktenordnern. In einer klassischen Ordnerstruktur legen alle\nMitarbeitenden die Daten auf unterschiedliche Weise ab. Zudem möchte ich die relevanten Informationen in\nmeinen Dokumenten effektiv nutzen und auswerten können.",
+            "kmu_info_left": "Besprich jetzt deine Ideen mit uns!",
+            "kmu_info_right": "Jetzt das Potential deiner Daten nutzen",
+            "accounting_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> für Buchhalter:innen</span>",
+            "accounting_sub_title": "Mit <span class=\"text-style-1\">KYDO</span> unterstützt dich dabei, deine\n<span class=\"text-style-1\">Buchhaltungsprozesse</span> und Belege zu digitalisieren und zu\nautomatisieren. <span class=\"text-style-1\">KYDO</span> liest Kreditoren- und Spesenbelege aus,\nschlägt <span class=\"text-style-1\">automatisch Kontierungen</span> vor und ermöglicht einen\ndigitalen <span class=\"text-style-1\">Visumsprozess</span> für Kreditoren.",
+            "accounting_speaking_bubble": "Ich bin Thomas, Buchhalter, und möchte meine Abteilung modernisieren. Die papierbasierte Verteilung der\nKreditoren zur Visumsfreigabe gehört für mich der Vergangenheit an, und das überquellende Ordnerarchiv\nist ebenfalls nicht mehr zeitgemäss. Ich suche eine effiziente Lösung, mit der Mitarbeitende ihre\nSpesenbelege unkompliziert einreichen können. Zudem haben meine Mitarbeitenden Besseres zu tun, als\nKreditoren manuell einzutippen.",
+            "accounting_info_left": "Kennst du diese Probleme?",
+            "accounting_info_right": "Fehlt eine Schnittstelle zu deiner\nBuchhaltung? Kein Problem, wir erstellen sie!",
+            "developer_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> für Entwickler:innen</span>",
+            "developer_sub_title": "Mit <span class=\"text-style-1\">KYDO</span> ist ein dynamisches, <span class=\"text-style-1\">webbasiertes Daten- und\nDokumentenmanagement-System</span>. Mit seiner <span class=\"text-style-1\">modernen API</span>\nermöglicht <span class=\"text-style-1\">KYDO</span> Softwareentwickler:innen eine\n<span class=\"text-style-1\">einfache und effiziente</span> Umsetzung von Projekten.",
+            "developer_speaking_bubble": "Ich bin Julia, Softwareentwicklerin, und begleite viele meiner Kunden auf ihrem Weg zur Digitalisierung.\nFür mich stehen einfache und flexible Anbindungen, Datensicherheit sowie präzise Zugriffsberechtigungen\nim Fokus. Ich wünsche mir ein Kernsystem, das allen Kundenansprüchen gerecht wird, damit ich besser auf\ndie individuellen Bedürfnisse meiner Kunden eingehen kann.\nOft ist es jedoch eine Herausforderung, bestehende Lösungen an diese Bedürfnisse anzupassen. Zudem sind\nviele Lösungen teuer in der Integration und im Betrieb.",
+            "developer_info_left": "Mit den Entwicklern von KYDO fachsimpeln?",
+            "developer_info_circle": "Kostenlose, zeitgemässe API",
+            "to_the_functions": "Zu den einzelnen Funktionen",
+            "functions_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Funktionen</span>",
+            "functions_tenant_structure_title": "<span class=\"text-style-1\">Tenant</span> Struktur",
+            "functions_tenant_structure_text": "Jeder Kunde verfügt über einen eigenen Tenant. Die Mandatsleitenden haben über den\nTreuhand-Account Zugriff auf die jeweiligen Kunden-Tenants.",
+            "functions_tenant_info_circle": "KYDO hat eine kostenlose API",
+            "functions_define_doctypes_title": "Zentrale <span class=\"text-style-1\">Dokumenttypen</span> definieren",
+            "functions_define_doctypes_text": "Dokumenttypen, die für alle Kunden gelten, können zentral festgelegt und mit\nkundenspezifischen Dokumenttypen ergänzt werden.",
+            "functions_define_doctype_info": "Dokumenttypen und deren Attribute kannst du selber verwalten und erstellen",
+            "functions_define_doctype_info_circle": "100% Swissmade",
+            "functions_inbox_title": "Inbox",
+            "functions_inbox_text": "Kunden können Dokumente direkt hochladen und klassifizieren – entweder über die eigene\nSmartphone-App, per Drag-and-Drop oder indem sie eine E-Mail mit Anhang an ein eigenes\nKYDO-Postfach senden.",
+            "functions_inbox_info": "Verbinden Sie sich mit Ihrem bestehenden KYDO Konto und laden Sie einfach physische\nDokumente zu Ihrer KYDO Organisation hoch",
+            "functions_automatic_processing_title": "Automatisierte <span class=\"text-style-1\">Belegverarbeitung</span>",
+            "functions_automatic_processing_text": "Buchhaltungsbelege wie Kreditoren und Spesenbelege können in einem separaten Workflow\nautomatisiert verarbeitet, kontiert und direkt in die Finanzbuchhaltung überführt werden.",
+            "functions_automatic_processing_info": "KI-Basiertes auslesen von Informationen im Dokument",
+            "functions_archive_title": "Archiv",
+            "functions_archive_text": "Das Herumtragen von Ordnern und das Versenden von Dokumenten per E-Mail oder Post gehören\nder Vergangenheit an! Kunden haben jederzeit Zugriff auf das digitale Archiv.",
+            "functions_archive_info": "Datenspeicher in Bern - Schweiz",
+            "functions_vising_title": "Visierungsworkflow",
+            "functions_vising_text": "Kreditoren und andere Belege können zum digitalen Visieren zugeteilt werden.",
+            "functions_vising_info": "Deine Kunden können ihre Rechnungen und Ausgaben verwalten, ohne eine Lizenz für die\nBuchhaltungssoftware zu benötigen.",
+            "functions_dashboard_title": "Management <span class=\"text-style-1\">Dashboard</span>",
+            "functions_dashboard_text": "Die Kunden im Überblick! Alle wichtigen Infos deiner Kunden sind auf dem Management\nDashboard verfügbar – Natürlich auch gefiltert nach Mandatsleiter:innen",
+            "functions_dashboard_info_circle": "Debitoren Modul kommt Q2 2025",
+            "functions_pinit": "Haben deine Kunden Kassensysteme?\nUnser Schwesterunternehmen Pinit kann dies problemlos anbinden. <a\nhref=\"https://www.pinit.ch/\" target=\"_blank\">Zu Pinit</a>",
+            "pricing_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Preise</span>",
+            "pricing_info_circle": "User, die nur lesen sind kostenlos!",
+            "pricing_users": "Users",
+            "pricing_user_full": "User mit dem vollen Funktionsumfang:",
+            "pricing_user_upload": "User, die nur Daten hochladen:",
+            "pricing_user_read": "User, die nur lesen:",
+            "pricing_storage": "Speicherplatz",
+            "pricing_storage_required": "Benötigter Speicherplatz:",
+            "pricing_storage_info": "Wird in 5GB Paketen verrechnet. 5GB sind inkludiert, wenn ein Admin/Standard User\nvorhanden ist",
+            "pricing_modules": "Module",
+            "pricing_automated_processing": "Automatische Belegverarbeitung:",
+            "pricing_total": "Totale Kosten",
+            "pricing_total_monthly": "Monatliche Kosten exkl. MwSt:",
+            "any_questions": "Hast du Fragen?",
+            "become_reseller": "Oder möchtest du Reseller werden und von einem anderen\nPreis-Model profitieren?",
+            "select_amount": "Anzahl eingeben"
         },
         "en": {
             "languageKey": "en",
-            "keywords": "kydo software application engineering programming development startup switzerland CH",
-            "description": "We deliver secure, stable solutions to drive innovation and digitalization for small and medium-sized companies. Our custom solutions are tailored to meet the unique needs of each business.",
-            "ogTitle": "Innovative Software Solutions",
-            "ogDescription": "a leading software company in Switzerland, specializes in innovative software development and engineering solutions.",
-            "title": "Eutima",
             "home": "Home",
-            "useCases": "Use-Cases",
-            "testimonials": "Testimonials",
-            "functions": "Funktionen",
+            "functions": "Functions",
             "pricing": "Pricing",
-            "servicesKey": "Services",
-            "projectsKey": "Projects",
-            "employeesAquarium": "Employees Aquarium",
-            "with": "with",
-            "passion": "Passion",
-            "and": "and",
-            "creativity": "Creativity",
-            "mainProjects": "Main projects",
-            "mainProjectsDescription": "Explore our cutting-edge projects, designed to drive progress and innovation.",
-            "indicatorsTitle": "Just a couple of indicators concerning our company and its growth!",
-            "cupsOfCoffee": "Cups of Coffee",
-            "clients": "Clients",
-            "finishedProjects": "Finished Projects",
-            "employeesAquarium1": "We chose the jellyfish as our company logo because all of its filaments, moving in a gentle and harmonious way, are reminiscent of all the connections in the digital world and the way we want to manage them: gently and harmoniously.",
-            "employeesAquarium2": "From this concept comes the name of our company: Eutima. This name refers to a genus of jellyfish, known for its transparency and slender tentacles.",
-            "employeesAquarium3": "This is the reason why the jellyfish is often present in our ecosystem and also the reason why you can discover our employees through our employees aquarium.",
-            "employeesAquarium4": "Don't hesitate to click on us, drag us or pull our filaments!",
-            "goToAquarium": "GO TO OUR AQUARIUM!",
-            "employeesAquariumTail": "If you want to be part of the Eutima swarm, don't hesitate to contact us.",
-            "modal": {
-                "inbox": {
-                    "title": "Inbox",
-                    "content": "The inbox is a collection of the documents that have been uploaded. From here, documents can be classified by assigning them a doctype.",
-                    "link": "<a href='/en/pages/functions.html#inbox' target='_blank'>Learn more</a>"
-                },
-                "webupload": {
-                    "title": "Upload Web",
-                    "content": "Upload files to KYDO by drag and drop or via the file explorer dialog.",
-                    "link": "<a href='/en/pages/functions.html#webupload' target='_blank'>Learn more</a>"
-                },
-                "mail": {
-                    "title": "Upload Mail",
-                    "content": "Send an email to your kydo inbox and each attachment will get uploaded to your inbox",
-                    "link": "<a href='/en/pages/functions.html#mail' target='_blank'>Learn more</a>"
-                },
-                "smartphoneApp": {
-                    "title": "Upload App",
-                    "content": "Upload files to KYDO with the smartphone App available for Android and iOS.",
-                    "link": "<a href='/en/pages/functions.html#smartphone-app' target='_blank'>Learn more</a>"
-                },
-                "countingVising": {
-                    "title": "Counting & Vising",
-                    "content": "This workflow allows the processing of creditors. It supports detection of basic information such as IBAN, contact, etc.",
-                    "link": "<a href='/en/pages/functions.html#counting-vising' target='_blank'>Learn more</a>"
-                },
-                "vising": {
-                    "title": "Vising",
-                    "content": "Allow to define who needs to vise an invoice for further processing.",
-                    "link": "<a href='/en/pages/functions.html#vising' target='_blank'>Learn more</a>"
-                },
-                "archive": {
-                    "title": "Archive",
-                    "content": "The archive contains all of your files. You can filter them based on attributes and export them to a zip file.",
-                    "link": "<a href='/en/pages/functions.html#archive' target='_blank'>Learn more</a>"
-                },
-                "externalFinac": {
-                    "title": "Financial accounting software",
-                    "content": "Integration to external financial softwares such as Bexio. Manual accounting supported as well.",
-                    "link": "<a href='/en/pages/functions.html#external-finac' target='_blank'>Learn more</a>"
-                }
-            },
-            "services": {
-                "requirementsEngineering": {
-                    "title": "Requirements Engineering",
-                    "description": "We meticulously gather and analyze requirements to ensure your project's success."
-                },
-                "softwareDev": {
-                    "title": "Custom Software Development",
-                    "description": "Our team develops bespoke software solutions to drive your business success."
-                },
-                "CICD": {
-                    "title": "CI/CD",
-                    "description": "We implement continuous integration and continuous delivery to enhance your development process."
-                },
-                "consulting": {
-                    "title": "Consulting",
-                    "description": "Our experts provide professional consulting services to optimize your IT strategies."
-                },
-                "support": {
-                    "title": "Support",
-                    "description": "We offer reliable support services to ensure the smooth operation of your software."
-                },
-                "hosting": {
-                    "title": "Hosting of Apps and Services",
-                    "description": "We provide secure and reliable hosting services for your apps and services, with data centers located in Switzerland."
-                },
-                "e2e": {
-                    "title": "End to End Software Delivery",
-                    "description": "You can choose a single service or let us manage the entire software delivery lifecycle from concept to deployment and maintenance."
-                }
-            },
-            "projects": [
-                {
-                    "title": "KYDO",
-                    "description": "KYDO revolutionizes document management with secure storage, easy sharing, and seamless integration. Access your data anytime, anywhere, with encryption ensuring safety. KYDO adapts to your workflow, making document handling effortless. Data is securely stored in Switzerland.",
-                    "slogan": "KEEP YOUR DATA ORGANIZED",
-                    "url": "https://kydo.ch",
-                    "imageURL": "/images/KYDO-Logo-square.png"
-                },
-                {
-                    "title": "PINIT",
-                    "description": "Stay organized with PINIT! Upload documents easily via Drag & Drop, our scanning app, or email. Process and approve receipts quickly. Integrate your POS system for automatic income and payment recording. Automate your cash book to save time and reduce errors, so you can focus on your business.",
-                    "slogan": "GASTRONOMY ACCOUNTING MADE EASY",
-                    "url": "https://pinit.ch",
-                    "imageURL": "/images/PINIT_black_logo-square.png"
-                },
-                {
-                    "title": "Smart Ride",
-                    "description": "\nOur web app optimizes routes and ensures timely pickups and drop-offs for transports. It provides real-time updates, reduces travel time, and enhances safety. Focus on your core business while our technology handles logistics.",
-                    "slogan": "PLAN, INFORM, DRIVE!",
-                    "url": "",
-                    "imageURL": "/images/smart-ride.jpg"
-                },
-                {
-                    "title": "Swissbilanz",
-                    "description": "The description will come soon.",
-                    "slogan": "COMING SOON",
-                    "url": "",
-                    "imageURL": "/images/Swissbilanz.png"
-                },
-                {
-                    "title": "Open for everything!",
-                    "description": "Needless to list all the small projects developed for the specific needs of our customers. Quantity is not our goal, quality is! So, just be aware that we are open to develop specific solutions for your needs!",
-                    "slogan": "QUALITY OVER QUANTITY IS THE WAY",
-                    "url": "",
-                    "imageURL": "/images/minor-projects.jpg"
-                }
-            ],
-            "employees": {
-                "unknown": {
-                    "name": "Unknown jellyfish",
-                    "description": "We don't know this jellyfish species yet, but we look forward to welcoming it into our aquarium!"
-                },
-                "ldl": {
-                    "name": "Luca De Laurentiis",
-                    "description": "Resembling an arctic creature with its resilient tentacles and translucent sheen, this jellyfish surprises scientists as it hails not from the frigid north, but from the warm currents of the Southern of Switzerland and Europe.",
-                    "properties": [
-                        {
-                            "key1": "Family",
-                            "value1": "Analytius Quantus",
-                            "key2": "Function",
-                            "value2": "Software Engineer"
-                        },
-                        {
-                            "key1": "Group",
-                            "value1": "Co-founder",
-                            "key2": "Level",
-                            "value2": "Mid"
-                        },
-                        {
-                            "key1": "Experience",
-                            "value1": " 4 years",
-                            "key2": "Education",
-                            "value2": "Bachelor of Science"
-                        },
-                        {
-                            "key1": "Coding Power",
-                            "value1": 0.85,
-                            "key2": "Management",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "English",
-                            "value1": 0.3,
-                            "key2": "German",
-                            "value2": 0.6
-                        },
-                        {
-                            "key1": "French",
-                            "value1": 0.95,
-                            "key2": "Italian",
-                            "value2": 1
-                        }
-                    ]
-                },
-                "azu": {
-                    "name": "Adrian Zurbruegg",
-                    "description": "The translucent beauty of this jellyfish species is matched only by its rarity, known to inhabit the unexplored depths of Switzerland.",
-                    "properties": [
-                        {
-                            "key1": "Family",
-                            "value1": "Assistus Guardianus",
-                            "key2": "Function",
-                            "value2": "Software Engineer"
-                        },
-                        {
-                            "key1": "Group",
-                            "value1": "Co-founder",
-                            "key2": "Level",
-                            "value2": "Mid"
-                        },
-                        {
-                            "key1": "Experience",
-                            "value1": " 5 years",
-                            "key2": "Education",
-                            "value2": "Unknown so far"
-                        },
-                        {
-                            "key1": "Coding Power",
-                            "value1": 0.75,
-                            "key2": "Management",
-                            "value2": 0.8
-                        },
-                        {
-                            "key1": "English",
-                            "value1": 0.7,
-                            "key2": "German",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "French",
-                            "value1": 0.1,
-                            "key2": "Italian",
-                            "value2": 0.1
-                        }
-                    ]
-                },
-                "rma": {
-                    "name": "Roy Manigley",
-                    "description": "Scientists have marveled at the iridescent glow of this jellyfish species, found only in the pristine waters of an untouched river in switzerland.",
-                    "properties": [
-                        {
-                            "key1": "Family",
-                            "value1": "Codeus Maximus",
-                            "key2": "Function",
-                            "value2": "Software Engineer"
-                        },
-                        {
-                            "key1": "Group",
-                            "value1": "Co-founder",
-                            "key2": "Level",
-                            "value2": "Senior"
-                        },
-                        {
-                            "key1": "Experience",
-                            "value1": " 10 years",
-                            "key2": "Education",
-                            "value2": "Unknown so far"
-                        },
-                        {
-                            "key1": "Coding Power",
-                            "value1": 0.9,
-                            "key2": "Management",
-                            "value2": 0.5
-                        },
-                        {
-                            "key1": "English",
-                            "value1": 0.8,
-                            "key2": "German",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "French",
-                            "value1": 0.7,
-                            "key2": "Italian",
-                            "value2": 0.2
-                        }
-                    ]
-                },
-                "fko": {
-                    "name": "Florian Koeberle",
-                    "description": "Resembling a luminescent jellyfish drifting gracefully through the crystalline waters of Switzerland. His ability to adapt and thrive in dynamic environments makes him a symbol of graceful agility amidst change.",
-                    "properties": [
-                        {
-                            "key1": "Family",
-                            "value1": "Ingenious Creativus",
-                            "key2": "Function",
-                            "value2": "Product Designer"
-                        },
-                        {
-                            "key1": "Group",
-                            "value1": "Co-founder",
-                            "key2": "Level",
-                            "value2": "Senior"
-                        },
-                        {
-                            "key1": "Experience",
-                            "value1": "20 years",
-                            "key2": "Education",
-                            "value2": "Unknown so far"
-                        },
-                        {
-                            "key1": "Coding Power",
-                            "value1": 0.1,
-                            "key2": "Management",
-                            "value2": 0.95
-                        },
-                        {
-                            "key1": "English",
-                            "value1": 0.65,
-                            "key2": "German",
-                            "value2": 1
-                        },
-                        {
-                            "key1": "French",
-                            "value1": 0.5,
-                            "key2": "Italian",
-                            "value2": 0.1
-                        }
-                    ]
-                }
-            },
-            "mission": "We aim to be a benchmark in data management, providing stable and secure digital solutions to simplify this complex digital world.",
-            "ourAddress": "Our Address",
-            "connectWithUs": "Connect with Us",
-            "imprint": "Imprint",
-            "address": "Address",
-            "contact": "Contact",
-            "uidNumber": "UID number",
-            "termsOfUse": "Terms of use",
-            "termsOfUseText": "The contents of the website are continuously updated. Eutima AG cannot guarantee the completeness and accuracy of the information presented and transmitted. Eutima AG accepts no liability for any damage or consequential damage arising from the use of information and material from Eutima AG or from access via links to other websites.",
-            "allRightsReserved": "All Rights Reserved.",
-            "designedBy": "Designed by"
+            "demo": "Demo",
+            "carousel1": "THE CORE OF YOUR DIGITAL FUTURE",
+            "carousel2": "DOCUMENT MANAGEMENT PERFECT FOR SMEs",
+            "carousel3": "A DMS WITH AN API AS IT SHOULD BE",
+            "carousel4": "YOUR CENTER FOR INTELLIGENT DATA MANAGEMENT",
+            "carousel5": "DISCOVER THE FULL POTENTIAL OF YOUR DATA",
+            "home_arrow_text": "4 out of 1000 possible use cases",
+            "home_kydo_use_cases": "<span class=\"text-style-1\">KYDO</span> is the ideal solution if you want to not only store <span class=\"text-style-1\">data</span>\nand <span class=\"text-style-1\">documents</span>, but also effectively <span class=\"text-style-1\">manage</span> them – unlike platforms like DropBox.",
+            "home_kydo_use_case_trustee": "<span class=\"text-style-1\">KYDO</span> for<br>trustees",
+            "home_kydo_to_use_case_trustee": "To the trustee use case",
+            "home_persona_martin_speech_bubble": "Hello, my name is Martin and I am a trustee!",
+            "home_kydo_use_case_kmu": "<span class=\"text-style-1\">KYDO</span> for<br>SMEs</h5>",
+            "home_kydo_to_use_case_kmu": "To the basic DMS Use-Case",
+            "home_persona_alexandra_speech_bubble": "My name is Alexandra - I am the owner of an SME!",
+            "home_kydo_use_case_accounting": "<span class=\"text-style-1\">KYDO</span> for<br>Accountants",
+            "home_kydo_to_use_case_accounting": "To the creditor-workflow Use-Case",
+            "home_persona_thomas_speech_bubble": "Good day, I am Thomas and I am the head of accounting!",
+            "home_kydo_use_case_developer": "<span class=\"text-style-1\">KYDO</span> for<br>Developers",
+            "home_kydo_to_use_case_developer": "Integrate KYDO into applications",
+            "home_persona_julia_speech_bubble": "Hey, my name is Julia and I am the CTO of a software company!",
+            "about_us": "ABOUT US",
+            "philosophy1": "<span class=\"text-style-1\">KYDO</span> is a product of <span class=\"text-style-1\">EUTIMA AG</span>, developed from scratch over the past four years with great <span class=\"text-style-1\">passion</span> and dedication.",
+            "philosophy2": "With <span class=\"text-style-1\">KYDO</span>, our goal is to offer companies a <span class=\"text-style-1\">modern</span>, <span class=\"text-style-1\">user-friendly</span>, and <span class=\"text-style-1\">cost-effective</span> system for <span class=\"text-style-1\">data and document management</span>.",
+            "interested_in_meeting_us": "Interested in meeting us in person?",
+            "mail_us": "Email us",
+            "call_us": "or just give us a call",
+            "book_demo": "Book a Demo",
+            "cup_of_coffee": "or let’s have a conversation over a cup of coffee – at your place or ours",
+            "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> for Trustees</span>",
+            "trustee_sub_title": "With <span class=\"text-style-1\">KYDO</span>, you can offer your clients a fully <span class=\"text-style-1\">digital solution</span> for collaboration with you as a <span class=\"text-style-1\">trustee</span> – secure, process-oriented, and at the same time flexibly adaptable to the <span class=\"text-style-1\">individual needs</span> of each client.",
+            "trustee_speaking_bubble": "I am Martin, a trustee, always looking for innovative solutions that make everyday life easier for my clients and optimize collaboration with us. A key focus is efficient data and document management. My goal is to establish standardized processes that ensure smooth interaction with our clients while maintaining the high quality of our services.",
+            "trustee_info_left": "Interested in how Martin, his team, and clients collaborate with KYDO?",
+            "trustee_info_center": "to Martin's KYDO process",
+            "trustee_info_right": "free integration of accounting software",
+            "trustee_process_text_1": "Clients upload their documents to their inbox and classify them – either via the dedicated smartphone app, drag-and-drop, or by email with attachments.",
+            "trustee_process_info_circle": "With the trustee dashboard, you have full control over all clients",
+            "trustee_process_info": "Creditors and other receipts can be assigned to clients for digital approval.",
+            "trustee_process_text_2": "The responsible mandate leaders receive a notification and process the documents. Accounting records (such as creditor invoices, expense receipts, etc.) can be automatically processed, allocated, and transferred directly into financial accounting within a separate workflow.",
+            "trustee_process_text_3": "Financial statements, tax returns, and other client-specific documents are uploaded directly to the KYDO archive.",
+            "trustee_process_text_4": "Clients always have an overview without having to worry about accounting. Business-critical documents are securely stored in the KYDO archive.",
+            "kmu_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> for SMEs</span>",
+            "kmu_sub_title": "With <span class=\"text-style-1\">KYDO</span>, say goodbye to physical <span class=\"text-style-1\">file folders</span> and get your business ready for digitalization. <span class=\"text-style-1\">KYDO</span> ensures that all employees store <span class=\"text-style-1\">data and documents</span> according to a clearly <span class=\"text-style-1\">defined process</span> – and can quickly find them again anytime.",
+            "kmu_speaking_bubble": "I’m Alexandra and I’m tired of file folders. In a traditional folder structure, all employees store data in different ways. I also want to be able to effectively use and analyze the relevant information in my documents.",
+            "kmu_info_left": "Discuss your ideas with us now!",
+            "kmu_info_right": "Now unlock the potential of your data",
+            "accounting_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> for Accountants</span>",
+            "accounting_sub_title": "With <span class=\"text-style-1\">KYDO</span>, you can digitalize and automate your <span class=\"text-style-1\">accounting processes</span> and documents. <span class=\"text-style-1\">KYDO</span> extracts creditor and expense receipts, automatically suggests <span class=\"text-style-1\">accounting entries</span>, and enables a digital <span class=\"text-style-1\">approval process</span> for creditors.",
+            "accounting_speaking_bubble": "I’m Thomas, an accountant, and I want to modernize my department. The paper-based distribution of creditors for approval is a thing of the past, and the overflowing file archives are outdated as well. I’m looking for an efficient solution where employees can easily submit their expense receipts. Also, my employees have better things to do than manually entering creditors.",
+            "accounting_info_left": "Do you recognize these issues?",
+            "accounting_info_right": "Missing an integration with your accounting system? No problem, we’ll create it!",
+            "developer_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> for Developers</span>",
+            "developer_sub_title": "With <span class=\"text-style-1\">KYDO</span>, a dynamic, <span class=\"text-style-1\">web-based data and document management system</span>, developers can easily and efficiently implement projects thanks to its <span class=\"text-style-1\">modern API</span>.",
+            "developer_speaking_bubble": "I’m Julia, a software developer, and I help many of my clients on their digitalization journey. For me, the focus is on simple and flexible integrations, data security, and precise access controls. I want a core system that meets all customer demands so that I can better address the individual needs of my clients. However, adapting existing solutions to these needs is often a challenge. Also, many solutions are expensive to integrate and operate.",
+            "developer_info_left": "Geek out with KYDO developers?",
+            "developer_info_circle": "Free, modern API",
+            "to_the_functions": "To the individual functions",
+            "functions_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Functions</span>",
+            "functions_tenant_structure_title": "<span class=\"text-style-1\">Tenant</span> Structure",
+            "functions_tenant_structure_text": "Each client has their own tenant. Mandate leaders can access client tenants through the trustee account.",
+            "functions_tenant_info_circle": "KYDO has a free API",
+            "functions_define_doctypes_title": "Define central <span class=\"text-style-1\">document types</span>",
+            "functions_define_doctypes_text": "Document types that apply to all clients can be centrally defined and supplemented with client-specific document types.",
+            "functions_define_doctype_info": "You can manage and create document types and their attributes yourself",
+            "functions_define_doctype_info_circle": "100% Swissmade",
+            "functions_inbox_title": "Inbox",
+            "functions_inbox_text": "Clients can directly upload and classify documents – either through their own smartphone app, by drag-and-drop, or by sending an email with an attachment to their own KYDO inbox.",
+            "functions_inbox_info": "Connect with your existing KYDO account and easily upload physical documents to your KYDO organization",
+            "functions_automatic_processing_title": "Automated <span class=\"text-style-1\">Receipt Processing</span>",
+            "functions_automatic_processing_text": "Accounting receipts such as creditors and expense receipts can be automatically processed, allocated, and directly transferred to financial accounting in a separate workflow.",
+            "functions_automatic_processing_info": "AI-based extraction of information from documents",
+            "functions_archive_title": "Archive",
+            "functions_archive_text": "No more carrying folders or sending documents by email or post! Clients have access to the digital archive at any time.",
+            "functions_archive_info": "Data storage in Bern, Switzerland",
+            "functions_vising_title": "Approval Workflow",
+            "functions_vising_text": "Creditors and other receipts can be assigned for digital approval.",
+            "functions_vising_info": "Your clients can manage their invoices and expenses without needing a license for accounting software.",
+            "functions_dashboard_title": "Management <span class=\"text-style-1\">Dashboard</span>",
+            "functions_dashboard_text": "Overview of clients! All key information about your clients is available on the management dashboard – naturally also filtered by mandate leaders",
+            "functions_dashboard_info_circle": "Debtor module coming Q2 2025",
+            "functions_pinit": "Do your clients have cash register systems? Our sister company Pinit can easily integrate them. <a href=\"https://www.pinit.ch/\" target=\"_blank\">To Pinit</a>",
+            "pricing_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Pricing</span>",
+            "pricing_info_circle": "Users who can only read are free!",
+            "pricing_users": "Users",
+            "pricing_user_full": "Users with full functionality:",
+            "pricing_user_upload": "Users who only upload data:",
+            "pricing_user_read": "Users who only read:",
+            "pricing_storage": "Storage",
+            "pricing_storage_required": "Required storage:",
+            "pricing_storage_info": "Charged in 5GB packages. 5GB is included if there is an Admin/Standard User",
+            "pricing_modules": "Modules",
+            "pricing_automated_processing": "Automated document processing:",
+            "pricing_total": "Total costs",
+            "pricing_total_monthly": "Monthly cost excluding VAT:",
+            "any_questions": "Any questions?",
+            "become_reseller": "Or would you like to become a reseller and benefit from a different pricing model?",
+            "select_amount": "Enter amount"
+        },
+        "fr": {
+            "languageKey": "fr",
+            "home": "Home",
+            "functions": "Fonctionnalités",
+            "pricing": "Tarifs",
+            "demo": "Démo",
+            "carousel1": "LE COEUR DE VOTRE AVENIR NUMÉRIQUE",
+            "carousel2": "UNE GESTION DOCUMENTAIRE PARFAITE POUR LES PME",
+            "carousel3": "UN GESTIONNAIRE DE DOCUMENTS AVEC UNE API COMME IL SE DOIT",
+            "carousel4": "VOTRE CENTRE POUR UNE GESTION INTELLIGENTE DES DONNÉES",
+            "carousel5": "DÉCOUVREZ TOUT LE POTENTIEL DE VOS DONNÉES",
+            "home_arrow_text": "4 sur 1000 cas d'utilisation possibles",
+            "home_kydo_use_cases": "<span class=\"text-style-1\">KYDO</span> est la solution idéale si vous souhaitez non seulement stocker des <span class=\"text-style-1\">données</span>\net des <span class=\"text-style-1\">documents</span>, mais aussi les <span class=\"text-style-1\">gérer</span> efficacement – contrairement aux plateformes comme DropBox.",
+            "home_kydo_use_case_trustee": "<span class=\"text-style-1\">KYDO</span> pour<br>les fiduciaires",
+            "home_kydo_to_use_case_trustee": "Vers le Use-Case des fiduciaires",
+            "home_persona_martin_speech_bubble": "Bonjour, je m'appelle Martin et je suis fiduciaire !",
+            "home_kydo_use_case_kmu": "<span class=\"text-style-1\">KYDO</span> pour<br>PME</h5>",
+            "home_kydo_to_use_case_kmu": "Vers le Use-Case DMS de base",
+            "home_persona_alexandra_speech_bubble": "Je m'appelle Alexandra - Je suis propriétaire d'une PME !",
+            "home_kydo_use_case_accounting": "<span class=\"text-style-1\">KYDO</span> pour<br>Comptables",
+            "home_kydo_to_use_case_accounting": "Vers le Use-Case créanciers",
+            "home_persona_thomas_speech_bubble": "Bonjour, je suis Thomas et je suis responsable de la comptabilité !",
+            "home_kydo_use_case_developer": "<span class=\"text-style-1\">KYDO</span> pour<br>Développeurs",
+            "home_kydo_to_use_case_developer": "Intégrer KYDO dans les applications",
+            "home_persona_julia_speech_bubble": "Salut, je m'appelle Julia et je suis CTO d'une entreprise de logiciels !",
+            "about_us": "À PROPOS DE NOUS",
+            "philosophy1": "<span class=\"text-style-1\">KYDO</span> est un produit de <span class=\"text-style-1\">EUTIMA AG</span>, développé depuis zéro au cours des quatre dernières années avec beaucoup de <span class=\"text-style-1\">passion</span> et de dévouement.",
+            "philosophy2": "Avec <span class=\"text-style-1\">KYDO</span>, nous avons pour objectif d'offrir aux entreprises un système <span class=\"text-style-1\">moderne</span>, <span class=\"text-style-1\">convivial</span> et <span class=\"text-style-1\">rentable</span> pour la <span class=\"text-style-1\">gestion des données et des documents</span>.",
+            "interested_in_meeting_us": "Intéressé à nous rencontrer en personne ?",
+            "mail_us": "Envoyez-nous un e-mail",
+            "call_us": "ou appelez-nous simplement",
+            "book_demo": "Réserver une démo",
+            "cup_of_coffee": "ou discutons autour d'une tasse de café – chez vous ou chez nous",
+            "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> pour Fiduciaires</span>",
+            "trustee_sub_title": "Avec <span class=\"text-style-1\">KYDO</span>, vous pouvez offrir à vos clients une <span class=\"text-style-1\">solution numérique</span> complète pour collaborer avec vous en tant que <span class=\"text-style-1\">fiduciaire</span> – sécurisée, axée sur les processus et en même temps adaptable aux <span class=\"text-style-1\">besoins individuels</span> de chaque client.",
+            "trustee_speaking_bubble": "Je suis Martin, fiduciaire, toujours à la recherche de solutions innovantes qui facilitent la vie quotidienne de mes clients et optimisent notre collaboration. Un élément clé est la gestion efficace des données et des documents. Mon objectif est d'établir des processus uniformes qui garantissent une interaction fluide avec nos clients tout en maintenant la haute qualité de nos services.",
+            "trustee_info_left": "Intéressé par la façon dont Martin, son équipe et ses clients travaillent avec KYDO?",
+            "trustee_info_center": "vers le processus KYDO de Martin",
+            "trustee_info_right": "intégration gratuite du logiciel comptable",
+            "trustee_process_text_1": "Les clients téléchargent leurs documents dans leur boîte de réception et les classifient – soit via l’application mobile dédiée, par glisser-déposer ou par e-mail avec pièces jointes.",
+            "trustee_process_info_circle": "Avec le tableau de bord fiduciaire, vous gardez le contrôle sur tous vos clients",
+            "trustee_process_info": "Les factures fournisseurs et autres justificatifs peuvent être attribués aux clients pour validation numérique.",
+            "trustee_process_text_2": "Les responsables de mandat reçoivent une notification et traitent les documents. Les pièces comptables (factures fournisseurs, notes de frais, etc.) peuvent être automatiquement traitées, imputées et transférées directement dans la comptabilité financière via un workflow dédié.",
+            "trustee_process_text_3": "Les bilans, déclarations fiscales et autres documents spécifiques aux clients sont directement téléchargés dans l’archive KYDO.",
+            "trustee_process_text_4": "Les clients gardent toujours une vue d’ensemble sans se soucier de la comptabilité. Les documents essentiels à l’entreprise sont stockés en toute sécurité dans l’archive KYDO.",
+            "kmu_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> pour PME</span>",
+            "kmu_sub_title": "Avec <span class=\"text-style-1\">KYDO</span>, dites adieu aux <span class=\"text-style-1\">dossiers physiques</span> et préparez votre entreprise à la numérisation. <span class=\"text-style-1\">KYDO</span> garantit que tous les employés enregistrent <span class=\"text-style-1\">données et documents</span> selon un <span class=\"text-style-1\">processus clairement défini</span> – et peuvent les retrouver rapidement à tout moment.",
+            "kmu_speaking_bubble": "Je suis Alexandra et j’en ai assez des dossiers. Dans une structure de dossiers classique, chaque employé enregistre les données de manière différente. Je veux aussi pouvoir utiliser et analyser efficacement les informations pertinentes dans mes documents.",
+            "kmu_info_left": "Discutez de vos idées avec nous maintenant !",
+            "kmu_info_right": "Utilisez dès maintenant le potentiel de vos données",
+            "accounting_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> pour Comptables</span>",
+            "accounting_sub_title": "Avec <span class=\"text-style-1\">KYDO</span>, vous pouvez numériser et automatiser vos <span class=\"text-style-1\">processus comptables</span> et documents. <span class=\"text-style-1\">KYDO</span> extrait les factures créditeurs et les reçus de frais, propose automatiquement des <span class=\"text-style-1\">comptabilisations</span> et permet un <span class=\"text-style-1\">processus de validation</span> numérique pour les créanciers.",
+            "accounting_speaking_bubble": "Je suis Thomas, comptable, et je souhaite moderniser mon département. La distribution papier des créanciers pour validation appartient au passé, et les archives de dossiers débordantes ne sont plus modernes. Je cherche une solution efficace où les employés peuvent facilement soumettre leurs reçus de frais. De plus, mes employés ont mieux à faire que de saisir manuellement les créanciers.",
+            "accounting_info_left": "Reconnaissez-vous ces problèmes?",
+            "accounting_info_right": "Pas d'intégration avec votre comptabilité ? On s'en occupe!",
+            "developer_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> pour Développeurs</span>",
+            "developer_sub_title": "Avec <span class=\"text-style-1\">KYDO</span>, un système dynamique et <span class=\"text-style-1\">basé sur le web pour la gestion des données et des documents</span>, les développeurs peuvent mettre en œuvre des projets de manière <span class=\"text-style-1\">simple et efficace</span> grâce à sa <span class=\"text-style-1\">moderne API</span>.",
+            "developer_speaking_bubble": "Je suis Julia, développeuse, et j'accompagne de nombreux clients dans leur transformation numérique. Pour moi, l'accent est mis sur des intégrations simples et flexibles, la sécurité des données et des contrôles d'accès précis. Je souhaite un système central qui réponde aux exigences de tous les clients afin de mieux répondre aux besoins individuels de mes clients. Cependant, il est souvent difficile d'adapter les solutions existantes à ces besoins. De plus, de nombreuses solutions sont coûteuses à intégrer et à exploiter.",
+            "developer_info_left": "Discuter avec les développeurs de KYDO?",
+            "developer_info_circle": "API moderne et gratuite",
+            "to_the_functions": "Vers les fonctions individuelles",
+            "functions_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Fonctions</span>",
+            "functions_tenant_structure_title": "<span class=\"text-style-1\">Structure</span> du Tenant",
+            "functions_tenant_structure_text": "Chaque client dispose de son propre tenant. Les responsables de mandat y accèdent via le compte fiduciaire.",
+            "functions_tenant_info_circle": "KYDO dispose d'une API gratuite",
+            "functions_define_doctypes_title": "Définir les <span class=\"text-style-1\">types de documents</span> centraux",
+            "functions_define_doctypes_text": "Les types de documents valables pour tous les clients peuvent être définis de manière centrale et complétés par des types spécifiques à chaque client.",
+            "functions_define_doctype_info": "Vous pouvez gérer et créer vous-même les types de documents et leurs attributs",
+            "functions_define_doctype_info_circle": "100% Swissmade",
+            "functions_inbox_title": "Boîte de réception",
+            "functions_inbox_text": "Les clients peuvent télécharger et classer directement des documents – soit via leur propre application mobile, par glisser-déposer, ou en envoyant un e-mail avec une pièce jointe à leur propre boîte de réception KYDO.",
+            "functions_inbox_info": "Connectez-vous à votre compte KYDO existant et téléchargez facilement des documents physiques dans votre organisation KYDO",
+            "functions_automatic_processing_title": "Traitement automatisé des <span class=\"text-style-1\">justificatifs</span>",
+            "functions_automatic_processing_text": "Les justificatifs comptables tels que les créanciers et les notes de frais peuvent être traités automatiquement, imputés et directement transférés dans la comptabilité financière via un flux de travail séparé.",
+            "functions_automatic_processing_info": "Extraction des informations des documents basée sur l'IA",
+            "functions_archive_title": "Archive",
+            "functions_archive_text": "Finie l'époque des classeurs et de l'envoi de documents par e-mail ou par courrier ! Les clients ont un accès permanent à l'archive numérique.",
+            "functions_archive_info": "Stockage des données à Berne, Suisse",
+            "functions_vising_title": "Flux de validation",
+            "functions_vising_text": "Les créanciers et autres justificatifs peuvent être affectés à une validation numérique.",
+            "functions_vising_info": "Vos clients peuvent gérer leurs factures et leurs dépenses sans avoir besoin d'une licence pour un logiciel comptable.",
+            "functions_dashboard_title": "Tableau de bord de gestion",
+            "functions_dashboard_text": "Vue d'ensemble des clients ! Toutes les informations clés sur vos clients sont disponibles sur le tableau de bord de gestion – bien sûr aussi filtrées par responsables de mandat",
+            "functions_dashboard_info_circle": "Module débiteurs disponible au 2e trimestre 2025",
+            "functions_pinit": "Vos clients ont des systèmes de caisse ? Notre entreprise sœur Pinit peut les intégrer facilement. <a href=\"https://www.pinit.ch/\" target=\"_blank\">Vers Pinit</a>",
+            "pricing_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Tarifs</span>",
+            "pricing_info_circle": "Les utilisateurs en lecture sont gratuits!",
+            "pricing_users": "Utilisateurs",
+            "pricing_user_full": "Utilisateurs avec toutes les fonctionnalités :",
+            "pricing_user_upload": "Utilisateurs qui ne font que télécharger des données :",
+            "pricing_user_read": "Utilisateurs qui ne font que lire :",
+            "pricing_storage": "Stockage",
+            "pricing_storage_required": "Espace de stockage nécessaire :",
+            "pricing_storage_info": "Facturé en paquets de 5GB. 5GB sont inclus si un administrateur/utilisateur standard est présent",
+            "pricing_modules": "Modules",
+            "pricing_automated_processing": "Traitement automatisé des documents :",
+            "pricing_total": "Coût total",
+            "pricing_total_monthly": "Coût mensuel hors TVA :",
+            "any_questions": "Des questions ?",
+            "become_reseller": "Ou souhaitez-vous devenir revendeur et bénéficier d'un modèle de tarification différent ?",
+            "select_amount": "Entrez la quantité"
+        },
+        "it": {
+            "languageKey": "it",
+            "home": "Home",
+            "functions": "Funzioni",
+            "pricing": "Prezzi",
+            "demo": "Demo",
+            "carousel1": "IL CUORE DEL TUO FUTURO DIGITALE",
+            "carousel2": "GESTIONE DOCUMENTALE PERFETTA PER LE PMI",
+            "carousel3": "UN DMS CON UN'API COME DOVREBBE ESSERE",
+            "carousel4": "IL TUO CENTRO PER UNA GESTIONE INTELLIGENTE DEI DATI",
+            "carousel5": "SCOPRI IL PIENO POTENZIALE DEI TUOI DATI",
+            "home_arrow_text": "4 su 1000 casi d'uso possibili",
+            "home_kydo_use_cases": "<span class=\"text-style-1\">KYDO</span> è la soluzione ideale se desideri non solo archiviare <span class=\"text-style-1\">dati</span>\ne <span class=\"text-style-1\">documenti</span>, ma anche <span class=\"text-style-1\">gestirli</span> in modo efficace – a differenza di piattaforme come DropBox.",
+            "home_kydo_use_case_trustee": "<span class=\"text-style-1\">KYDO</span> per<br>fiduciari",
+            "home_kydo_to_use_case_trustee": "Al Use-Case dei fiduciari",
+            "home_persona_martin_speech_bubble": "Ciao, mi chiamo Martin e sono un fiduciario!",
+            "home_kydo_use_case_kmu": "<span class=\"text-style-1\">KYDO</span> per<br>PMI</h5>",
+            "home_kydo_to_use_case_kmu": "Al Use-Case DMS di base",
+            "home_persona_alexandra_speech_bubble": "Mi chiamo Alexandra - Sono proprietaria di una PMI!",
+            "home_kydo_use_case_accounting": "<span class=\"text-style-1\">KYDO</span> per<br>Contabili",
+            "home_kydo_to_use_case_accounting": "Al Use-Case del workflow dei creditori",
+            "home_persona_thomas_speech_bubble": "Buongiorno, sono Thomas e sono il responsabile della contabilità!",
+            "home_kydo_use_case_developer": "<span class=\"text-style-1\">KYDO</span> per<br>Sviluppatori",
+            "home_kydo_to_use_case_developer": "Integrare KYDO nelle applicazioni",
+            "home_persona_julia_speech_bubble": "Ciao, mi chiamo Julia e sono CTO di un'azienda software!",
+            "about_us": "CHI SIAMO",
+            "philosophy1": "<span class=\"text-style-1\">KYDO</span> è un prodotto di <span class=\"text-style-1\">EUTIMA AG</span>, sviluppato da zero negli ultimi quattro anni con grande <span class=\"text-style-1\">passione</span> e dedizione.",
+            "philosophy2": "Con <span class=\"text-style-1\">KYDO</span>, il nostro obiettivo è offrire alle aziende un sistema <span class=\"text-style-1\">moderno</span>, <span class=\"text-style-1\">intuitivo</span> e <span class=\"text-style-1\">economico</span> per la <span class=\"text-style-1\">gestione dei dati e dei documenti</span>.",
+            "interested_in_meeting_us": "Interessato a incontrarci di persona?",
+            "mail_us": "Scrivici un'email",
+            "call_us": "oppure chiamaci direttamente",
+            "book_demo": "Prenota una demo",
+            "cup_of_coffee": "oppure parliamo davanti a una tazza di caffè – da voi o da noi",
+            "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> per Fiduciari</span>",
+            "trustee_sub_title": "Con <span class=\"text-style-1\">KYDO</span>, puoi offrire ai tuoi clienti una <span class=\"text-style-1\">soluzione digitale</span> completa per collaborare con te come <span class=\"text-style-1\">fiduciario</span> – sicura, orientata ai processi e allo stesso tempo adattabile in modo flessibile alle <span class=\"text-style-1\">esigenze individuali</span> di ogni cliente.",
+            "trustee_speaking_bubble": "Sono Martin, fiduciario, sempre alla ricerca di soluzioni innovative che semplifichino la vita quotidiana dei miei clienti e ottimizzino la collaborazione con noi. Un punto chiave è la gestione efficiente dei dati e dei documenti. Il mio obiettivo è stabilire processi uniformi che garantiscano un'interazione fluida con i nostri clienti, mantenendo al contempo l'elevata qualità dei nostri servizi.",
+            "trustee_info_left": "Interessato a come Martin, il suo team e i clienti collaborano con KYDO?",
+            "trustee_info_center": "al processo KYDO di Martin",
+            "trustee_info_right": "integrazione gratuita del software contabile",
+            "trustee_process_text_1": "I clienti caricano i loro documenti nella casella di posta e li classificano – tramite l’app mobile dedicata, il trascinamento o via e-mail con allegati.",
+            "trustee_process_info_circle": "Con la dashboard fiduciaria, hai tutto sotto controllo",
+            "trustee_process_info": "Le fatture dei creditori e altri documenti possono essere assegnati ai clienti per l’approvazione digitale.",
+            "trustee_process_text_2": "I responsabili del mandato ricevono una notifica e gestiscono i documenti. I documenti contabili (come fatture dei creditori, note spese, ecc.) possono essere elaborati automaticamente, registrati e trasferiti direttamente nella contabilità finanziaria tramite un flusso di lavoro dedicato.",
+            "trustee_process_text_3": "I bilanci, le dichiarazioni fiscali e altri documenti specifici dei clienti vengono caricati direttamente nell’archivio KYDO.",
+            "trustee_process_text_4": "I clienti hanno sempre una panoramica senza doversi preoccupare della contabilità. I documenti aziendali rilevanti sono archiviati in modo sicuro nell’archivio KYDO.",
+            "kmu_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> per PMI</span>",
+            "kmu_sub_title": "Con <span class=\"text-style-1\">KYDO</span>, dì addio ai <span class=\"text-style-1\">fascicoli fisici</span> e prepara la tua azienda alla digitalizzazione. <span class=\"text-style-1\">KYDO</span> garantisce che tutti i dipendenti archiviino <span class=\"text-style-1\">dati e documenti</span> secondo un <span class=\"text-style-1\">processo chiaramente definito</span> – e li possano trovare facilmente in qualsiasi momento.",
+            "kmu_speaking_bubble": "Sono Alexandra e ne ho abbastanza dei fascicoli. In una struttura tradizionale, ogni dipendente archivia i dati in modi diversi. Voglio anche poter usare e analizzare efficacemente le informazioni rilevanti nei miei documenti.",
+            "kmu_info_left": "Discuti subito le tue idee con noi!",
+            "kmu_info_right": "Sfrutta subito il potenziale dei tuoi dati",
+            "accounting_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> per Contabili</span>",
+            "accounting_sub_title": "Con <span class=\"text-style-1\">KYDO</span>, puoi digitalizzare e automatizzare i tuoi <span class=\"text-style-1\">processi contabili</span> e documenti. <span class=\"text-style-1\">KYDO</span> estrae le fatture dei creditori e le ricevute delle spese, suggerisce automaticamente <span class=\"text-style-1\">scritture contabili</span> e abilita un <span class=\"text-style-1\">processo di approvazione</span> digitale per i creditori.",
+            "accounting_speaking_bubble": "Sono Thomas, contabile, e voglio modernizzare il mio reparto. La distribuzione cartacea delle fatture per l'approvazione è ormai un ricordo del passato, e gli archivi dei fascicoli sovraccarichi sono obsoleti. Sto cercando una soluzione efficiente che consenta ai dipendenti di inviare facilmente le ricevute delle spese. Inoltre, i miei dipendenti hanno cose migliori da fare che inserire manualmente i creditori.",
+            "accounting_info_left": "Riconosci questi problemi?",
+            "accounting_info_right": "Manca un'integrazione con il tuo sistema contabile? Nessun problema, la creeremo!",
+            "developer_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> per Sviluppatori</span>",
+            "developer_sub_title": "Con <span class=\"text-style-1\">KYDO</span>, un sistema dinamico e <span class=\"text-style-1\">basato su web per la gestione di dati e documenti</span>, gli sviluppatori possono implementare facilmente e in modo efficiente progetti grazie alla sua <span class=\"text-style-1\">API moderna</span>.",
+            "developer_speaking_bubble": "Sono Julia, sviluppatrice software, e accompagno molti dei miei clienti nel loro percorso di digitalizzazione. Per me, l'attenzione è rivolta a integrazioni semplici e flessibili, sicurezza dei dati e controlli di accesso precisi. Voglio un sistema centrale che soddisfi tutte le esigenze dei clienti in modo da poter rispondere meglio ai bisogni individuali dei miei clienti. Tuttavia, adattare le soluzioni esistenti a queste esigenze è spesso una sfida. Inoltre, molte soluzioni sono costose da integrare e gestire.",
+            "developer_info_left": "Parlare con gli sviluppatori di KYDO?",
+            "developer_info_circle": "API moderna e gratuita",
+            "to_the_functions": "Alle singole funzioni",
+            "functions_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Funzioni</span>",
+            "functions_tenant_structure_title": "<span class=\"text-style-1\">Struttura</span> del Tenant",
+            "functions_tenant_structure_text": "Ogni cliente ha il proprio tenant. I responsabili del mandato vi accedono tramite l'account fiduciario.",
+            "functions_tenant_info_circle": "KYDO ha un'API gratuita",
+            "functions_define_doctypes_title": "Definire i <span class=\"text-style-1\">tipi di documenti</span> centrali",
+            "functions_define_doctypes_text": "I tipi di documenti validi per tutti i clienti possono essere definiti centralmente e integrati con tipi specifici per cliente.",
+            "functions_define_doctype_info": "Puoi gestire e creare autonomamente i tipi di documenti e i loro attributi",
+            "functions_define_doctype_info_circle": "100% Swissmade",
+            "functions_inbox_title": "Posta in arrivo",
+            "functions_inbox_text": "I clienti possono caricare e classificare direttamente i documenti – tramite la propria app mobile, trascinando e rilasciando, o inviando un'email con allegato alla loro casella di posta KYDO.",
+            "functions_inbox_info": "Collegati al tuo account KYDO esistente e carica facilmente documenti fisici nella tua organizzazione KYDO",
+            "functions_automatic_processing_title": "Elaborazione automatica delle <span class=\"text-style-1\">ricevute</span>",
+            "functions_automatic_processing_text": "Le ricevute contabili come creditori e note spese possono essere trattate automaticamente, registrate e trasferite direttamente nella contabilità finanziaria tramite un flusso di lavoro separato.",
+            "functions_automatic_processing_info": "Estrazione delle informazioni dai documenti tramite IA",
+            "functions_archive_title": "Archivio",
+            "functions_archive_text": "Niente più cartelle da trasportare o invio di documenti via email o posta! I clienti hanno accesso all'archivio digitale in qualsiasi momento.",
+            "functions_archive_info": "Archiviazione dei dati a Berna, Svizzera",
+            "functions_vising_title": "Flusso di approvazione",
+            "functions_vising_text": "I creditori e altre ricevute possono essere assegnati per l'approvazione digitale.",
+            "functions_vising_info": "I tuoi clienti possono gestire le loro fatture e spese senza la necessità di una licenza per un software contabile.",
+            "functions_dashboard_title": "Dashboard di gestione",
+            "functions_dashboard_text": "Panoramica dei clienti! Tutte le informazioni importanti sui tuoi clienti sono disponibili sulla dashboard di gestione – naturalmente anche filtrate per responsabili di mandato",
+            "functions_dashboard_info_circle": "Modulo debitori in arrivo nel 2° trimestre 2025",
+            "functions_pinit": "I tuoi clienti hanno sistemi di cassa? La nostra azienda sorella Pinit può integrarli facilmente. <a href=\"https://www.pinit.ch/\" target=\"_blank\">A Pinit</a>",
+            "pricing_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> Prezzi</span>",
+            "pricing_info_circle": "Gli utenti che possono solo leggere sono gratuiti!",
+            "pricing_users": "Utenti",
+            "pricing_user_full": "Utenti con funzionalità complete:",
+            "pricing_user_upload": "Utenti che caricano solo dati:",
+            "pricing_user_read": "Utenti che leggono solo:",
+            "pricing_storage": "Memoria",
+            "pricing_storage_required": "Memoria richiesta:",
+            "pricing_storage_info": "Addebitato in pacchetti da 5GB. 5GB sono inclusi se è presente un utente amministratore/standard",
+            "pricing_modules": "Moduli",
+            "pricing_automated_processing": "Elaborazione automatizzata dei documenti:",
+            "pricing_total": "Costo totale",
+            "pricing_total_monthly": "Costo mensile IVA esclusa:",
+            "any_questions": "Hai domande?",
+            "become_reseller": "O vuoi diventare un rivenditore e beneficiare di un altro modello di prezzo?",
+            "select_amount": "Inserisci la quantità"
         }
     }
 }
