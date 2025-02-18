@@ -155,7 +155,9 @@ href="https://www.pinit.ch/" target="_blank">Zu Pinit</a>
             </div>
         </div>
         <div class="demo-section">
-            <a class="waves-effect waves-light btn btn-white kydo-blue smooth-scroll demo-button">Demo buchen</a>
+            <a 
+              href="/de/demo.html" 
+              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Probiere KYDO aus!</a>
             <p class="additional-info">oder lass uns bei einer Tasse Kaffee ins Gespräch kommen - bei euch oder bei uns</p>
             <div class="phone-number">+41 31 511 19 44</div>
         </div>

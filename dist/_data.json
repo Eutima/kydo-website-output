@@ -9,6 +9,7 @@
     "twitterLink": "https://x.com/EutimaAG",
     "linkedinLink": "https://www.linkedin.com/company/eutima-ag",
     "telephoneNumber": "+41 31 511 19 44",
+    "eutimaSupportEmail": "support@eutima.ch",
     "i18n": {
         "de": {
             "languageKey": "de",
@@ -41,7 +42,7 @@
             "interested_in_meeting_us": "Interessiert uns persönlich kennenzulernen?",
             "mail_us": "Mail an uns",
             "call_us": "oder einfach anrufen",
-            "book_demo": "Demo buchen",
+            "book_demo": "Probiere KYDO aus!",
             "cup_of_coffee": "oder lass uns bei einer Tasse Kaffee ins Gespräch kommen - bei euch oder bei uns",
             "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> für Treuhänder</span>",
             "trustee_sub_title": "Mit <span class=\"text-style-1\">KYDO</span> kannst Du deinen Kunden eine durchgehend <span\nclass=\"text-style-1\">digitale Lösung</span> in der Zusammenarbeit mit dir als\n<span class=\"text-style-1\">Treuhänder</span> bieten – sicher, prozessorientiert und gleichzeitig\nflexibel anpassbar an die\n<span class=\"text-style-1\">individuellen Bedürfnisse</span> jedes Kunden.",
@@ -110,7 +111,17 @@
             "pricing_total_monthly": "Monatliche Kosten exkl. MwSt:",
             "any_questions": "Hast du Fragen?",
             "become_reseller": "Oder möchtest du Reseller werden und von einem anderen\nPreis-Model profitieren?",
-            "select_amount": "Anzahl eingeben"
+            "select_amount": "Anzahl eingeben",
+            "demo_try_kydo": "Probiere KYDO kostenlos aus! Erlebe die Vorteile, bevor du dich entscheidest.",
+            "demo_try_kydo_1": "1. Fülle das Registrierungsformular aus.",
+            "demo_try_kydo_2": "2. Wir erstellen dein kostenloses KYDO-Konto in unserer Testumgebung.",
+            "demo_try_kydo_3": "3. Schau in dein E-Mail-Postfach für einen Link, um dein Passwort festzulegen.",
+            "demo_try_kydo_4": "4. Du bist bereit, KYDO kostenlos zu erkunden!",
+            "demo_try_kydo_respect_privacy": "Wir respektieren deine Privatsphäre und geben deine Daten niemals weiter.",
+            "demo_try_kydo_questions": "Hast du Fragen? Wir sind hier, um zu helfen!",
+            "demo_try_kydo_call_us_at": "Ruf uns an unter",
+            "demo_try_kydo_email_us_at": "Oder schreib uns eine E-Mail an",
+            "demo_try_kydo_we_get_back_to_you": "Wir melden uns so schnell wie möglich bei dir!"
         },
         "en": {
             "languageKey": "en",
@@ -143,7 +154,7 @@
             "interested_in_meeting_us": "Interested in meeting us in person?",
             "mail_us": "Email us",
             "call_us": "or just give us a call",
-            "book_demo": "Book a Demo",
+            "book_demo": "Try KYDO!",
             "cup_of_coffee": "or let’s have a conversation over a cup of coffee – at your place or ours",
             "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> for Trustees</span>",
             "trustee_sub_title": "With <span class=\"text-style-1\">KYDO</span>, you can offer your clients a fully <span class=\"text-style-1\">digital solution</span> for collaboration with you as a <span class=\"text-style-1\">trustee</span> – secure, process-oriented, and at the same time flexibly adaptable to the <span class=\"text-style-1\">individual needs</span> of each client.",
@@ -212,7 +223,17 @@
             "pricing_total_monthly": "Monthly cost excluding VAT:",
             "any_questions": "Any questions?",
             "become_reseller": "Or would you like to become a reseller and benefit from a different pricing model?",
-            "select_amount": "Enter amount"
+            "select_amount": "Enter amount",
+            "demo_try_kydo": "Try KYDO for Free! Experience the Power Before You Commit.",
+            "demo_try_kydo_1": "1. Fill out the registration form.",
+            "demo_try_kydo_2": "2. We'll create your free KYDO account in our stage environment.",
+            "demo_try_kydo_3": "3. Check your email for a link to set your password.",
+            "demo_try_kydo_4": "4. You're ready to explore KYDO for free!",
+            "demo_try_kydo_respect_privacy": "We respect your privacy and will never share your data.",
+            "demo_try_kydo_questions": "Have questions? We're here to help!",
+            "demo_try_kydo_call_us_at": "Call us at",
+            "demo_try_kydo_email_us_at": "Or email us at",
+            "demo_try_kydo_we_get_back_to_you": "We’ll get back to you as soon as possible!"
         },
         "fr": {
             "languageKey": "fr",
@@ -245,7 +266,7 @@
             "interested_in_meeting_us": "Intéressé à nous rencontrer en personne ?",
             "mail_us": "Envoyez-nous un e-mail",
             "call_us": "ou appelez-nous simplement",
-            "book_demo": "Réserver une démo",
+            "book_demo": "Essayez KYDO!",
             "cup_of_coffee": "ou discutons autour d'une tasse de café – chez vous ou chez nous",
             "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> pour Fiduciaires</span>",
             "trustee_sub_title": "Avec <span class=\"text-style-1\">KYDO</span>, vous pouvez offrir à vos clients une <span class=\"text-style-1\">solution numérique</span> complète pour collaborer avec vous en tant que <span class=\"text-style-1\">fiduciaire</span> – sécurisée, axée sur les processus et en même temps adaptable aux <span class=\"text-style-1\">besoins individuels</span> de chaque client.",
@@ -314,7 +335,17 @@
             "pricing_total_monthly": "Coût mensuel hors TVA :",
             "any_questions": "Des questions ?",
             "become_reseller": "Ou souhaitez-vous devenir revendeur et bénéficier d'un modèle de tarification différent ?",
-            "select_amount": "Entrez la quantité"
+            "select_amount": "Entrez la quantité",
+            "demo_try_kydo": "Essayez KYDO gratuitement ! Découvrez sa puissance avant de vous engager.",
+            "demo_try_kydo_1": "1. Remplissez le formulaire d'inscription.",
+            "demo_try_kydo_2": "2. Nous créerons votre compte KYDO gratuit dans notre environnement de test.",
+            "demo_try_kydo_3": "3. Vérifiez vos e-mails pour un lien afin de définir votre mot de passe.",
+            "demo_try_kydo_4": "4. Vous êtes prêt à explorer KYDO gratuitement !",
+            "demo_try_kydo_respect_privacy": "Nous respectons votre vie privée et ne partagerons jamais vos données.",
+            "demo_try_kydo_questions": "Des questions ? Nous sommes là pour vous aider !",
+            "demo_try_kydo_call_us_at": "Appelez-nous au",
+            "demo_try_kydo_email_us_at": "Ou envoyez-nous un e-mail à",
+            "demo_try_kydo_we_get_back_to_you": "Nous vous répondrons dès que possible !"
         },
         "it": {
             "languageKey": "it",
@@ -347,7 +378,7 @@
             "interested_in_meeting_us": "Interessato a incontrarci di persona?",
             "mail_us": "Scrivici un'email",
             "call_us": "oppure chiamaci direttamente",
-            "book_demo": "Prenota una demo",
+            "book_demo": "Provateli KYDO!",
             "cup_of_coffee": "oppure parliamo davanti a una tazza di caffè – da voi o da noi",
             "trustee_title": "<span class=\"text-style-1\">KYDO</span><span class=\"text-style-2\"> per Fiduciari</span>",
             "trustee_sub_title": "Con <span class=\"text-style-1\">KYDO</span>, puoi offrire ai tuoi clienti una <span class=\"text-style-1\">soluzione digitale</span> completa per collaborare con te come <span class=\"text-style-1\">fiduciario</span> – sicura, orientata ai processi e allo stesso tempo adattabile in modo flessibile alle <span class=\"text-style-1\">esigenze individuali</span> di ogni cliente.",
@@ -416,7 +447,17 @@
             "pricing_total_monthly": "Costo mensile IVA esclusa:",
             "any_questions": "Hai domande?",
             "become_reseller": "O vuoi diventare un rivenditore e beneficiare di un altro modello di prezzo?",
-            "select_amount": "Inserisci la quantità"
+            "select_amount": "Inserisci la quantità",
+            "demo_try_kydo": "Prova KYDO gratuitamente! Scopri la potenza prima di impegnarti.",
+            "demo_try_kydo_1": "1. Compila il modulo di registrazione.",
+            "demo_try_kydo_2": "2. Creeremo il tuo account KYDO gratuito nel nostro ambiente di test.",
+            "demo_try_kydo_3": "3. Controlla la tua email per un link per impostare la tua password.",
+            "demo_try_kydo_4": "4. Sei pronto per esplorare KYDO gratuitamente!",
+            "demo_try_kydo_respect_privacy": "Rispettiamo la tua privacy e non condivideremo mai i tuoi dati.",
+            "demo_try_kydo_questions": "Hai domande? Siamo qui per aiutarti!",
+            "demo_try_kydo_call_us_at": "Chiamaci al",
+            "demo_try_kydo_email_us_at": "O inviaci un'email a",
+            "demo_try_kydo_we_get_back_to_you": "Ti ricontatteremo il prima possibile!"
         }
     }
 }

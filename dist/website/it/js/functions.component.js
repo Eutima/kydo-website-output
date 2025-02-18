@@ -144,7 +144,9 @@ class functionsComponent extends HTMLElement {
             </div>
         </div>
         <div class="demo-section">
-            <a class="waves-effect waves-light btn btn-white kydo-blue smooth-scroll demo-button">Prenota una demo</a>
+            <a 
+              href="/it/demo.html" 
+              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Provateli KYDO!</a>
             <p class="additional-info">oppure parliamo davanti a una tazza di caffè – da voi o da noi</p>
             <div class="phone-number">+41 31 511 19 44</div>
         </div>

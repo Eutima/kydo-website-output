@@ -1,6 +1,6 @@
 class MyNavbar extends HTMLElement {
     connectedCallback() {
-        const currentPath = location.pathname.replace(/^\/[a-z]{2}\//, '');
+        const currentPath = location.pathname.replace(/^\/[a-z]{2}\//, '').replace(/\/$/, '');
         this.innerHTML = `
     <div class="navbar-fixed">
         <nav>
@@ -13,8 +13,15 @@ class MyNavbar extends HTMLElement {
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
                     <li><a href="/de/">Home</a></li>
                     <li><a href="/de/functions.html">Funktionen</a></li>
+                    <li><a href="https://api.kydo.ch/doc/" target="_blank">API</a></li>
                     <li><a href="/de/pricing.html">Preise</a></li>
-                    <li><a href="/de/demo.html">Demo</a></li>
+                    <li>
+                        <a 
+                            href="/de/demo.html"
+                            class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar hover-active">
+                            Probiere KYDO aus!
+                        </a>
+                    </li>
                     <li><a class="dropdown-trigger" href="#!" data-target="languages"><i
                                 class="material-icons">g_translate</i></a></li>
                 </ul>
@@ -24,10 +31,17 @@ class MyNavbar extends HTMLElement {
     <ul class="sidenav" id="mobile-demo">
         <li><a href="/de/">Home</a></li>
         <li><a href="/de/functions.html">Funktionen</a></li>
+        <li><a href="https://api.kydo.ch/doc/" target="_blank">API</a></li>
         <li><a href="/de/pricing.html">Preise</a></li>
-        <li><a href="/de/demo.html">Demo</a></li>
-        <li><a class="dropdown-trigger" href="#!" data-target="languages-sidenav"><i
+        <li><a class="dropdown-trigger" data-target="languages-sidenav"><i
                     class="material-icons">g_translate</i><i class="material-icons right">arrow_drop_down</i></a></li>
+        <div class="side-nav-demo-button-wrapper">
+            <a 
+                href="/de/demo.html"
+                class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar hover-active ">
+                Probiere KYDO aus!
+            </a>
+        </div>
     </ul>
     <ul id="languages" class="dropdown-content">
         <li><a href="/de/${currentPath}">DE</a></li>

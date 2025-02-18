@@ -438,6 +438,14 @@ nav > div > ul > li > a {
     margin-top: 3em;
 }
 
+.display-block {
+    display: block !important;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
 .profile {
     max-width: 20em;
 }
@@ -588,6 +596,12 @@ nav > div > ul > li > a {
 .demo-section {
     text-align: center;
     margin-top: 2rem;
+}
+
+.demo-button-nav-bar {
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 1em;
 }
 
 .demo-button {
@@ -852,4 +866,28 @@ nav > div > ul > li > a {
 .padding-1-em {
     padding: 1em;
 !important;
+}
+
+/* Define keyframes to simulate the hover effect */
+@keyframes addHover {
+  0% {
+    transform: scale(1); /* Initial state */
+  }
+  50% {
+    transform: scale(1.1); /* Hovered state */
+  }
+  100% {
+    transform: scale(1); /* Back to initial state */
+  }
+}
+
+.hover-active {
+  animation: addHover 1s ease-in-out;
+}
+
+.side-nav-demo-button-wrapper {
+    padding: 10px 30px 0 30px;
+}
+.side-nav-demo-button-wrapper > .demo-button-nav-bar {
+    width: 100%;
 }
