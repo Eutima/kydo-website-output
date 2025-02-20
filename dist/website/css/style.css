@@ -101,25 +101,25 @@ b {
 }
 
 .arrow-text {
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     font-size: 1.5em;
     color: black;
 }
 
 .additional-info {
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     font-size: 1.2em;
     color: black;
 }
 
 .additional-info-blue {
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     font-size: 1.2em;
     color: var(--kydo-blue);
 }
 
 .additional-info-white {
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     font-size: 1.2em;
     color: white;
 }
@@ -304,7 +304,7 @@ nav > div > ul > li > a {
     border-radius: 50%;
     background-color: var(--kydo-blue);
     color: white;
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -323,7 +323,7 @@ nav > div > ul > li > a {
     border-radius: 50%;
     background-color: var(--kydo-blue);
     color: white;
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     font-size: 14px;
     display: flex;
     justify-content: center;
@@ -348,7 +348,7 @@ nav > div > ul > li > a {
     border-radius: 50%;
     background-color: var(--kydo-blue);
     color: white;
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -368,7 +368,7 @@ nav > div > ul > li > a {
     border-radius: 50%;
     background-color: var(--kydo-blue);
     color: white;
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -387,7 +387,7 @@ nav > div > ul > li > a {
     border-radius: 50%;
     background-color: var(--kydo-blue);
     color: white;
-    font-family: 'Schoolbell', arial, serif;
+    font-family: 'Coming Soon', arial, serif;
     display: flex;
     justify-content: center;
     align-items: center;
