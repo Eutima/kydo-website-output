@@ -89,7 +89,7 @@ b {
 .arrow-wrapper {
     width: 100%;
     text-align: center;
-    top: 86vh;
+    top: 82vh;
     position: absolute;
 }
 
@@ -890,4 +890,8 @@ nav > div > ul > li > a {
 }
 .side-nav-demo-button-wrapper > .demo-button-nav-bar {
     width: 100%;
+}
+.icon-text-align {
+    top: 0.15em;
+    position: relative;
 }

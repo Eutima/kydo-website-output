@@ -4,18 +4,19 @@ class functionsComponent extends HTMLElement {
         this.innerHTML = `
         
             <div class="title-use-cases">
-                <h2><span class="text-style-1">KYDO</span><span class="text-style-2"> Fonctions</span></h2>
+                <h2><span class="text-style-1">KYDO</span><span class="text-style-2"> Funktionen</span></h2>
             </div>
         <div class="function-container">
 
             <div class="row content-row">
                 <div class="col s12 m6">
                     <div class="function-text-content">
-                        <h5><span class="text-style-1">Structure</span> du Tenant</h5>
+                        <h5><span class="text-style-1">Tenant</span> Struktur</h5>
                         <div>
-                            Chaque client dispose de son propre tenant. Les responsables de mandat y accèdent via le compte fiduciaire.
+                            Jeder Kunde verfügt über einen eigenen Tenant. Die Mandatsleitenden haben über den
+Treuhand-Account Zugriff auf die jeweiligen Kunden-Tenants.
                         </div>
-                        <div class="info-circle-functions-center additional-info-white">KYDO dispose d&#39;une API gratuite
+                        <div class="info-circle-functions-center additional-info-white">KYDO hat eine kostenlose API
                         </div>
                     </div>
                 </div>
@@ -34,12 +35,13 @@ class functionsComponent extends HTMLElement {
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5>Définir les <span class="text-style-1">types de documents</span> centraux</h5>
+                        <h5>Zentrale <span class="text-style-1">Dokumenttypen</span> definieren</h5>
                         <div>
-                            Les types de documents valables pour tous les clients peuvent être définis de manière centrale et complétés par des types spécifiques à chaque client.
+                            Dokumenttypen, die für alle Kunden gelten, können zentral festgelegt und mit
+kundenspezifischen Dokumenttypen ergänzt werden.
                         </div>
                         <div class="additional-info function-rotate">
-                            Vous pouvez gérer et créer vous-même les types de documents et leurs attributs
+                            Dokumenttypen und deren Attribute kannst du selber verwalten und erstellen
                         </div>
                         <div class="info-circle-functions-right additional-info-white">100% Swissmade
                         </div>
@@ -50,12 +52,15 @@ class functionsComponent extends HTMLElement {
             <div class="row content-row">
                 <div class="col s12 m6">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Boîte de réception</h5>
+                        <h5 class="text-style-1">Inbox</h5>
                         <div>
-                            Les clients peuvent télécharger et classer directement des documents – soit via leur propre application mobile, par glisser-déposer, ou en envoyant un e-mail avec une pièce jointe à leur propre boîte de réception KYDO.
+                            Kunden können Dokumente direkt hochladen und klassifizieren – entweder über die eigene
+Smartphone-App, per Drag-and-Drop oder indem sie eine E-Mail mit Anhang an ein eigenes
+KYDO-Postfach senden.
                         </div>
                         <div class="additional-info function-rotate">
-                            Connectez-vous à votre compte KYDO existant et téléchargez facilement des documents physiques dans votre organisation KYDO
+                            Verbinden Sie sich mit Ihrem bestehenden KYDO Konto und laden Sie einfach physische
+Dokumente zu Ihrer KYDO Organisation hoch
                         </div>
                         <div class="store-badges">
                             <a href="https://play.google.com/store/apps/details?id=ch.kydo.kydoscan" target="_blank"
@@ -79,22 +84,24 @@ class functionsComponent extends HTMLElement {
             <div class="row content-row row-reverse">
                 <div class="col s12 m6 mobile-last">
                     <div class="function-text-content">
-                        <h5>Traitement automatisé des <span class="text-style-1">justificatifs</span></h5>
+                        <h5>Automatisierte <span class="text-style-1">Belegverarbeitung</span></h5>
                         <div>
-                            Les justificatifs comptables tels que les créanciers et les notes de frais peuvent être traités automatiquement, imputés et directement transférés dans la comptabilité financière via un flux de travail séparé.
+                            Buchhaltungsbelege wie Kreditoren und Spesenbelege können in einem separaten Workflow
+automatisiert verarbeitet, kontiert und direkt in die Finanzbuchhaltung überführt werden.
                         </div>
                         <div class="additional-info function-rotate">
-                            Extraction des informations des documents basée sur l&#39;IA
+                            KI-Basiertes auslesen von Informationen im Dokument
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Archive</h5>
+                        <h5 class="text-style-1">Archiv</h5>
                         <div>
-                            Finie l&#39;époque des classeurs et de l&#39;envoi de documents par e-mail ou par courrier ! Les clients ont un accès permanent à l&#39;archive numérique.
+                            Das Herumtragen von Ordnern und das Versenden von Dokumenten per E-Mail oder Post gehören
+der Vergangenheit an! Kunden haben jederzeit Zugriff auf das digitale Archiv.
                         </div>
-                        <div class="info-circle-functions-right additional-info-white">Stockage des données à Berne, Suisse
+                        <div class="info-circle-functions-right additional-info-white">Datenspeicher in Bern - Schweiz
                         </div>
                     </div>
                 </div>
@@ -108,12 +115,13 @@ class functionsComponent extends HTMLElement {
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Flux de validation</h5>
+                        <h5 class="text-style-1">Visierungsworkflow</h5>
                         <div>
-                            Les créanciers et autres justificatifs peuvent être affectés à une validation numérique.
+                            Kreditoren und andere Belege können zum digitalen Visieren zugeteilt werden.
                         </div>
                         <div class="additional-info function-rotate">
-                            Vos clients peuvent gérer leurs factures et leurs dépenses sans avoir besoin d&#39;une licence pour un logiciel comptable.
+                            Deine Kunden können ihre Rechnungen und Ausgaben verwalten, ohne eine Lizenz für die
+Buchhaltungssoftware zu benötigen.
                         </div>
                     </div>
                 </div>
@@ -122,22 +130,25 @@ class functionsComponent extends HTMLElement {
             <div class="row content-row row-reverse">
                 <div class="col s12 m6 mobile-last">
                     <div class="function-text-content">
-                        <h5>Tableau de bord de gestion</h5>
+                        <h5>Management <span class="text-style-1">Dashboard</span></h5>
                         <div>
-                            Vue d&#39;ensemble des clients ! Toutes les informations clés sur vos clients sont disponibles sur le tableau de bord de gestion – bien sûr aussi filtrées par responsables de mandat
+                            Die Kunden im Überblick! Alle wichtigen Infos deiner Kunden sind auf dem Management
+Dashboard verfügbar – Natürlich auch gefiltert nach Mandatsleiter:innen
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <div class="info-circle-functions-center additional-info-white">Module débiteurs disponible au 2e trimestre 2025
+                        <div class="info-circle-functions-center additional-info-white">Debitoren Modul kommt Q2 2025
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m6 mobile-last">
                     <div class="function-text-content">
                         <div class="additional-info">
-                            Vos clients ont des systèmes de caisse ? Notre entreprise sœur Pinit peut les intégrer facilement. <a href="https://www.pinit.ch/" target="_blank">Vers Pinit</a>
+                            Haben deine Kunden Kassensysteme?
+Unser Schwesterunternehmen Pinit kann dies problemlos anbinden. <a
+href="https://www.pinit.ch/" target="_blank">Zu Pinit</a>
                         </div>
                     </div>
                 </div>
@@ -145,9 +156,9 @@ class functionsComponent extends HTMLElement {
         </div>
         <div class="demo-section">
             <a 
-              href="/fr/demo.html" 
-              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Essayez KYDO!</a>
-            <p class="additional-info">ou discutons autour d&#39;une tasse de café – chez vous ou chez nous</p>
+              href="/de/demo.html" 
+              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Probiere KYDO aus!</a>
+            <p class="additional-info">oder lass uns bei einer Tasse Kaffee ins Gespräch kommen - bei euch oder bei uns</p>
             <div class="phone-number">+41 31 511 19 44</div>
         </div>
         `;
