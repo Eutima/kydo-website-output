@@ -4,19 +4,18 @@ class functionsComponent extends HTMLElement {
         this.innerHTML = `
         
             <div class="title-use-cases">
-                <h2><span class="text-style-1">KYDO</span><span class="text-style-2"> Funktionen</span></h2>
+                <h2><span class="text-style-1">KYDO</span><span class="text-style-2"> Functions</span></h2>
             </div>
         <div class="function-container">
 
             <div class="row content-row">
                 <div class="col s12 m6">
                     <div class="function-text-content">
-                        <h5><span class="text-style-1">Tenant</span> Struktur</h5>
+                        <h5><span class="text-style-1">Tenant</span> Structure</h5>
                         <div>
-                            Jeder Kunde verfügt über einen eigenen Tenant. Die Mandatsleitenden haben über den
-Treuhand-Account Zugriff auf die jeweiligen Kunden-Tenants.
+                            Each client has their own tenant. Mandate leaders can access client tenants through the trustee account.
                         </div>
-                        <div class="info-circle-functions-center additional-info-white">KYDO hat eine kostenlose API
+                        <div class="info-circle-functions-center additional-info-white">KYDO has a free API
                         </div>
                     </div>
                 </div>
@@ -35,13 +34,12 @@ Treuhand-Account Zugriff auf die jeweiligen Kunden-Tenants.
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5>Zentrale <span class="text-style-1">Dokumenttypen</span> definieren</h5>
+                        <h5>Define central <span class="text-style-1">document types</span></h5>
                         <div>
-                            Dokumenttypen, die für alle Kunden gelten, können zentral festgelegt und mit
-kundenspezifischen Dokumenttypen ergänzt werden.
+                            Document types that apply to all clients can be centrally defined and supplemented with client-specific document types.
                         </div>
                         <div class="additional-info function-rotate">
-                            Dokumenttypen und deren Attribute kannst du selber verwalten und erstellen
+                            You can manage and create document types and their attributes yourself
                         </div>
                         <div class="info-circle-functions-right additional-info-white">100% Swissmade
                         </div>
@@ -54,13 +52,10 @@ kundenspezifischen Dokumenttypen ergänzt werden.
                     <div class="function-text-content">
                         <h5 class="text-style-1">Inbox</h5>
                         <div>
-                            Kunden können Dokumente direkt hochladen und klassifizieren – entweder über die eigene
-Smartphone-App, per Drag-and-Drop oder indem sie eine E-Mail mit Anhang an ein eigenes
-KYDO-Postfach senden.
+                            Clients can directly upload and classify documents – either through their own smartphone app, by drag-and-drop, or by sending an email with an attachment to their own KYDO inbox.
                         </div>
                         <div class="additional-info function-rotate">
-                            Verbinden Sie sich mit Ihrem bestehenden KYDO Konto und laden Sie einfach physische
-Dokumente zu Ihrer KYDO Organisation hoch
+                            Connect with your existing KYDO account and easily upload physical documents to your KYDO organization
                         </div>
                         <div class="store-badges">
                             <a href="https://play.google.com/store/apps/details?id=ch.kydo.kydoscan" target="_blank"
@@ -84,24 +79,22 @@ Dokumente zu Ihrer KYDO Organisation hoch
             <div class="row content-row row-reverse">
                 <div class="col s12 m6 mobile-last">
                     <div class="function-text-content">
-                        <h5>Automatisierte <span class="text-style-1">Belegverarbeitung</span></h5>
+                        <h5>Automated <span class="text-style-1">Receipt Processing</span></h5>
                         <div>
-                            Buchhaltungsbelege wie Kreditoren und Spesenbelege können in einem separaten Workflow
-automatisiert verarbeitet, kontiert und direkt in die Finanzbuchhaltung überführt werden.
+                            Accounting receipts such as creditors and expense receipts can be automatically processed, allocated, and directly transferred to financial accounting in a separate workflow.
                         </div>
                         <div class="additional-info function-rotate">
-                            KI-Basiertes auslesen von Informationen im Dokument
+                            AI-based extraction of information from documents
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Archiv</h5>
+                        <h5 class="text-style-1">Archive</h5>
                         <div>
-                            Das Herumtragen von Ordnern und das Versenden von Dokumenten per E-Mail oder Post gehören
-der Vergangenheit an! Kunden haben jederzeit Zugriff auf das digitale Archiv.
+                            No more carrying folders or sending documents by email or post! Clients have access to the digital archive at any time.
                         </div>
-                        <div class="info-circle-functions-right additional-info-white">Datenspeicher in Bern - Schweiz
+                        <div class="info-circle-functions-right additional-info-white">Data storage in Bern, Switzerland
                         </div>
                     </div>
                 </div>
@@ -115,13 +108,12 @@ der Vergangenheit an! Kunden haben jederzeit Zugriff auf das digitale Archiv.
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Visierungsworkflow</h5>
+                        <h5 class="text-style-1">Approval Workflow</h5>
                         <div>
-                            Kreditoren und andere Belege können zum digitalen Visieren zugeteilt werden.
+                            Creditors and other receipts can be assigned for digital approval.
                         </div>
                         <div class="additional-info function-rotate">
-                            Deine Kunden können ihre Rechnungen und Ausgaben verwalten, ohne eine Lizenz für die
-Buchhaltungssoftware zu benötigen.
+                            Your clients can manage their invoices and expenses without needing a license for accounting software.
                         </div>
                     </div>
                 </div>
@@ -132,23 +124,20 @@ Buchhaltungssoftware zu benötigen.
                     <div class="function-text-content">
                         <h5>Management <span class="text-style-1">Dashboard</span></h5>
                         <div>
-                            Die Kunden im Überblick! Alle wichtigen Infos deiner Kunden sind auf dem Management
-Dashboard verfügbar – Natürlich auch gefiltert nach Mandatsleiter:innen
+                            Overview of clients! All key information about your clients is available on the management dashboard – naturally also filtered by mandate leaders
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <div class="info-circle-functions-center additional-info-white">Debitoren Modul kommt Q2 2025
+                        <div class="info-circle-functions-center additional-info-white">Debtor module coming Q2 2025
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m6 mobile-last">
                     <div class="function-text-content">
                         <div class="additional-info">
-                            Haben deine Kunden Kassensysteme?
-Unser Schwesterunternehmen Pinit kann dies problemlos anbinden. <a
-href="https://www.pinit.ch/" target="_blank">Zu Pinit</a>
+                            Do your clients have cash register systems? Our sister company Pinit can easily integrate them. <a href="https://www.pinit.ch/" target="_blank">To Pinit</a>
                         </div>
                     </div>
                 </div>
@@ -156,9 +145,9 @@ href="https://www.pinit.ch/" target="_blank">Zu Pinit</a>
         </div>
         <div class="demo-section">
             <a 
-              href="/de/demo.html" 
-              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Probiere KYDO aus!</a>
-            <p class="additional-info">oder lass uns bei einer Tasse Kaffee ins Gespräch kommen - bei euch oder bei uns</p>
+              href="/en/demo.html" 
+              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Try KYDO!</a>
+            <p class="additional-info">or let’s have a conversation over a cup of coffee – at your place or ours</p>
             <div class="phone-number">+41 31 511 19 44</div>
         </div>
         `;

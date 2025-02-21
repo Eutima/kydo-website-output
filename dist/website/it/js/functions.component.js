@@ -11,7 +11,7 @@ class functionsComponent extends HTMLElement {
             <div class="row content-row">
                 <div class="col s12 m6">
                     <div class="function-text-content">
-                        <h5><span class="text-style-1">Struttura</span> del Tenant</h5>
+                        <h5><span class="text-style-1">Struttura</span> suddivisa in Tenant</h5>
                         <div>
                             Ogni cliente ha il proprio tenant. I responsabili del mandato vi accedono tramite l&#39;account fiduciario.
                         </div>
@@ -36,7 +36,7 @@ class functionsComponent extends HTMLElement {
                     <div class="function-text-content">
                         <h5>Definire i <span class="text-style-1">tipi di documenti</span> centrali</h5>
                         <div>
-                            I tipi di documenti validi per tutti i clienti possono essere definiti centralmente e integrati con tipi specifici per cliente.
+                            I tipi di documenti validi per tutti i clienti possono essere definiti in maniera centralizzata e integrati con tipi specifici per ogni cliente.
                         </div>
                         <div class="additional-info function-rotate">
                             Puoi gestire e creare autonomamente i tipi di documenti e i loro attributi
@@ -108,9 +108,9 @@ class functionsComponent extends HTMLElement {
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Flusso di approvazione</h5>
+                        <h5 class="text-style-1">Workflow di convalida</h5>
                         <div>
-                            I creditori e altre ricevute possono essere assegnati per l&#39;approvazione digitale.
+                            I creditori e altre ricevute possono essere assegnati per la convalida digitale.
                         </div>
                         <div class="additional-info function-rotate">
                             I tuoi clienti possono gestire le loro fatture e spese senza la necessità di una licenza per un software contabile.
@@ -124,7 +124,7 @@ class functionsComponent extends HTMLElement {
                     <div class="function-text-content">
                         <h5>Dashboard di gestione</h5>
                         <div>
-                            Panoramica dei clienti! Tutte le informazioni importanti sui tuoi clienti sono disponibili sulla dashboard di gestione – naturalmente anche filtrate per responsabili di mandato
+                            Panoramica dei clienti! Tutte le informazioni importanti sui tuoi clienti sono disponibili sul dashboard di gestione – naturalmente anche filtrate per responsabili di mandato
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@ class functionsComponent extends HTMLElement {
         <div class="demo-section">
             <a 
               href="/it/demo.html" 
-              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Provateli KYDO!</a>
+              class="waves-effect waves-light btn btn-white kydo-blue demo-button">Prova KYDO!</a>
             <p class="additional-info">oppure parliamo davanti a una tazza di caffè – da voi o da noi</p>
             <div class="phone-number">+41 31 511 19 44</div>
         </div>

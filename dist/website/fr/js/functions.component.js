@@ -11,7 +11,7 @@ class functionsComponent extends HTMLElement {
             <div class="row content-row">
                 <div class="col s12 m6">
                     <div class="function-text-content">
-                        <h5><span class="text-style-1">Structure</span> du Tenant</h5>
+                        <h5><span class="text-style-1">Structure</span> divisée par Tenant</h5>
                         <div>
                             Chaque client dispose de son propre tenant. Les responsables de mandat y accèdent via le compte fiduciaire.
                         </div>
@@ -108,7 +108,7 @@ class functionsComponent extends HTMLElement {
                 </div>
                 <div class="col s12 m6 mobile-first">
                     <div class="function-text-content">
-                        <h5 class="text-style-1">Flux de validation</h5>
+                        <h5 class="text-style-1">Workflow de validation</h5>
                         <div>
                             Les créanciers et autres justificatifs peuvent être affectés à une validation numérique.
                         </div>

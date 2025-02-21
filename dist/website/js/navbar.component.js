@@ -5,21 +5,21 @@ class MyNavbar extends HTMLElement {
     <div class="navbar-fixed">
         <nav>
             <div class="nav-wrapper grey lighten-5">
-                <a href="/de/" class="brand-logo left">
+                <a href="/en/" class="brand-logo left">
                     <img src="/images/KYDO-D.png">
                 </a>
                 <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="material-icons"
                         style="color: black;">menu</i></a>
                 <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="/de/">Home</a></li>
-                    <li><a href="/de/functions.html">Funktionen</a></li>
+                    <li><a href="/en/">Home</a></li>
+                    <li><a href="/en/functions.html">Functions</a></li>
                     <li><a href="https://api.kydo.ch/doc/" target="_blank">API</a></li>
-                    <li><a href="/de/pricing.html">Preise</a></li>
+                    <li><a href="/en/pricing.html">Pricing</a></li>
                     <li>
                         <a 
-                            href="/de/demo.html"
+                            href="/en/demo.html"
                             class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar hover-active">
-                            Probiere KYDO aus!
+                            Try KYDO!
                         </a>
                     </li>
                     <li><a class="dropdown-trigger" href="#!" data-target="languages"><i
@@ -29,17 +29,17 @@ class MyNavbar extends HTMLElement {
         </nav>
     </div>
     <ul class="sidenav" id="mobile-demo">
-        <li><a href="/de/">Home</a></li>
-        <li><a href="/de/functions.html">Funktionen</a></li>
+        <li><a href="/en/">Home</a></li>
+        <li><a href="/en/functions.html">Functions</a></li>
         <li><a href="https://api.kydo.ch/doc/" target="_blank">API</a></li>
-        <li><a href="/de/pricing.html">Preise</a></li>
+        <li><a href="/en/pricing.html">Pricing</a></li>
         <li><a class="dropdown-trigger" href="#" data-target="languages-sidenav"><i
                     class="material-icons">g_translate</i><i class="material-icons right">arrow_drop_down</i></a></li>
         <div class="side-nav-demo-button-wrapper">
             <a 
-                href="/de/demo.html"
+                href="/en/demo.html"
                 class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar hover-active ">
-                Probiere KYDO aus!
+                Try KYDO!
             </a>
         </div>
     </ul>

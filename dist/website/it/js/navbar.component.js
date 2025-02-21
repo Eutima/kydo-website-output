@@ -19,7 +19,7 @@ class MyNavbar extends HTMLElement {
                         <a 
                             href="/it/demo.html"
                             class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar hover-active">
-                            Provateli KYDO!
+                            Prova KYDO!
                         </a>
                     </li>
                     <li><a class="dropdown-trigger" href="#!" data-target="languages"><i
@@ -39,7 +39,7 @@ class MyNavbar extends HTMLElement {
             <a 
                 href="/it/demo.html"
                 class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar hover-active ">
-                Provateli KYDO!
+                Prova KYDO!
             </a>
         </div>
     </ul>
