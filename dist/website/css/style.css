@@ -895,3 +895,13 @@ nav > div > ul > li > a {
     top: 0.15em;
     position: relative;
 }
+
+.aling-start {
+    text-align: start;
+}
+.ul-with-style-type {
+    padding-left: 40px !important;
+}
+.ul-with-style-type > li {
+    list-style-type: square !important;
+}

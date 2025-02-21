@@ -121,7 +121,13 @@
             "demo_try_kydo_questions": "Hast du Fragen? Wir sind hier, um zu helfen!",
             "demo_try_kydo_call_us_at": "Ruf uns an unter",
             "demo_try_kydo_email_us_at": "Oder schreib uns eine E-Mail an",
-            "demo_try_kydo_we_get_back_to_you": "Wir melden uns so schnell wie möglich bei dir!"
+            "demo_try_kydo_we_get_back_to_you": "Wir melden uns so schnell wie möglich bei dir!",
+            "imprint": "Impressum",
+            "address": "Adresse",
+            "contact": "Kontakt",
+            "uidNumber": "UID-Nummer",
+            "termsOfUse": "Nutzungsbedingungen",
+            "termsOfUseText": "Die Inhalte der Website werden laufend aktualisiert. Eutima AG kann keine Garantie für die Vollständigkeit und Richtigkeit der dargestellten und übermittelten Informationen übernehmen. Eutima AG übernimmt keine Haftung für Schäden oder Folgeschäden, die sich aus der Nutzung von Informationen und Material von Eutima AG oder dem Zugriff über Links auf andere Websites ergeben."
         },
         "en": {
             "languageKey": "en",
@@ -233,7 +239,13 @@
             "demo_try_kydo_questions": "Have questions? We're here to help!",
             "demo_try_kydo_call_us_at": "Call us at",
             "demo_try_kydo_email_us_at": "Or email us at",
-            "demo_try_kydo_we_get_back_to_you": "We’ll get back to you as soon as possible!"
+            "demo_try_kydo_we_get_back_to_you": "We’ll get back to you as soon as possible!",
+            "imprint": "Imprint",
+            "address": "Address",
+            "contact": "Contact",
+            "uidNumber": "UID number",
+            "termsOfUse": "Terms of use",
+            "termsOfUseText": "The contents of the website are continuously updated. Eutima AG cannot guarantee the completeness and accuracy of the information presented and transmitted. Eutima AG accepts no liability for any damage or consequential damage arising from the use of information and material from Eutima AG or from access via links to other websites."
         },
         "fr": {
             "languageKey": "fr",
@@ -345,7 +357,13 @@
             "demo_try_kydo_questions": "Des questions ? Nous sommes là pour vous aider !",
             "demo_try_kydo_call_us_at": "Appelez-nous au",
             "demo_try_kydo_email_us_at": "Ou envoyez-nous un e-mail à",
-            "demo_try_kydo_we_get_back_to_you": "Nous vous répondrons dès que possible !"
+            "demo_try_kydo_we_get_back_to_you": "Nous vous répondrons dès que possible !",
+            "imprint": "Mentions légales",
+            "address": "Adresse",
+            "contact": "Contact",
+            "uidNumber": "Numéro UID",
+            "termsOfUse": "Conditions d'utilisation",
+            "termsOfUseText": "Le contenu du site web est continuellement mis à jour. Eutima AG ne peut garantir l'exhaustivité et l'exactitude des informations présentées et transmises. Eutima AG décline toute responsabilité pour tout dommage ou dommage consécutif résultant de l'utilisation des informations et du matériel de Eutima AG ou de l'accès via des liens vers d'autres sites web."
         },
         "it": {
             "languageKey": "it",
@@ -457,7 +475,13 @@
             "demo_try_kydo_questions": "Hai domande? Siamo qui per aiutarti!",
             "demo_try_kydo_call_us_at": "Chiamaci al",
             "demo_try_kydo_email_us_at": "O inviaci un'email a",
-            "demo_try_kydo_we_get_back_to_you": "Ti ricontatteremo il prima possibile!"
+            "demo_try_kydo_we_get_back_to_you": "Ti ricontatteremo il prima possibile!",
+            "imprint": "Imprint",
+            "address": "Address",
+            "contact": "Contact",
+            "uidNumber": "UID number",
+            "termsOfUse": "Terms of use",
+            "termsOfUseText": "The contents of the website are continuously updated. Eutima AG cannot guarantee the completeness and accuracy of the information presented and transmitted. Eutima AG accepts no liability for any damage or consequential damage arising from the use of information and material from Eutima AG or from access via links to other websites."
         }
     }
 }
