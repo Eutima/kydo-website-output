@@ -15,6 +15,7 @@ class MyNavbar extends HTMLElement {
                     <li><a href="/en/functions.html">Functions</a></li>
                     <li><a href="https://api.kydo.ch/doc/" target="_blank">API</a></li>
                     <li><a href="/en/pricing.html">Pricing</a></li>
+                    <li><a href="/en/blog.html">Blog</a></li>
                     <li>
                         <a 
                             href="/en/demo.html"
@@ -33,6 +34,7 @@ class MyNavbar extends HTMLElement {
         <li><a href="/en/functions.html">Functions</a></li>
         <li><a href="https://api.kydo.ch/doc/" target="_blank">API</a></li>
         <li><a href="/en/pricing.html">Pricing</a></li>
+        <li><a href="/en/blog.html">Blog</a></li>
         <li><a class="dropdown-trigger" href="#" data-target="languages-sidenav"><i
                     class="material-icons">g_translate</i><i class="material-icons right">arrow_drop_down</i></a></li>
         <div class="side-nav-demo-button-wrapper">

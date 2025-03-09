@@ -639,7 +639,7 @@ nav > div > ul > li > a {
 }
 
 @media (max-width: 1580px) {
-        .arrow-wrapper {
+    .arrow-wrapper {
         position: static;
     }
 }
@@ -870,27 +870,29 @@ nav > div > ul > li > a {
 
 /* Define keyframes to simulate the hover effect */
 @keyframes addHover {
-  0% {
-    transform: scale(1); /* Initial state */
-  }
-  50% {
-    transform: scale(1.1); /* Hovered state */
-  }
-  100% {
-    transform: scale(1); /* Back to initial state */
-  }
+    0% {
+        transform: scale(1); /* Initial state */
+    }
+    50% {
+        transform: scale(1.1); /* Hovered state */
+    }
+    100% {
+        transform: scale(1); /* Back to initial state */
+    }
 }
 
 .hover-active {
-  animation: addHover 1s ease-in-out;
+    animation: addHover 1s ease-in-out;
 }
 
 .side-nav-demo-button-wrapper {
     padding: 10px 30px 0 30px;
 }
+
 .side-nav-demo-button-wrapper > .demo-button-nav-bar {
     width: 100%;
 }
+
 .icon-text-align {
     top: 0.15em;
     position: relative;
@@ -899,9 +901,79 @@ nav > div > ul > li > a {
 .aling-start {
     text-align: start;
 }
+
 .ul-with-style-type {
     padding-left: 40px !important;
 }
+
 .ul-with-style-type > li {
     list-style-type: square !important;
+}
+
+.section-blog {
+    min-height: 100vh;
+    background: white;
+}
+
+.blog-header {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+}
+
+.blog-header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding-top: 2em;
+}
+
+.blog-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.blog-date {
+    color: #9e9e9e;
+    margin-bottom: 20px;
+    font-size: 0.9rem;
+}
+
+.blog-content {
+    padding: 30px;
+    line-height: 1.8;
+}
+
+.blog-content h2 {
+    color: var(--kydo-blue);
+    margin-top: 40px;
+    font-size: 1.8rem;
+}
+
+.blog-content p {
+    margin-bottom: 20px;
+}
+
+.blog-content ul {
+    padding-left: 40px;
+}
+
+.blog-content ul li {
+    list-style-type: disc;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .blog-header {
+        height: 250px;
+    }
+
+    .blog-content {
+        padding: 20px 15px;
+    }
 }
