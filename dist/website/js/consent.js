@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Insert the tracking banner into the page
     function insertBanner() {
-        fetch("consent-banner.html")
+        fetch("/consent-banner/consent-banner.html")
             .then(response => response.text())
             .then(html => {
                 document.body.insertAdjacentHTML("beforeend", html);
