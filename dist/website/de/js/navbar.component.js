@@ -23,6 +23,13 @@ class MyNavbar extends HTMLElement {
                             Probiere KYDO aus!
                         </a>
                     </li>
+                    <li>
+                        <a 
+                            href="https://web.kydo.ch"
+                            class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar">
+                            Login
+                        </a>
+                    </li>
                     <li><a class="dropdown-trigger" href="#!" data-target="languages"><i
                                 class="material-icons">g_translate</i></a></li>
                 </ul>

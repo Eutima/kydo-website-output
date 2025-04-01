@@ -1,8 +1,27 @@
+function setCookie(name, value, days) {
+    let expires = "";
+    if (days) {
+        let date = new Date();
+        date.setTime(date.getTime() + days * 24 * 60 * 60 * 1000);
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + value + "; path=/; domain=.kydo.ch" + expires;
+}
+
+function getCookie(name) {
+    let nameEQ = name + "=";
+    let cookies = document.cookie.split(";");
+    for (let i = 0; i < cookies.length; i++) {
+        let c = cookies[i].trim();
+        if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length);
+    }
+    return null;
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     const bannerId = "tracking-banner";
-    const trackingStatus = localStorage.getItem("trackingAccepted");
+    const trackingStatus = getCookie("trackingAccepted");
 
-    // Function to load tracking scripts
     function enableTracking() {
         console.log("Tracking enabled.");
         loadGoogleTracker();
@@ -37,7 +56,6 @@ document.addEventListener("DOMContentLoaded", function () {
         document.body.appendChild(script);
     }
 
-    // Insert the tracking banner into the page
     function insertBanner() {
         fetch("/consent-banner/consent-banner.html")
             .then(response => response.text())
@@ -56,13 +74,13 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!banner) return;
 
         acceptBtn.addEventListener("click", function () {
-            localStorage.setItem("trackingAccepted", "true");
+            setCookie("trackingAccepted", "true", 365);
             banner.style.display = "none";
             enableTracking();
         });
 
         declineBtn.addEventListener("click", function () {
-            localStorage.setItem("trackingAccepted", "false");
+            setCookie("trackingAccepted", "false", 365);
             banner.style.display = "none";
         });
 
