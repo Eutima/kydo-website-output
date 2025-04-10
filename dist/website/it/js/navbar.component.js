@@ -51,6 +51,13 @@ class MyNavbar extends HTMLElement {
                 Prova KYDO!
             </a>
         </div>
+        <div class="side-nav-demo-button-wrapper">
+            <a 
+                href="https://web.kydo.ch"
+                class="waves-effect waves-light btn btn-white kydo-blue demo-button-nav-bar">
+                Login
+            </a>
+        </div>
     </ul>
     <ul id="languages" class="dropdown-content">
         <li><a href="/de/${currentPath}">DE</a></li>

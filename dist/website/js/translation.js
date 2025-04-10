@@ -15,7 +15,7 @@ class LanguageService {
     LANGUAGES = [
         'de','en','fr','it',
     ];
-    DEFAULT_LANGUAGE = 'en';
+    DEFAULT_LANGUAGE = 'de';
     
     localStorageService = new LocalStorageService();
 

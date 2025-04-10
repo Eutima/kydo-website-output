@@ -915,6 +915,25 @@ nav > div > ul > li > a {
     background: white;
 }
 
+.section-booking {
+    min-height: 100vh;
+    background: white;
+}
+
+.booking-component {
+    width: 100%;
+    height: 2000px; /* or however tall you expect the content to be */
+    border: none;
+    overflow: hidden;
+}
+
+@media (max-width: 1024px) {
+    .booking-component {
+        height: 2500px;
+    }
+}
+
+
 .blog-header {
     position: relative;
     height: 400px;
