@@ -23,9 +23,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const trackingStatus = getCookie("trackingAccepted");
 
     function enableTracking() {
-        console.log("Tracking enabled.");
         loadGoogleTracker();
         loadLinkedInTracker();
+        loadTeadsPixel();
     }
 
     function loadGoogleTracker() {
@@ -36,16 +36,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
         gtmScript.onload = function () {
             window.dataLayer = window.dataLayer || [];
+
             function gtag() {
                 dataLayer.push(arguments);
             }
+
             gtag("js", new Date());
             gtag("config", "AW-16898679223");
         };
     }
 
     function loadLinkedInTracker() {
-        window._linkedin_partner_id = "xxxxx";
+        window._linkedin_partner_id = "8216201";
         window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
         window._linkedin_data_partner_ids.push(_linkedin_partner_id);
 
@@ -54,6 +56,21 @@ document.addEventListener("DOMContentLoaded", function () {
         script.async = true;
         script.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
         document.body.appendChild(script);
+    }
+
+    function loadTeadsPixel() {
+        let teadsScript = document.createElement("script");
+        teadsScript.type = "text/javascript";
+        teadsScript.src = "https://p.teads.tv/teads-fellow.js";
+        teadsScript.async = true;
+        document.head.appendChild(teadsScript);
+
+        let inlineScript = document.createElement("script");
+        inlineScript.innerHTML = `
+        window.teads_e = window.teads_e || [];
+        window.teads_buyer_pixel_id = 13794;
+    `;
+        document.head.appendChild(inlineScript);
     }
 
     function insertBanner() {
